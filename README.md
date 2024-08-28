@@ -1,1 +1,1 @@
-# PLM
+# PLM (Protein Language Models) playground
