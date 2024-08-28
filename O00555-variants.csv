@@ -1,0 +1,2598 @@
+Chromosome,NTPosition,NTChange,AAPosition,AAChange,Phenotype
+19,13506221,C>A,2,A2S,"Developmental and epileptic encephalopathy, 42 (DEE42), Episodic ataxia type 2 (EA2)"
+19,13506220,G>A,2,A2V,"Developmental and epileptic encephalopathy, 42 (DEE42), Episodic ataxia type 2 (EA2)"
+19,13506218,G>A,3,R3C,"Developmental and epileptic encephalopathy, 42 (DEE42), Episodic ataxia type 2 (EA2)"
+19,13506218,G>C,3,R3G,"Developmental and epileptic encephalopathy, 42 (DEE42), Episodic ataxia type 2 (EA2)"
+19,13506211,C>A,5,G5V,
+19,13506201,C>G,8,M8I,
+19,13506199,G>A,9,P9L,"Developmental and epileptic encephalopathy, 42 (DEE42), Episodic ataxia type 2 (EA2)"
+19,13506200,G>A,9,P9S,
+19,13506197,C>A,10,A10S,
+19,13506196,G>A,10,A10V,"Developmental and epileptic encephalopathy, 42 (DEE42), Episodic ataxia type 2 (EA2), Inborn genetic diseases"
+19,13506193,C>T,11,R11H,
+19,13506190,T>C,12,Y12C,"Developmental and epileptic encephalopathy, 42 (DEE42), Episodic ataxia type 2 (EA2)"
+19,13506190,T>A,12,Y12F,"Developmental and epileptic encephalopathy, 42 (DEE42), Episodic ataxia type 2 (EA2)"
+19,13506191,A>G,12,Y12H,
+19,13506187,C>G,13,G13A,
+19,13506187,C>T,13,G13E,
+19,13506188,C>T,13,G13R,"Developmental and epileptic encephalopathy, 42 (DEE42), Episodic ataxia type 2 (EA2)"
+19,13506184,C>T,14,G14E,
+19,13506185,C>T,14,G14R,
+19,13506175,G>C,17,S17C,"Developmental and epileptic encephalopathy, 42 (DEE42), Episodic ataxia type 2 (EA2)"
+19,13506175,G>A,17,S17F,
+19,13506176,A>G,17,S17P,
+19,13506173,C>G,18,G18R,
+19,13506173,C>A,18,G18W,
+19,13506170,C>T,19,A19T,"Developmental and epileptic encephalopathy, 42 (DEE42), Episodic ataxia type 2 (EA2)"
+19,13506169,G>A,19,A19V,
+19,13506163,G>A,21,A21V,"Developmental and epileptic encephalopathy, 42 (DEE42), Episodic ataxia type 2 (EA2), Inborn genetic diseases"
+19,13506160,C>G,22,G22A,"Developmental and epileptic encephalopathy, 42 (DEE42), Episodic ataxia type 2 (EA2)"
+19,13506160,C>T,22,G22E,"Developmental and epileptic encephalopathy, 42 (DEE42), Episodic ataxia type 2 (EA2)"
+19,13506157,A>C,23,V23G,
+19,13506151,A>C,25,V25G,"Developmental and epileptic encephalopathy, 42 (DEE42), Episodic ataxia type 2 (EA2)"
+19,13506146,T>C,27,S27G,
+19,13506145,C>A,27,S27I,
+19,13506145,C>G,27,S27T,
+19,13506137,C>T,30,G30R,
+19,13506137,C>A,30,G30W,
+19,13506128,C>A,33,A33S,"Developmental and epileptic encephalopathy, 42 (DEE42), Episodic ataxia type 2 (EA2)"
+19,13506124,C>T,34,G34E,
+19,13506125,C>G,34,G34R,
+19,13506121,C>T,35,G35D,
+19,13506116,G>C,37,R37G,
+19,13506115,C>T,37,R37Q,
+19,13506116,G>A,37,R37W,
+19,13506109,C>T,39,G39D,
+19,13506107,C>G,40,G40R,
+19,13506107,C>A,40,G40W,
+19,13506103,T>A,41,Q41L,
+19,13506101,G>A,42,P42S,"Developmental and epileptic encephalopathy, 42 (DEE42)"
+19,13506098,C>T,43,G43R,
+19,13506094,G>C,44,A44G,
+19,13506095,C>T,44,A44T,"Developmental and epileptic encephalopathy, 42 (DEE42), Episodic ataxia type 2 (EA2), Migraine, familial hemiplegic, 1, Spinocerebellar ataxia type 6 (SCA6)"
+19,13506084,C>T,47,M47I,
+19,13506071,T>C,52,M52V,
+19,13506056,G>A,57,R57W,"Developmental and epileptic encephalopathy, 42 (DEE42), Episodic ataxia type 2 (EA2)"
+19,13506050,T>C,59,M59V,"Developmental and epileptic encephalopathy, 42 (DEE42)"
+19,13506034,G>T,64,P64H,
+19,13506034,G>A,64,P64L,"Developmental and epileptic encephalopathy, 42 (DEE42), Episodic ataxia type 2 (EA2)"
+19,13506035,G>A,64,P64S,"Developmental and epileptic encephalopathy, 42 (DEE42)"
+19,13506028,G>C,66,P66R,
+19,13506026,C>T,67,V67I,
+19,13506022,C>T,68,R68Q,"Developmental and epileptic encephalopathy, 42 (DEE42), Episodic ataxia type 2 (EA2)"
+19,13506016,T>C,70,N70S,"Developmental and epileptic encephalopathy, 42 (DEE42), Episodic ataxia type 2 (EA2), Inborn genetic diseases"
+19,13506013,C>T,71,C71Y,
+19,13506011,G>A,72,L72F,
+19,13506007,G>A,73,T73M,
+19,13506005,C>G,74,V74L,
+19,13506000,G>C,75,N75K,"Developmental and epileptic encephalopathy, 42 (DEE42), Episodic ataxia type 2 (EA2)"
+19,13505999,G>A,76,R76W,
+19,13505990,A>C,79,F79V,"Developmental and epileptic encephalopathy, 42 (DEE42), Episodic ataxia type 2 (EA2)"
+19,13505989,A>T,79,F79Y,
+19,13505975,C>G,84,D84H,
+19,13505971,T>A,85,N85I,
+19,13505971,T>C,85,N85S,"Developmental and epileptic encephalopathy, 42 (DEE42), Episodic ataxia type 2 (EA2)"
+19,13505969,C>A,86,V86L,
+19,13505966,C>T,87,V87M,
+19,13505959,T>C,89,K89R,
+19,13505947,T>A,93,K93M,
+19,13505932,G>A,98,P98L,"Developmental and epileptic encephalopathy, 42 (DEE42), Episodic ataxia type 2 (EA2)"
+19,13505933,G>A,98,P98S,
+19,13455210,G>A,99,P99L,
+19,13455204,T>G,101,E101A,
+19,13455205,C>T,101,E101K,"Developmental and epileptic encephalopathy, 42 (DEE42), Episodic ataxia type 2 (EA2)"
+19,13455205,C>G,101,E101Q,"Developmental and epileptic encephalopathy, 42 (DEE42), Developmental and epileptic encephalopathy 42 (DEE42)"
+19,13455197,C>T,103,M103I,
+19,13455198,A>G,103,M103T,
+19,13455190,C>T,106,A106T,
+19,13455189,G>A,106,A106V,
+19,13455182,G>C,108,I108M,"Developmental and epileptic encephalopathy, 42 (DEE42), Episodic ataxia type 2 (EA2)"
+19,13455184,T>C,108,I108V,"Developmental and epileptic encephalopathy, 42 (DEE42), Episodic ataxia type 2 (EA2)"
+19,13455177,G>A,110,A110V,
+19,13455169,T>C,113,I113V,"Developmental and epileptic encephalopathy, 42 (DEE42), Episodic ataxia type 2 (EA2)"
+19,13455160,C>A,116,A116S,
+19,13455160,C>T,116,A116T,"Developmental and epileptic encephalopathy, 42 (DEE42), Episodic ataxia type 2 (EA2)"
+19,13455159,G>A,116,A116V,
+19,13455152,C>G,118,E118D,
+19,13455141,G>A,122,P122L,
+19,13455139,C>T,123,D123N,"Developmental and epileptic encephalopathy, 42 (DEE42), Episodic ataxia type 2 (EA2)"
+19,13455138,T>A,123,D123V,Episodic ataxia type 2 (EA2)
+19,13455134,A>C,124,D124E,
+19,13455130,T>C,126,K126E,
+19,13455127,T>C,127,T127A,"Developmental and epileptic encephalopathy, 42 (DEE42), Episodic ataxia type 2 (EA2)"
+19,13455123,G>A,128,P128L,
+19,13455124,G>A,128,P128S,
+19,13455111,C>T,132,R132Q,
+19,13453006,C>T,137,E137K,
+19,13452997,A>G,140,F140L,
+19,13452993,A>G,141,I141T,
+19,13452991,C>T,142,G142R,
+19,13452987,A>T,143,I143N,
+19,13452982,A>C,145,C145G,"Developmental and epileptic encephalopathy, 42 (DEE42), Episodic ataxia type 2 (EA2)"
+19,13452976,C>T,147,E147K,"Developmental and epileptic encephalopathy, 42 (DEE42), Episodic ataxia type 2 (EA2)"
+19,13452961,T>C,152,I152V,
+19,13452957,A>G,153,I153T,"Developmental and epileptic encephalopathy, 42 (DEE42), Episodic ataxia type 2 (EA2)"
+19,13452958,T>C,153,I153V,
+19,13452938,G>T,159,F159L,
+19,13452927,G>A,163,S163F,"Developmental and epileptic encephalopathy, 42 (DEE42), Episodic ataxia type 2 (EA2)"
+19,13452914,A>C,167,N167K,
+19,13452915,T>C,167,N167S,
+19,13452913,C>T,168,G168S,"Developmental and epileptic encephalopathy, 42 (DEE42), Episodic ataxia type 2 (EA2)"
+19,13452907,T>C,170,N170D,
+19,13452904,C>T,171,V171I,
+19,13452896,G>T,173,D173E,Spinocerebellar ataxia type 6 (SCA6)
+19,13452889,C>G,176,V176L,"Developmental and epileptic encephalopathy, 42 (DEE42), Episodic ataxia type 2 (EA2)"
+19,13452889,C>T,176,V176M,CACNA1A-Related Disorder
+19,13452885,A>C,177,V177G,
+19,13452883,G>C,178,L178V,
+19,13452879,G>A,179,T179M,"Developmental and epileptic encephalopathy, 42 (DEE42), Episodic ataxia type 2 (EA2)"
+19,13452877,C>A,180,G180C,
+19,13371772,C>T,183,A183T,
+19,13371771,G>A,183,A183V,
+19,13371765,A>G,185,V185A,
+19,13371759,G>A,187,T187M,"Developmental and epileptic encephalopathy, 42 (DEE42), Episodic ataxia type 2 (EA2)"
+19,13371757,C>G,188,E188Q,"Developmental and epileptic encephalopathy, 42 (DEE42), Episodic ataxia type 2 (EA2)"
+19,13371747,A>G,191,L191P,
+19,13371744,C>T,192,R192Q,"Developmental and epileptic encephalopathy, 42 (DEE42), Episodic ataxia type 2 (EA2), Familial hemiplegic migraine, Migraine, familial hemiplegic, 1, Migraine, familial hemiplegic, 1 (FHM1)"
+19,13371745,G>A,192,R192W,"Cerebellar ataxia, Developmental and epileptic encephalopathy, 42 (DEE42), Episodic ataxia type 2 (EA2), Spastic paraparesis"
+19,13371741,G>A,193,T193M,"Developmental and epileptic encephalopathy, 42 (DEE42), Episodic ataxia type 2 (EA2)"
+19,13371735,C>T,195,R195K,"Developmental and epileptic encephalopathy, 42 (DEE42), Episodic ataxia type 2 (EA2), Migraine, familial hemiplegic, 1, Migraine, familial hemiplegic, 1 (FHM1)"
+19,13371730,C>T,197,V197I,"Developmental and epileptic encephalopathy, 42 (DEE42), Episodic ataxia type 2 (EA2)"
+19,13371727,G>A,198,R198*,"Developmental and epileptic encephalopathy, 42 (DEE42), Episodic ataxia type 2 (EA2)"
+19,13371727,G>C,198,R198G,
+19,13371726,C>T,198,R198Q,"Developmental and epileptic encephalopathy, 42 (DEE42), Episodic ataxia type 2 (EA2), Migraine, familial hemiplegic, 1, Spinocerebellar ataxia type 6 (SCA6)"
+19,13371717,C>T,201,R201Q,"Developmental and epileptic encephalopathy, 42 (DEE42), Episodic ataxia type 2 (EA2), Inborn genetic diseases"
+19,13371718,G>A,201,R201W,"Developmental and epileptic encephalopathy, 42 (DEE42), Episodic ataxia type 2 (EA2)"
+19,13371714,G>A,202,P202L,Episodic ataxia type 2 (EA2)
+19,13371712,G>C,203,L203V,Episodic ataxia type 2 (EA2)
+19,13371708,T>C,204,K204R,"Developmental and epileptic encephalopathy, 42 (DEE42), Episodic ataxia type 2 (EA2)"
+19,13371703,C>T,206,V206M,"Developmental and epileptic encephalopathy, 42 (DEE42), Episodic ataxia type 2 (EA2)"
+19,13371696,C>G,208,G208A,"Developmental and epileptic encephalopathy, 42 (DEE42), Episodic ataxia type 2 (EA2)"
+19,13371696,C>T,208,G208E,
+19,13371697,C>T,208,G208R,Inborn genetic diseases
+19,13371688,T>C,211,S211G,
+19,13365469,C>T,211,S211N,"Developmental and epileptic encephalopathy, 42 (DEE42), Episodic ataxia type 2 (EA2)"
+19,13365457,A>G,215,V215A,Episodic ataxia type 2 (EA2)
+19,13365458,C>T,215,V215I,"Developmental and epileptic encephalopathy, 42 (DEE42), Episodic ataxia type 2 (EA2)"
+19,13365455,G>T,216,L216M,
+19,13365448,G>A,218,S218L,"Developmental and epileptic encephalopathy, 42 (DEE42), Episodic ataxia type 2 (EA2), Familial hemiplegic migraine, Migraine, familial hemiplegic, 1, Migraine, familial hemiplegic, 1 (FHM1)"
+19,13365449,A>G,218,S218P,"Developmental and epileptic encephalopathy, 52 (DEE52), Episodic ataxia type 2 (EA2), Migraine, familial hemiplegic, 1, Spinocerebellar ataxia type 6 (SCA6)"
+19,13365448,G>C,218,S218W,Episodic ataxia type 2 (EA2)
+19,13365446,T>A,219,I219F,"Developmental and epileptic encephalopathy, 42 (DEE42), Episodic ataxia type 2 (EA2)"
+19,13365446,T>C,219,I219V,Disorder of sexual differentiation
+19,13365441,C>T,220,M220I,
+19,13365443,T>C,220,M220V,
+19,13365427,G>C,225,P225R,"Developmental and epileptic encephalopathy, 42 (DEE42)"
+19,13365421,A>C,227,L227R,Spinocerebellar ataxia type 6 (SCA6)
+19,13365416,T>C,229,I229V,"Developmental and epileptic encephalopathy, 42 (DEE42), Episodic ataxia type 2 (EA2)"
+19,13365413,C>G,230,G230R,"Developmental and epileptic encephalopathy, 42 (DEE42), Episodic ataxia type 2 (EA2)"
+19,13365413,C>T,230,G230S,"Developmental and epileptic encephalopathy, 42 (DEE42), Episodic ataxia type 2 (EA2)"
+19,13365412,C>A,230,G230V,"Migraine, familial hemiplegic, 1"
+19,13365409,A>C,231,L231R,"Developmental and epileptic encephalopathy, 42 (DEE42), Episodic ataxia type 2 (EA2), Migraine, familial hemiplegic, 1"
+19,13365403,A>G,233,L233P,"Developmental and epileptic encephalopathy, 42 (DEE42), Episodic ataxia type 2 (EA2)"
+19,13365401,A>G,234,F234L,
+19,13365392,T>C,237,I237V,"Global developmental delay (DD), Spinocerebellar ataxia type 6 (SCA6)"
+19,13365385,A>G,239,I239T,
+19,13365386,T>C,239,I239V,
+19,13365358,T>C,248,Y248C,"Episodic ataxia type 2 (EA2), Episodic ataxia 2 (EA2)"
+19,13365356,T>C,249,M249V,"Developmental and epileptic encephalopathy, 42 (DEE42), Episodic ataxia type 2 (EA2), Inborn genetic diseases"
+19,13365352,C>T,250,G250E,
+19,13365350,T>C,251,K251E,
+19,13365344,G>A,253,H253Y,"Developmental and epileptic encephalopathy, 42 (DEE42), Episodic ataxia type 2 (EA2), Episodic ataxia 2 (EA2)"
+19,13365341,T>C,254,T254A,"Developmental and epileptic encephalopathy, 42 (DEE42), Episodic ataxia type 2 (EA2)"
+19,13365340,G>T,254,T254N,"Developmental and epileptic encephalopathy, 42 (DEE42), Episodic ataxia type 2 (EA2)"
+19,13365334,C>A,256,C256F,"Developmental and epileptic encephalopathy, 42 (DEE42), Episodic ataxia type 2 (EA2)"
+19,13365335,A>G,256,C256R,"Episodic ataxia type 2 (EA2), Episodic ataxia 2 (EA2)"
+19,13365328,T>G,258,E258A,"Developmental and epileptic encephalopathy, 42 (DEE42), Episodic ataxia type 2 (EA2)"
+19,13365322,C>T,260,G260E,
+19,13359799,T>A,262,D262V,
+19,13359796,T>A,263,D263V,"Developmental and epileptic encephalopathy, 42 (DEE42), Episodic ataxia type 2 (EA2)"
+19,13359790,T>G,265,Q265P,
+19,13359790,T>C,265,Q265R,
+19,13359787,C>T,266,G266D,
+19,13359788,C>T,266,G266S,"Developmental and epileptic encephalopathy, 42 (DEE42), Episodic ataxia type 2 (EA2), Inborn genetic diseases"
+19,13359784,T>C,267,E267G,
+19,13359785,C>T,267,E267K,
+19,13359778,G>A,269,P269L,"Developmental and epileptic encephalopathy, 42 (DEE42), Episodic ataxia type 2 (EA2)"
+19,13359770,A>G,272,C272R,
+19,13359769,C>T,272,C272Y,"CACNA1A-Related Disorder, Developmental and epileptic encephalopathy, 42 (DEE42), Episodic ataxia type 2 (EA2)"
+19,13359763,G>A,274,T274I,"Developmental and epileptic encephalopathy, 42 (DEE42), Episodic ataxia type 2 (EA2)"
+19,13359757,T>C,276,E276G,
+19,13359752,C>A,278,A278S,
+19,13359752,C>T,278,A278T,"Developmental and epileptic encephalopathy, 42 (DEE42), Episodic ataxia type 2 (EA2)"
+19,13359751,G>A,278,A278V,
+19,13359749,G>A,279,R279C,"Developmental and epileptic encephalopathy, 42 (DEE42), Developmental and epileptic encephalopathy, 52 (DEE52), Episodic ataxia type 2 (EA2), Migraine, familial hemiplegic, 1, Spinocerebellar ataxia type 6 (SCA6)"
+19,13359748,C>T,279,R279H,
+19,13359745,G>A,280,T280I,"Developmental and epileptic encephalopathy, 42 (DEE42), Episodic ataxia type 2 (EA2)"
+19,13359746,T>G,280,T280P,
+19,13359739,G>A,282,P282L,
+19,13359740,G>T,282,P282T,
+19,13359736,T>C,283,N283S,"Developmental and epileptic encephalopathy, 42 (DEE42), Episodic ataxia type 2 (EA2), Inborn genetic diseases, Migraine, familial hemiplegic, 1, Spinocerebellar ataxia type 6 (SCA6)"
+19,13359733,C>A,284,G284V,"Developmental and epileptic encephalopathy, 42 (DEE42), Episodic ataxia type 2 (EA2)"
+19,13359731,T>G,285,T285P,
+19,13359727,T>C,286,K286R,
+19,13359724,C>T,287,C287Y,"Episodic ataxia type 2 (EA2), Episodic ataxia 2 (EA2)"
+19,13359718,G>T,289,P289H,
+19,13359719,G>A,289,P289S,
+19,13359708,T>G,292,E292D,
+19,13359710,C>T,292,E292K,
+19,13359707,C>T,293,G293R,"Developmental and epileptic encephalopathy, 42 (DEE42), Episodic ataxia type 2 (EA2), Spinocerebellar ataxia 6 (SCA6), Spinocerebellar ataxia type 6 (SCA6), Episodic ataxia 2 (EA2)"
+19,13359703,G>A,294,P294L,
+19,13359695,C>T,297,G297R,"Developmental and epileptic encephalopathy, 42 (DEE42), Episodic ataxia type 2 (EA2)"
+19,13359683,A>G,301,F301L,"Developmental and epileptic encephalopathy, 42 (DEE42), Episodic ataxia type 2 (EA2)"
+19,13359679,T>C,302,D302G,"Developmental and epileptic encephalopathy, 42 (DEE42), Episodic ataxia type 2 (EA2)"
+19,13359680,C>G,302,D302H,
+19,13359680,C>T,302,D302N,"Developmental and epileptic encephalopathy, 42 (DEE42), Episodic ataxia type 2 (EA2), Spinocerebellar ataxia type 6 (SCA6)"
+19,13359677,T>C,303,N303D,
+19,13359665,C>A,307,A307S,
+19,13359664,G>A,307,A307V,
+19,13359662,C>G,308,V308L,
+19,13359662,C>T,308,V308M,
+19,13359659,G>T,309,L309M,
+19,13359655,G>A,310,T310I,
+19,13359607,T>C,326,N326S,
+19,13335903,C>G,329,D329H,"Developmental and epileptic encephalopathy, 42 (DEE42), Episodic ataxia type 2 (EA2)"
+19,13335903,C>T,329,D329N,"Developmental and epileptic encephalopathy, 42 (DEE42), Episodic ataxia type 2 (EA2)"
+19,13335893,C>T,332,G332E,
+19,13335889,G>T,333,N333K,
+19,13335888,T>C,334,T334A,
+19,13335887,G>A,334,T334I,
+19,13335867,T>C,341,I341V,
+19,13335864,G>A,342,P342S,
+19,13335861,G>A,343,L343F,
+19,13335858,T>G,344,I344L,
+19,13335853,G>C,345,I345M,"Developmental and epileptic encephalopathy, 42 (DEE42), Episodic ataxia type 2 (EA2), Migraine, familial hemiplegic, 1"
+19,13335855,T>C,345,I345V,
+19,13335849,C>T,347,G347S,"Developmental and epileptic encephalopathy, 42 (DEE42), Episodic ataxia type 2 (EA2)"
+19,13335829,G>T,353,N353K,"Developmental and epileptic encephalopathy, 42 (DEE42), Inborn genetic diseases, Episodic ataxia type 2 (EA2)"
+19,13335828,G>A,354,L354F,"Migraine, familial hemiplegic, 1"
+19,13335827,A>T,354,L354H,
+19,13335828,G>C,354,L354V,
+19,13335825,C>G,355,V355L,
+19,13335821,A>G,356,L356P,"Developmental and epileptic encephalopathy, 42 (DEE42), Episodic ataxia type 2 (EA2)"
+19,13335818,C>T,357,G357D,
+19,13335816,C>T,358,V358M,
+19,13334474,C>T,368,E368K,
+19,13334471,G>A,369,R369W,"Developmental and epileptic encephalopathy, 42 (DEE42), Episodic ataxia type 2 (EA2)"
+19,13334458,C>T,373,R373Q,"Developmental and epileptic encephalopathy, 42 (DEE42), Episodic ataxia type 2 (EA2)"
+19,13334459,G>A,373,R373W,
+19,13334455,C>T,374,R374Q,"Inborn genetic diseases, Intellectual disability"
+19,13334434,C>G,381,R381P,
+19,13334434,C>T,381,R381Q,"Developmental and epileptic encephalopathy, 42 (DEE42), Episodic ataxia type 2 (EA2)"
+19,13334435,G>A,381,R381W,"Developmental and epileptic encephalopathy, 42 (DEE42), Episodic ataxia type 2 (EA2), Inborn genetic diseases"
+19,13334425,T>C,384,Q384R,"Developmental and epileptic encephalopathy, 42 (DEE42), Episodic ataxia type 2 (EA2)"
+19,13334416,C>T,387,R387H,
+19,13334411,G>A,389,L389F,"Episodic ataxia type 2 (EA2), Episodic ataxia 2 (EA2)"
+19,13334410,A>G,389,L389P,"Developmental and epileptic encephalopathy, 42 (DEE42), Episodic ataxia type 2 (EA2), Migraine, familial hemiplegic, 1"
+19,13334408,T>C,390,N390D,
+19,13334406,A>T,390,N390K,"Developmental and epileptic encephalopathy, 42 (DEE42), Episodic ataxia type 2 (EA2), Migraine, familial hemiplegic, 1, Spinocerebellar ataxia type 6 (SCA6)"
+19,13334407,T>C,390,N390S,"Developmental and epileptic encephalopathy, 42 (DEE42), Episodic ataxia type 2 (EA2)"
+19,13334405,C>T,391,G391R,"Developmental and epileptic encephalopathy, 42 (DEE42), Episodic ataxia type 2 (EA2)"
+19,13334402,A>C,392,Y392D,
+19,13334394,C>G,394,E394D,
+19,13334389,A>G,396,I396T,Intellectual disability
+19,13334387,A>C,397,S397A,"Developmental and epileptic encephalopathy, 42 (DEE42), Episodic ataxia type 2 (EA2)"
+19,13332925,T>A,400,E400V,"Episodic ataxia type 2 (EA2), Idiopathic hemiconvulsion-hemiplegia syndrome, Migraine, familial hemiplegic, 1, Spinocerebellar ataxia type 6 (SCA6)"
+19,13332915,G>C,403,I403M,
+19,13332911,C>T,405,A405T,"Developmental and epileptic encephalopathy, 42 (DEE42), Episodic ataxia type 2 (EA2), Spinocerebellar ataxia 6 (SCA6)"
+19,13332910,G>A,405,A405V,
+19,13332908,C>T,406,E406K,
+19,13332904,T>G,407,D407A,
+19,13332904,T>C,407,D407G,"Developmental and epileptic encephalopathy, 42 (DEE42), Episodic ataxia type 2 (EA2)"
+19,13332900,T>G,408,E408D,
+19,13332898,G>A,409,T409I,
+19,13332899,T>G,409,T409P,"Developmental and epileptic encephalopathy, 42 (DEE42), Episodic ataxia type 2 (EA2)"
+19,13332893,C>T,411,G411R,"Developmental and epileptic encephalopathy, 42 (DEE42), Episodic ataxia type 2 (EA2)"
+19,13332893,C>A,411,G411W,"Developmental and epileptic encephalopathy, 42 (DEE42), Episodic ataxia type 2 (EA2), Inborn genetic diseases"
+19,13332883,C>T,414,R414K,
+19,13332882,C>A,414,R414S,"Developmental and epileptic encephalopathy, 42 (DEE42), Episodic ataxia type 2 (EA2)"
+19,13332881,G>T,415,H415N,
+19,13332878,G>C,416,P416A,"Developmental and epileptic encephalopathy, 42 (DEE42), Episodic ataxia type 2 (EA2)"
+19,13332878,G>A,416,P416S,"Developmental and epileptic encephalopathy, 42 (DEE42), Episodic ataxia type 2 (EA2)"
+19,13332872,C>T,418,D418N,
+19,13330333,G>C,419,A419G,
+19,13330330,A>G,420,L420P,
+19,13330327,C>T,421,R421Q,"Developmental and epileptic encephalopathy, 42 (DEE42), Episodic ataxia type 2 (EA2)"
+19,13330328,G>A,421,R421W,"Developmental and epileptic encephalopathy, 42 (DEE42), Episodic ataxia type 2 (EA2)"
+19,13330324,C>T,422,R422K,
+19,13330321,G>T,423,T423N,
+19,13330322,T>G,423,T423P,
+19,13330322,T>A,423,T423S,
+19,13330318,G>C,424,T424S,
+19,13330316,T>C,425,I425V,
+19,13330312,T>C,426,K426R,"Developmental and epileptic encephalopathy, 42 (DEE42), Episodic ataxia type 2 (EA2)"
+19,13330300,G>A,430,T430I,
+19,13330298,C>T,431,D431N,"Developmental and epileptic encephalopathy, 42 (DEE42), Episodic ataxia type 2 (EA2)"
+19,13330293,C>A,432,L432F,
+19,13330292,G>T,433,L433I,
+19,13330291,A>G,433,L433P,
+19,13330288,T>C,434,N434S,
+19,13330285,G>C,435,P435R,
+19,13330286,G>A,435,P435S,"Developmental and epileptic encephalopathy, 42 (DEE42), Episodic ataxia type 2 (EA2)"
+19,13330283,C>T,436,E436K,"Developmental and epileptic encephalopathy, 42 (DEE42), Episodic ataxia type 2 (EA2), Migraine, familial hemiplegic, 1, Spinocerebellar ataxia type 6 (SCA6)"
+19,13330276,G>C,438,A438G,
+19,13330274,C>T,439,E439K,
+19,13330271,C>G,440,D440H,
+19,13330266,C>G,441,Q441H,
+19,13330265,G>T,442,L442M,
+19,13330261,G>C,443,A443G,
+19,13330262,C>T,443,A443T,"Developmental and epileptic encephalopathy, 42 (DEE42), Episodic ataxia type 2 (EA2)"
+19,13330255,A>T,445,I445K,
+19,13330255,A>G,445,I445T,
+19,13330256,T>C,445,I445V,"Developmental and epileptic encephalopathy, 42 (DEE42), Episodic ataxia type 2 (EA2)"
+19,13330253,C>A,446,A446S,
+19,13330253,C>T,446,A446T,
+19,13330252,G>A,446,A446V,
+19,13330249,G>A,447,S447F,
+19,13330246,A>G,448,V448A,
+19,13330244,C>A,449,G449C,
+19,13330244,C>G,449,G449R,"Developmental and epileptic encephalopathy, 42 (DEE42), Episodic ataxia type 2 (EA2)"
+19,13317319,A>G,450,S450P,Vascular dementia
+19,13317310,C>T,453,A453T,"Developmental and epileptic encephalopathy, 42 (DEE42), Episodic ataxia type 2 (EA2), Inborn genetic diseases, Migraine, familial hemiplegic, 1, Spinocerebellar ataxia type 6 (SCA6)"
+19,13317306,C>T,454,R454Q,"Developmental and epileptic encephalopathy, 42 (DEE42), Episodic ataxia type 2 (EA2), Inborn genetic diseases"
+19,13317304,C>T,455,A455T,
+19,13317303,G>A,455,A455V,
+19,13317300,C>T,456,S456N,
+19,13317297,A>T,457,I457N,"Developmental and epileptic encephalopathy, 42 (DEE42), Episodic ataxia type 2 (EA2)"
+19,13317297,A>G,457,I457T,
+19,13317298,T>C,457,I457V,"Developmental and epileptic encephalopathy, 42 (DEE42), Episodic ataxia type 2 (EA2), Inborn genetic diseases"
+19,13317294,T>A,458,K458I,
+19,13317293,T>A,458,K458N,
+19,13317294,T>C,458,K458R,
+19,13317290,A>C,459,S459R,"Developmental and epileptic encephalopathy, 42 (DEE42), Episodic ataxia type 2 (EA2)"
+19,13317289,C>G,460,A460P,
+19,13317289,C>T,460,A460T,
+19,13317288,G>A,460,A460V,
+19,13317285,T>G,461,K461T,
+19,13317274,A>C,465,S465A,"Developmental and epileptic encephalopathy, 42 (DEE42), Episodic ataxia type 2 (EA2)"
+19,13317273,G>A,465,S465L,"Developmental and epileptic encephalopathy, 42 (DEE42), Episodic ataxia type 2 (EA2)"
+19,13317271,T>C,466,T466A,
+19,13317268,A>T,467,F467I,
+19,13317268,A>G,467,F467L,
+19,13317261,T>A,469,H469L,
+19,13317254,C>G,471,K471N,"Developmental and epileptic encephalopathy, 42 (DEE42), Episodic ataxia type 2 (EA2)"
+19,13317255,T>C,471,K471R,
+19,13317249,C>T,473,R473K,"Developmental and epileptic encephalopathy, 42 (DEE42), Episodic ataxia type 2 (EA2)"
+19,13317241,G>A,476,R476C,"Developmental and epileptic encephalopathy, 42 (DEE42), Episodic ataxia type 2 (EA2)"
+19,13317240,C>T,476,R476H,"Developmental and epileptic encephalopathy, 42 (DEE42), Episodic ataxia type 2 (EA2)"
+19,13317236,G>T,477,F477L,
+19,13317238,A>C,477,F477V,
+19,13317232,T>G,479,I479L,
+19,13317229,G>A,480,R480C,"Developmental and epileptic encephalopathy, 42 (DEE42), Episodic ataxia type 2 (EA2)"
+19,13317228,C>T,480,R480H,"Developmental and epileptic encephalopathy, 42 (DEE42), Episodic ataxia type 2 (EA2)"
+19,13317226,G>A,481,R481C,"Developmental and epileptic encephalopathy, 42 (DEE42), Episodic ataxia type 2 (EA2)"
+19,13317225,C>T,481,R481H,"Developmental and epileptic encephalopathy, 42 (DEE42), Episodic ataxia type 2 (EA2), Inborn genetic diseases"
+19,13317225,C>A,481,R481L,"Developmental and epileptic encephalopathy, 42 (DEE42), Episodic ataxia type 2 (EA2)"
+19,13317222,A>G,482,M482T,
+19,13317223,T>C,482,M482V,"Developmental and epileptic encephalopathy, 42 (DEE42), Episodic ataxia type 2 (EA2)"
+19,13317214,T>C,485,T485A,
+19,13317202,A>G,489,Y489H,
+19,13317201,T>G,489,Y489S,
+19,13317195,G>A,491,T491I,
+19,13317196,T>A,491,T491S,
+19,13317193,C>T,492,V492I,
+19,13317185,A>T,494,S494R,
+19,13317182,C>G,495,L495F,
+19,13317177,G>C,497,A497G,Inborn genetic diseases
+19,13317174,A>T,498,L498H,
+19,13317168,G>A,500,T500M,"Developmental and epileptic encephalopathy, 42 (DEE42), Episodic ataxia type 2 (EA2), Hereditary episodic ataxia, Episodic ataxia 2 (EA2)"
+19,13317162,C>T,502,C502Y,
+19,13317160,C>A,503,V503F,
+19,13317154,T>C,505,I505V,"Developmental and epileptic encephalopathy, 42 (DEE42), Episodic ataxia type 2 (EA2)"
+19,13317141,T>C,509,N509S,
+19,13317137,C>G,510,Q510H,
+19,13317136,G>A,511,P511S,
+19,13317133,C>T,512,E512K,"Developmental and epileptic encephalopathy, 42 (DEE42), Episodic ataxia type 2 (EA2), Migraine, familial hemiplegic, 1, Spinocerebellar ataxia type 6 (SCA6)"
+19,13317133,C>G,512,E512Q,"Developmental and epileptic encephalopathy, 42 (DEE42), Episodic ataxia type 2 (EA2)"
+19,13317121,C>T,516,D516N,"Developmental and epileptic encephalopathy, 42 (DEE42), Episodic ataxia type 2 (EA2), Inborn genetic diseases"
+19,13317116,G>C,517,F517L,
+19,13312781,T>A,519,Y519F,
+19,13317112,A>T,519,Y519N,
+19,13312778,T>C,520,Y520C,"Developmental and epileptic encephalopathy, 42 (DEE42), Episodic ataxia type 2 (EA2)"
+19,13312762,G>T,525,F525L,
+19,13312755,G>A,528,L528F,
+19,13312754,A>G,528,L528P,Spinocerebellar ataxia type 6 (SCA6)
+19,13312752,A>G,529,F529L,"Developmental and epileptic encephalopathy, 42 (DEE42), Episodic ataxia type 2 (EA2)"
+19,13312749,T>A,530,M530L,
+19,13312749,T>C,530,M530V,"Developmental and epileptic encephalopathy, 42 (DEE42), Episodic ataxia type 2 (EA2)"
+19,13312743,C>T,532,E532K,"Developmental and epileptic encephalopathy, 42 (DEE42), Episodic ataxia type 2 (EA2)"
+19,13312732,T>C,535,I535M,
+19,13312733,A>G,535,I535T,
+19,13312734,T>C,535,I535V,
+19,13312726,C>A,537,M537I,"Developmental and epileptic encephalopathy, 42 (DEE42), Episodic ataxia type 2 (EA2)"
+19,13312728,T>G,537,M537L,
+19,13312722,C>T,539,G539R,"Developmental and epileptic encephalopathy, 42 (DEE42), Episodic ataxia type 2 (EA2)"
+19,13312712,G>A,542,T542M,
+19,13312709,C>T,543,R543Q,
+19,13312710,G>A,543,R543W,"Developmental and epileptic encephalopathy, 42 (DEE42), Episodic ataxia type 2 (EA2)"
+19,13312707,G>C,544,P544A,
+19,13312706,G>T,544,P544H,
+19,13312699,G>C,546,F546L,
+19,13312697,T>C,547,H547R,
+19,13312694,G>C,548,S548C,
+19,13312682,C>A,552,C552F,
+19,13312680,A>C,553,F553V,
+19,13312674,A>G,555,C555R,"Developmental and epileptic encephalopathy, 42 (DEE42), Episodic ataxia type 2 (EA2)"
+19,13312670,C>T,556,G556E,
+19,13308528,C>A,557,V557F,Inborn genetic diseases
+19,13308521,A>G,559,I559T,"Developmental and epileptic encephalopathy, 42 (DEE42), Episodic ataxia type 2 (EA2)"
+19,13308507,C>T,564,E564K,"Developmental and epileptic encephalopathy, 42 (DEE42), Episodic ataxia type 2 (EA2)"
+19,13308501,T>G,566,I566L,Inborn genetic diseases
+19,13308500,A>C,566,I566S,
+19,13308491,A>G,569,V569A,"Developmental and epileptic encephalopathy, 42 (DEE42), Episodic ataxia type 2 (EA2)"
+19,13308489,T>C,570,I570V,
+19,13308479,C>T,573,G573D,
+19,13308467,C>T,577,G577E,
+19,13308462,T>C,579,S579G,"Developmental and epileptic encephalopathy, 42 (DEE42), Episodic ataxia type 2 (EA2)"
+19,13308458,A>T,580,V580E,
+19,13308452,C>T,582,R582Q,"Developmental and epileptic encephalopathy, 42 (DEE42), Developmental and epileptic encephalopathy, 52 (DEE52), Episodic ataxia type 2 (EA2), Familial hemiplegic migraine, Migraine, familial hemiplegic, 1, Spinocerebellar ataxia 6 (SCA6), Spinocerebellar ataxia type 6 (SCA6), Sporadic hemiplegic migraine, Migraine, familial hemiplegic, 1 (FHM1)"
+19,13308449,G>A,583,A583V,"Developmental and epileptic encephalopathy, 42 (DEE42), Episodic ataxia type 2 (EA2)"
+19,13308435,G>A,588,R588C,
+19,13308434,C>T,588,R588H,
+19,13308430,A>C,589,I589M,
+19,13308416,T>G,594,K594T,"Developmental and epileptic encephalopathy, 42 (DEE42), Episodic ataxia type 2 (EA2)"
+19,13308250,A>C,595,Y595D,
+19,13308244,C>T,597,A597T,
+19,13308241,A>G,598,S598P,
+19,13308230,G>T,601,N601K,
+19,13308228,A>G,602,L602P,"Developmental and epileptic encephalopathy, 42 (DEE42), Episodic ataxia type 2 (EA2)"
+19,13308223,C>T,604,V604I,"Developmental and epileptic encephalopathy, 42 (DEE42), Episodic ataxia type 2 (EA2)"
+19,13308219,G>A,605,S605F,
+19,13308217,G>T,606,L606I,
+19,13308214,G>A,607,L607F,"Developmental and epileptic encephalopathy, 42 (DEE42), Episodic ataxia type 2 (EA2)"
+19,13308211,T>C,608,N608D,
+19,13308211,T>A,608,N608Y,
+19,13308203,C>T,610,M610I,"Developmental and epileptic encephalopathy, 42 (DEE42), Episodic ataxia type 2 (EA2), Inborn genetic diseases"
+19,13308194,G>C,613,I613M,"Developmental and epileptic encephalopathy, 42 (DEE42), Episodic ataxia type 2 (EA2), Migraine, familial hemiplegic, 1, Spinocerebellar ataxia type 6 (SCA6)"
+19,13308192,A>G,614,I614T,
+19,13308189,C>T,615,S615N,
+19,13308190,T>G,615,S615R,"Developmental and epileptic encephalopathy, 42 (DEE42), Developmental and epileptic encephalopathy, 52 (DEE52), Episodic ataxia type 2 (EA2), Migraine, familial hemiplegic, 1, Spinocerebellar ataxia type 6 (SCA6)"
+19,13308183,A>G,617,L617S,"Developmental and epileptic encephalopathy, 52 (DEE52), Episodic ataxia type 2 (EA2), Migraine, familial hemiplegic, 1, Spinocerebellar ataxia type 6 (SCA6)"
+19,13308166,A>G,623,F623L,
+19,13308163,T>A,624,I624F,"Developmental and epileptic encephalopathy, 42 (DEE42), Spinocerebellar ataxia type 6 (SCA6)"
+19,13308163,T>C,624,I624V,
+19,13308159,A>G,625,V625A,
+19,13308159,A>T,625,V625D,
+19,13308157,C>T,626,V626I,"Developmental and epileptic encephalopathy, 42 (DEE42), Episodic ataxia type 2 (EA2), Inborn genetic diseases"
+19,13308151,C>T,628,A628T,"Developmental and epileptic encephalopathy, 42 (DEE42), Episodic ataxia type 2 (EA2)"
+19,13308150,G>A,628,A628V,"Developmental and epileptic encephalopathy, 42 (DEE42), Episodic ataxia type 2 (EA2)"
+19,13308148,G>T,629,L629I,
+19,13308144,A>G,630,L630S,
+19,13308144,A>C,630,L630W,
+19,13308137,C>T,632,M632I,
+19,13308135,T>C,633,Q633R,"Developmental and epileptic encephalopathy, 42 (DEE42)"
+19,13308133,G>T,634,L634I,
+19,13308127,C>G,636,G636R,
+19,13308127,C>T,636,G636S,"Developmental and epileptic encephalopathy, 42 (DEE42), Episodic ataxia type 2 (EA2)"
+19,13308123,C>T,637,G637D,"Episodic ataxia type 2 (EA2), Episodic ataxia 2 (EA2)"
+19,13308124,C>T,637,G637S,
+19,13308123,C>A,637,G637V,"Developmental and epileptic encephalopathy, 42 (DEE42), Episodic ataxia type 2 (EA2)"
+19,13307844,C>T,642,D642N,"Developmental and epileptic encephalopathy, 42 (DEE42)"
+19,13307829,G>C,647,P647A,
+19,13307828,G>A,647,P647L,"Developmental and epileptic encephalopathy, 42 (DEE42), Episodic ataxia type 2 (EA2)"
+19,13307817,C>T,651,D651N,
+19,13307817,C>A,651,D651Y,
+19,13307808,G>A,654,P654S,
+19,13307804,G>T,655,A655E,
+19,13307799,T>C,657,I657V,"Developmental and epileptic encephalopathy, 42 (DEE42), Episodic ataxia type 2 (EA2)"
+19,13307795,A>T,658,M658K,"Developmental and epileptic encephalopathy, 42 (DEE42), Episodic ataxia type 2 (EA2)"
+19,13307793,T>C,659,T659A,"Developmental and epileptic encephalopathy, 42 (DEE42), Episodic ataxia type 2 (EA2)"
+19,13307790,C>T,660,V660M,"Developmental and epileptic encephalopathy, 42 (DEE42), Episodic ataxia type 2 (EA2)"
+19,13303877,G>A,665,T665M,"Developmental and epileptic encephalopathy, 42 (DEE42), Episodic ataxia type 2 (EA2), Familial hemiplegic migraine, Inborn genetic diseases, Migraine, familial hemiplegic, 1, Migraine, familial hemiplegic, 1 (FHM1), Migraine, sporadic hemiplegic, with progressive cerebellar ataxia, Spinocerebellar ataxia type 6 (SCA6), Episodic ataxia 2 (EA2)"
+19,13303878,T>A,665,T665S,
+19,13303875,C>G,666,G666R,
+19,13303875,C>T,666,G666S,
+19,13303872,C>T,667,E667K,"Developmental and epileptic encephalopathy, 42 (DEE42), Episodic ataxia type 2 (EA2)"
+19,13303863,T>G,670,N670H,
+19,13303860,C>T,671,E671K,"Developmental and epileptic encephalopathy, 42 (DEE42), Episodic ataxia type 2 (EA2)"
+19,13303854,T>A,673,M673L,
+19,13303853,A>G,673,M673T,
+19,13303850,T>A,674,Y674F,
+19,13303848,C>T,675,D675N,"Developmental and epileptic encephalopathy, 42 (DEE42), Episodic ataxia type 2 (EA2), Inborn genetic diseases"
+19,13303848,C>A,675,D675Y,
+19,13303844,C>T,676,G676E,
+19,13303845,C>T,676,G676R,"Developmental and epileptic encephalopathy, 42 (DEE42), Episodic ataxia type 2 (EA2)"
+19,13303845,C>A,676,G676W,
+19,13303831,C>G,680,Q680H,
+19,13303832,T>C,680,Q680R,
+19,13303829,C>G,681,G681A,
+19,13303830,C>G,681,G681R,
+19,13303826,C>A,682,G682V,
+19,13303824,C>T,683,V683M,
+19,13303815,C>T,686,G686S,"Developmental and epileptic encephalopathy, 42 (DEE42), Episodic ataxia type 2 (EA2)"
+19,13303809,C>A,688,V688L,"Developmental and epileptic encephalopathy, 42 (DEE42), Episodic ataxia type 2 (EA2)"
+19,13303809,C>T,688,V688M,
+19,13303799,A>G,691,I691T,"Developmental and epileptic encephalopathy, 42 (DEE42), Episodic ataxia type 2 (EA2)"
+19,13303796,T>C,692,Y692C,"Developmental and epileptic encephalopathy, 42 (DEE42), Episodic ataxia type 2 (EA2)"
+19,13303797,A>G,692,Y692H,
+19,13303794,A>T,693,F693I,Episodic ataxia type 2 (EA2)
+19,13303788,C>T,695,V695I,
+19,13303781,G>A,697,T697M,
+19,13303772,C>T,700,G700E,"Developmental and epileptic encephalopathy, 52 (DEE52), Episodic ataxia type 2 (EA2), Migraine, familial hemiplegic, 1, Spinocerebellar ataxia type 6 (SCA6)"
+19,13303613,T>A,702,Y702F,"Developmental and epileptic encephalopathy, 42 (DEE42), Episodic ataxia type 2 (EA2)"
+19,13303611,T>A,703,T703S,"Developmental and epileptic encephalopathy, 42 (DEE42), Episodic ataxia type 2 (EA2)"
+19,13303600,A>C,706,N706K,"Developmental and epileptic encephalopathy, 42 (DEE42), Episodic ataxia type 2 (EA2)"
+19,13303594,G>T,708,F708L,"Developmental and epileptic encephalopathy, 42 (DEE42)"
+19,13303595,A>G,708,F708S,"Developmental and epileptic encephalopathy, 42 (DEE42), Episodic ataxia type 2 (EA2)"
+19,13303591,C>A,709,L709F,"Developmental and epileptic encephalopathy, 42 (DEE42), Episodic ataxia type 2 (EA2)"
+19,13303587,T>A,711,I711F,
+19,13303585,G>C,711,I711M,"Developmental and epileptic encephalopathy, 42 (DEE42), Developmental and epileptic encephalopathy, 52 (DEE52), Episodic ataxia type 2 (EA2), Migraine, familial hemiplegic, 1, Spinocerebellar ataxia type 6 (SCA6)"
+19,13303586,A>T,711,I711N,
+19,13303587,T>C,711,I711V,"Developmental and epileptic encephalopathy, 42 (DEE42), Episodic ataxia type 2 (EA2), Inborn genetic diseases"
+19,13303583,G>T,712,A712D,
+19,13303584,C>A,712,A712S,"Developmental and epileptic encephalopathy, 42 (DEE42)"
+19,13303584,C>T,712,A712T,Developmental and epileptic encephalopathy 42 (DEE42)
+19,13303580,A>G,713,V713A,"Familial hemiplegic migraine, Migraine, familial hemiplegic, 1, Migraine, familial hemiplegic, 1 (FHM1)"
+19,13303581,C>T,713,V713M,"Developmental and epileptic encephalopathy, 42 (DEE42), Developmental and epileptic encephalopathy, 52 (DEE52), Episodic ataxia type 2 (EA2), Migraine, familial hemiplegic, 1, Spinocerebellar ataxia type 6 (SCA6)"
+19,13303576,G>C,714,D714E,"Familial hemiplegic migraine, Migraine, familial hemiplegic, 1, Migraine, familial hemiplegic, 1 (FHM1)"
+19,13303577,T>C,714,D714G,"Developmental and epileptic encephalopathy, 42 (DEE42), Episodic ataxia type 2 (EA2)"
+19,13303574,T>C,715,N715S,
+19,13303574,T>G,715,N715T,"Developmental and epileptic encephalopathy, 42 (DEE42)"
+19,13303569,C>T,717,A717T,"Developmental and epileptic encephalopathy, 42 (DEE42), Episodic ataxia type 2 (EA2)"
+19,13303563,C>T,719,A719T,"Developmental and epileptic encephalopathy, 42 (DEE42), Episodic ataxia type 2 (EA2)"
+19,13303556,T>C,721,E721G,
+19,13300653,C>T,726,E726K,
+19,13300649,T>G,727,Q727P,
+19,13300649,T>C,727,Q727R,
+19,13300637,T>G,731,E731A,"Developmental and epileptic encephalopathy, 42 (DEE42), Episodic ataxia type 2 (EA2), Inborn genetic diseases"
+19,13300634,G>C,732,A732G,
+19,13300632,C>T,733,A733T,
+19,13300631,G>A,733,A733V,"Developmental and epileptic encephalopathy, 42 (DEE42), Episodic ataxia type 2 (EA2)"
+19,13300628,T>A,734,N734I,
+19,13300627,G>T,734,N734K,"Developmental and epileptic encephalopathy, 42 (DEE42)"
+19,13300626,G>C,735,Q735E,
+19,13300625,T>C,735,Q735R,
+19,13300622,T>G,736,K736T,
+19,13300620,G>A,737,L737F,
+19,13300619,A>G,737,L737P,"Developmental and epileptic encephalopathy, 42 (DEE42), Episodic ataxia type 2 (EA2)"
+19,13300616,G>A,738,A738V,
+19,13300601,T>C,743,K743R,
+19,13300592,G>T,746,A746E,
+19,13300584,T>C,749,S749G,"Developmental and epileptic encephalopathy, 42 (DEE42), Episodic ataxia type 2 (EA2)"
+19,13300582,A>C,749,S749R,
+19,13300584,T>G,749,S749R,
+19,13300581,G>C,750,P750A,
+19,13300574,G>T,752,S752Y,"Developmental and epileptic encephalopathy, 42 (DEE42), Episodic ataxia type 2 (EA2)"
+19,13300571,G>C,753,A753G,
+19,13300572,C>A,753,A753S,
+19,13300572,C>T,753,A753T,"Developmental and epileptic encephalopathy, 42 (DEE42), Episodic ataxia type 2 (EA2), Inborn genetic diseases"
+19,13300571,G>A,753,A753V,"Developmental and epileptic encephalopathy, 42 (DEE42), Episodic ataxia type 2 (EA2), Inborn genetic diseases"
+19,13300568,G>A,754,A754V,
+19,13300566,T>C,755,N755D,"Developmental and epileptic encephalopathy, 42 (DEE42), Episodic ataxia type 2 (EA2)"
+19,13300562,A>T,756,M756K,
+19,13300563,T>G,756,M756L,
+19,13300562,A>G,756,M756T,
+19,13300563,T>C,756,M756V,
+19,13300556,A>G,758,I758T,
+19,13300557,T>C,758,I758V,
+19,13299352,T>C,761,K761E,"Developmental and epileptic encephalopathy, 42 (DEE42), Episodic ataxia type 2 (EA2), Inborn genetic diseases"
+19,13299348,T>C,762,E762G,
+19,13299346,G>T,763,Q763K,"Developmental and epileptic encephalopathy, 42 (DEE42), Episodic ataxia type 2 (EA2), Inborn genetic diseases"
+19,13299341,C>G,764,Q764H,
+19,13299343,G>T,764,Q764K,
+19,13299339,T>C,765,K765R,
+19,13299329,C>G,768,K768N,"Developmental and epileptic encephalopathy, 42 (DEE42), Episodic ataxia type 2 (EA2)"
+19,13299328,G>A,769,P769S,
+19,13299325,C>A,770,A770S,
+19,13299325,C>T,770,A770T,
+19,13299324,G>A,770,A770V,"Developmental and epileptic encephalopathy, 42 (DEE42), Episodic ataxia type 2 (EA2)"
+19,13299316,C>G,773,V773L,
+19,13299316,C>T,773,V773M,
+19,13299313,A>G,774,W774R,
+19,13299303,C>T,777,R777Q,
+19,13299304,G>A,777,R777W,
+19,13299298,T>A,779,S779C,"Developmental and epileptic encephalopathy, 42 (DEE42), Episodic ataxia type 2 (EA2)"
+19,13299297,C>T,779,S779N,
+19,13299297,C>G,779,S779T,"Developmental and epileptic encephalopathy, 42 (DEE42), Episodic ataxia type 2 (EA2)"
+19,13299293,C>G,780,E780D,
+19,13299295,C>T,780,E780K,
+19,13299291,A>G,781,M781T,
+19,13299289,G>C,782,R782G,
+19,13299288,C>G,782,R782P,Spinocerebellar ataxia type 6 (SCA6)
+19,13299288,C>T,782,R782Q,
+19,13299281,C>G,784,Q784H,"Developmental and epileptic encephalopathy, 42 (DEE42), Episodic ataxia type 2 (EA2)"
+19,13299282,T>C,784,Q784R,
+19,13299278,G>C,785,N785K,"Developmental and epileptic encephalopathy, 42 (DEE42), Episodic ataxia type 2 (EA2)"
+19,13299279,T>G,785,N785T,
+19,13299276,A>C,786,L786W,
+19,13299273,A>C,787,L787R,
+19,13299271,C>T,788,A788T,
+19,13299267,C>T,789,S789N,
+19,13299265,G>C,790,R790G,
+19,13299264,C>T,790,R790Q,
+19,13299265,G>A,790,R790W,
+19,13299260,C>A,791,E791D,
+19,13299259,C>A,792,A792S,"Developmental and epileptic encephalopathy, 42 (DEE42), Episodic ataxia type 2 (EA2)"
+19,13299259,C>T,792,A792T,
+19,13299258,G>A,792,A792V,
+19,13299255,A>G,793,L793P,
+19,13299255,A>T,793,L793Q,
+19,13299252,T>A,794,Y794F,"Developmental and epileptic encephalopathy, 42 (DEE42), Episodic ataxia type 2 (EA2)"
+19,13299250,T>A,795,N795Y,
+19,13299242,C>T,797,M797I,"Developmental and epileptic encephalopathy, 42 (DEE42), Episodic ataxia type 2 (EA2)"
+19,13299243,A>G,797,M797T,"Episodic ataxia type 2 (EA2), Episodic ataxia 2 (EA2)"
+19,13299244,T>C,797,M797V,
+19,13299240,T>G,798,D798A,
+19,13299240,T>C,798,D798G,
+19,13299241,C>G,798,D798H,
+19,13299241,C>T,798,D798N,"Developmental and epileptic encephalopathy, 42 (DEE42), Episodic ataxia type 2 (EA2)"
+19,13299240,T>A,798,D798V,"Amyotrophic lateral sclerosis (ALS), Cerebellar ataxia"
+19,13299237,G>A,799,P799L,
+19,13299238,G>T,799,P799T,
+19,13299233,G>C,800,D800E,"Developmental and epileptic encephalopathy, 42 (DEE42), Episodic ataxia type 2 (EA2)"
+19,13299235,C>T,800,D800N,
+19,13299231,T>C,801,E801G,
+19,13299232,C>T,801,E801K,
+19,13299229,G>A,802,R802C,
+19,13299229,G>T,802,R802S,"Developmental and epileptic encephalopathy, 42 (DEE42), Episodic ataxia type 2 (EA2), Inborn genetic diseases, Migraine, familial hemiplegic, 1, Spinocerebellar ataxia type 6 (SCA6)"
+19,13299226,A>T,803,W803R,
+19,13299220,C>A,805,A805S,
+19,13299220,C>T,805,A805T,
+19,13299216,G>A,806,A806V,
+19,13299213,T>C,807,Y807C,
+19,13299211,T>C,808,T808A,
+19,13299210,G>T,808,T808K,
+19,13299210,G>A,808,T808M,
+19,13299210,G>C,808,T808R,
+19,13299211,T>A,808,T808S,"Developmental and epileptic encephalopathy, 42 (DEE42), Episodic ataxia type 2 (EA2)"
+19,13299207,C>T,809,R809Q,"Developmental and epileptic encephalopathy, 42 (DEE42), Episodic ataxia type 2 (EA2)"
+19,13299204,T>G,810,H810P,
+19,13299198,C>A,812,R812L,"Developmental and epileptic encephalopathy, 42 (DEE42), Episodic ataxia type 2 (EA2), Inborn genetic diseases"
+19,13299198,C>T,812,R812Q,"Developmental and epileptic encephalopathy, 42 (DEE42), Episodic ataxia type 2 (EA2)"
+19,13299199,G>A,812,R812W,"Developmental and epileptic encephalopathy, 42 (DEE42), Episodic ataxia type 2 (EA2)"
+19,13299193,C>T,814,D814N,
+19,13299189,A>G,815,M815T,
+19,13299190,T>C,815,M815V,
+19,13299177,A>G,819,L819S,
+19,13299171,C>T,821,R821Q,
+19,13299160,C>T,825,V825M,"Developmental and epileptic encephalopathy, 42 (DEE42), Episodic ataxia type 2 (EA2)"
+19,13299157,C>T,826,D826N,
+19,13299149,C>G,828,Q828H,
+19,13299150,T>C,828,Q828R,"Developmental and epileptic encephalopathy, 42 (DEE42), Episodic ataxia type 2 (EA2)"
+19,13299146,C>G,829,E829D,"Developmental and epileptic encephalopathy, 42 (DEE42), Episodic ataxia type 2 (EA2), Inborn genetic diseases"
+19,13299148,C>T,829,E829K,
+19,13299145,T>C,830,N830D,"Episodic ataxia type 2 (EA2), Migraine, familial hemiplegic, 1"
+19,13299143,G>C,830,N830K,"Developmental and epileptic encephalopathy, 42 (DEE42), Episodic ataxia type 2 (EA2)"
+19,13299142,G>A,831,R831C,"Developmental and epileptic encephalopathy, 42 (DEE42), Episodic ataxia type 2 (EA2)"
+19,13299141,C>T,831,R831H,
+19,13299141,C>G,831,R831P,"Developmental and epileptic encephalopathy, 42 (DEE42), Episodic ataxia type 2 (EA2)"
+19,13299142,G>T,831,R831S,"Developmental and epileptic encephalopathy, 42 (DEE42), Episodic ataxia type 2 (EA2)"
+19,13299137,G>C,832,N832K,
+19,13299138,T>C,832,N832S,
+19,13299132,T>G,834,N834T,"Developmental and epileptic encephalopathy, 42 (DEE42), Episodic ataxia type 2 (EA2), Inborn genetic diseases"
+19,13299125,G>C,836,N836K,
+19,13299123,T>C,837,K837R,"Developmental and epileptic encephalopathy, 42 (DEE42), Episodic ataxia type 2 (EA2)"
+19,13299121,T>C,838,S838G,
+19,13299120,C>A,838,S838I,"Developmental and epileptic encephalopathy, 42 (DEE42), Episodic ataxia type 2 (EA2)"
+19,13299119,G>T,838,S838R,
+19,13299118,G>C,839,R839G,
+19,13299117,C>T,839,R839Q,
+19,13299118,G>A,839,R839W,
+19,13299115,C>T,840,A840T,
+19,13299114,G>A,840,A840V,
+19,13299112,C>A,841,A841S,"Developmental and epileptic encephalopathy, 42 (DEE42), Episodic ataxia type 2 (EA2)"
+19,13299111,G>A,841,A841V,
+19,13299109,C>T,842,E842K,
+19,13299102,G>T,844,T844N,
+19,13299099,A>G,845,V845A,
+19,13299100,C>T,845,V845M,"Developmental and epileptic encephalopathy, 42 (DEE42), Episodic ataxia type 2 (EA2)"
+19,13299095,G>C,846,D846E,
+19,13299094,G>C,847,Q847E,
+19,13299090,C>T,848,R848H,
+19,13299084,C>T,850,G850D,
+19,13299085,C>T,850,G850S,
+19,13299080,C>A,851,Q851H,
+19,13299078,T>C,852,Q852R,
+19,13299073,C>G,854,A854P,
+19,13299073,C>T,854,A854T,
+19,13299069,T>G,855,E855A,"Developmental and epileptic encephalopathy, 42 (DEE42), Episodic ataxia type 2 (EA2)"
+19,13299070,C>T,855,E855K,
+19,13299067,C>T,856,D856N,
+19,13299057,C>T,859,R859K,
+19,13299052,G>C,861,Q861E,"Developmental and epileptic encephalopathy, 42 (DEE42), Episodic ataxia type 2 (EA2)"
+19,13299049,C>T,862,A862T,
+19,13299046,G>A,863,R863C,
+19,13299045,C>T,863,R863H,
+19,13299045,C>A,863,R863L,
+19,13299046,G>T,863,R863S,"Developmental and epileptic encephalopathy, 42 (DEE42), Episodic ataxia type 2 (EA2)"
+19,13299039,T>A,865,H865L,
+19,13299038,G>C,865,H865Q,
+19,13299036,T>C,866,D866G,
+19,13299033,C>G,867,R867P,"Developmental and epileptic encephalopathy, 42 (DEE42), Episodic ataxia type 2 (EA2), Inborn genetic diseases"
+19,13299033,C>T,867,R867Q,
+19,13299031,C>T,868,A868T,"Developmental and epileptic encephalopathy, 42 (DEE42), Episodic ataxia type 2 (EA2)"
+19,13299030,G>A,868,A868V,
+19,13299027,C>G,869,R869P,
+19,13299027,C>T,869,R869Q,"Developmental and epileptic encephalopathy, 42 (DEE42), Episodic ataxia type 2 (EA2)"
+19,13299028,G>A,869,R869W,
+19,13299025,C>A,870,D870Y,
+19,13299022,G>C,871,P871A,
+19,13299021,G>T,871,P871H,"Developmental and epileptic encephalopathy, 42 (DEE42), Episodic ataxia type 2 (EA2)"
+19,13299022,G>A,871,P871S,"Developmental and epileptic encephalopathy, 42 (DEE42), Episodic ataxia type 2 (EA2)"
+19,13299017,G>T,872,S872R,
+19,13299016,C>A,873,G873C,
+19,13299015,C>T,873,G873D,
+19,13299016,C>G,873,G873R,
+19,13299013,A>C,874,S874A,"Developmental and epileptic encephalopathy, 42 (DEE42), Episodic ataxia type 2 (EA2)"
+19,13299012,G>A,874,S874L,"Developmental and epileptic encephalopathy, 42 (DEE42), Episodic ataxia type 2 (EA2)"
+19,13299013,A>G,874,S874P,
+19,13299009,G>T,875,A875E,
+19,13299009,G>A,875,A875V,"Developmental and epileptic encephalopathy, 42 (DEE42), Episodic ataxia type 2 (EA2)"
+19,13299006,C>T,876,G876D,
+19,13299007,C>T,876,G876S,"Developmental and epileptic encephalopathy, 42 (DEE42), Episodic ataxia type 2 (EA2)"
+19,13299003,A>G,877,L877P,
+19,13299000,T>A,878,D878V,Inborn genetic diseases
+19,13298997,G>C,879,A879G,
+19,13298997,G>A,879,A879V,"Developmental and epileptic encephalopathy, 42 (DEE42), Episodic ataxia type 2 (EA2)"
+19,13298994,C>A,880,R880L,
+19,13298995,G>A,880,R880W,"Developmental and epileptic encephalopathy, 42 (DEE42), Episodic ataxia type 2 (EA2)"
+19,13298991,C>G,881,R881T,
+19,13298988,G>A,882,P882L,
+19,13298989,G>A,882,P882S,
+19,13298989,G>T,882,P882T,
+19,13298982,G>A,884,A884V,"Developmental and epileptic encephalopathy, 42 (DEE42), Episodic ataxia type 2 (EA2)"
+19,13298976,C>T,886,S886N,
+19,13298967,G>C,889,A889G,
+19,13298968,C>T,889,A889T,
+19,13298963,C>G,890,E890D,
+19,13298964,T>C,890,E890G,"Developmental and epileptic encephalopathy, 42 (DEE42), Episodic ataxia type 2 (EA2)"
+19,13298965,C>T,890,E890K,
+19,13298962,G>T,891,L891M,
+19,13298961,A>T,891,L891Q,"Developmental and epileptic encephalopathy, 42 (DEE42), Episodic ataxia type 2 (EA2)"
+19,13298961,A>C,891,L891R,
+19,13298959,T>C,892,S892G,"Developmental and epileptic encephalopathy, 42 (DEE42)"
+19,13298957,G>C,892,S892R,
+19,13298955,C>G,893,R893P,
+19,13298955,C>T,893,R893Q,"Developmental and epileptic encephalopathy, 42 (DEE42), Episodic ataxia type 2 (EA2), Inborn genetic diseases"
+19,13298956,G>A,893,R893W,"Developmental and epileptic encephalopathy, 42 (DEE42), Episodic ataxia type 2 (EA2), Inborn genetic diseases"
+19,13298950,C>G,895,G895R,"Developmental and epileptic encephalopathy, 42 (DEE42), Episodic ataxia type 2 (EA2)"
+19,13298947,G>C,896,P896A,
+19,13298946,G>A,896,P896L,"Developmental and epileptic encephalopathy, 42 (DEE42), Episodic ataxia type 2 (EA2)"
+19,13298946,G>C,896,P896R,"Developmental and epileptic encephalopathy, 42 (DEE42), Episodic ataxia type 2 (EA2), Inborn genetic diseases, Episodic ataxia 2 (EA2)"
+19,13298947,G>T,896,P896T,
+19,13298940,C>T,898,G898D,
+19,13298941,C>G,898,G898R,"Developmental and epileptic encephalopathy, 42 (DEE42), Episodic ataxia type 2 (EA2)"
+19,13298941,C>T,898,G898S,"Developmental and epileptic encephalopathy, 42 (DEE42), Episodic ataxia type 2 (EA2), Inborn genetic diseases, Migraine, familial hemiplegic, 1"
+19,13298937,C>T,899,R899H,"Developmental and epileptic encephalopathy, 42 (DEE42), Episodic ataxia type 2 (EA2)"
+19,13298938,G>T,899,R899S,
+19,13298933,C>G,900,E900D,
+19,13298935,C>T,900,E900K,
+19,13298931,G>A,901,S901L,
+19,13298931,G>C,901,S901W,
+19,13298927,G>C,902,D902E,"Developmental and epileptic encephalopathy, 42 (DEE42), Episodic ataxia type 2 (EA2)"
+19,13298928,T>C,902,D902G,
+19,13298929,C>A,902,D902Y,"Developmental and epileptic encephalopathy, 42 (DEE42), Episodic ataxia type 2 (EA2)"
+19,13298925,T>G,903,H903P,"Developmental and epileptic encephalopathy, 42 (DEE42), Episodic ataxia type 2 (EA2)"
+19,13298925,T>C,903,H903R,
+19,13298926,G>A,903,H903Y,
+19,13298923,G>T,904,H904N,
+19,13298920,C>A,905,A905S,
+19,13298917,G>C,906,R906G,
+19,13298916,C>T,906,R906Q,"Developmental and epileptic encephalopathy, 42 (DEE42), Episodic ataxia type 2 (EA2)"
+19,13298913,T>C,907,E907G,
+19,13298910,C>T,908,G908D,
+19,13298911,C>T,908,G908S,
+19,13298907,C>A,909,S909I,
+19,13298907,C>T,909,S909N,
+19,13298907,C>G,909,S909T,
+19,13298905,G>T,910,L910M,
+19,13298904,A>T,910,L910Q,"Developmental and epileptic encephalopathy, 42 (DEE42), Episodic ataxia type 2 (EA2)"
+19,13298904,A>C,910,L910R,"Developmental and epileptic encephalopathy, 42 (DEE42), Episodic ataxia type 2 (EA2)"
+19,13298902,C>G,911,E911Q,
+19,13298896,G>C,913,P913A,
+19,13298895,G>T,913,P913H,
+19,13298896,G>A,913,P913S,"Developmental and epileptic encephalopathy, 42 (DEE42), Episodic ataxia type 2 (EA2), Inborn genetic diseases"
+19,13298892,C>G,914,G914A,
+19,13298892,C>T,914,G914E,
+19,13298886,C>A,916,W916L,
+19,13298882,C>G,917,E917D,"Developmental and epileptic encephalopathy, 42 (DEE42), Episodic ataxia type 2 (EA2), Inborn genetic diseases"
+19,13298884,C>T,917,E917K,"Developmental and epileptic encephalopathy, 42 (DEE42), Episodic ataxia type 2 (EA2)"
+19,13298884,C>G,917,E917Q,
+19,13298881,C>A,918,G918C,"Developmental and epileptic encephalopathy, 42 (DEE42)"
+19,13298880,C>A,918,G918V,
+19,13298878,C>T,919,E919K,"Developmental and epileptic encephalopathy, 42 (DEE42), Episodic ataxia type 2 (EA2)"
+19,13298876,C>G,919,E919D,
+19,13298874,G>C,920,A920G,"Developmental and epileptic encephalopathy, 42 (DEE42), Episodic ataxia type 2 (EA2)"
+19,13298874,G>A,920,A920V,
+19,13298872,C>T,921,E921K,
+19,13298868,C>A,922,R922L,"Developmental and epileptic encephalopathy, 42 (DEE42), Episodic ataxia type 2 (EA2), Inborn genetic diseases"
+19,13298868,C>G,922,R922P,
+19,13298868,C>T,922,R922Q,
+19,13298865,C>G,923,G923A,
+19,13298866,C>T,923,G923S,
+19,13298860,C>T,925,A925T,
+19,13298859,G>A,925,A925V,"Developmental and epileptic encephalopathy, 42 (DEE42), Episodic ataxia type 2 (EA2)"
+19,13298857,C>T,926,G926R,"Developmental and epileptic encephalopathy, 42 (DEE42), Episodic ataxia type 2 (EA2)"
+19,13298854,C>T,927,D927N,
+19,13298850,G>A,928,P928L,"Developmental and epileptic encephalopathy, 42 (DEE42), Episodic ataxia type 2 (EA2), Inborn genetic diseases"
+19,13298847,T>C,929,H929R,
+19,13298844,C>G,930,R930P,
+19,13298844,C>T,930,R930Q,
+19,13298845,G>A,930,R930W,"Developmental and epileptic encephalopathy, 42 (DEE42), Episodic ataxia type 2 (EA2)"
+19,13298840,C>A,931,R931S,
+19,13298838,T>A,932,H932L,
+19,13298837,G>T,932,H932Q,CACNA1A-related disorders
+19,13298836,C>T,933,V933M,"Developmental and epileptic encephalopathy, 42 (DEE42), Episodic ataxia type 2 (EA2)"
+19,13298831,G>C,934,H934Q,
+19,13298829,C>T,935,R935Q,"Developmental and epileptic encephalopathy, 42 (DEE42), Episodic ataxia type 2 (EA2), Migraine, familial hemiplegic, 1"
+19,13298830,G>A,935,R935W,"Developmental and epileptic encephalopathy, 42 (DEE42), Episodic ataxia type 2 (EA2)"
+19,13298827,G>C,936,Q936E,"Developmental and epileptic encephalopathy, 42 (DEE42), Episodic ataxia type 2 (EA2)"
+19,13298825,C>A,936,Q936H,"Developmental and epileptic encephalopathy, 42 (DEE42), Episodic ataxia type 2 (EA2)"
+19,13298826,T>A,936,Q936L,
+19,13298826,T>G,936,Q936P,
+19,13298826,T>C,936,Q936R,
+19,13298824,C>G,937,G937R,"Developmental and epileptic encephalopathy, 42 (DEE42), Episodic ataxia type 2 (EA2)"
+19,13298823,C>A,937,G937V,
+19,13298824,C>A,937,G937W,
+19,13298820,C>T,938,G938D,"Developmental and epileptic encephalopathy, 42 (DEE42), Episodic ataxia type 2 (EA2)"
+19,13298821,C>G,938,G938R,"Developmental and epileptic encephalopathy, 42 (DEE42), Episodic ataxia type 2 (EA2)"
+19,13298820,C>A,938,G938V,"Developmental and epileptic encephalopathy, 42 (DEE42), Episodic ataxia type 2 (EA2)"
+19,13298817,C>A,939,S939I,
+19,13298815,T>C,940,R940G,"Developmental and epileptic encephalopathy, 42 (DEE42), Episodic ataxia type 2 (EA2)"
+19,13298814,C>T,940,R940K,"Developmental and epileptic encephalopathy, 42 (DEE42), Episodic ataxia type 2 (EA2)"
+19,13298810,C>G,941,E941D,
+19,13298808,C>T,942,S942N,
+19,13298807,G>C,942,S942R,
+19,13298806,G>A,943,R943C,"Developmental and epileptic encephalopathy, 42 (DEE42), Episodic ataxia type 2 (EA2)"
+19,13298805,C>T,943,R943H,
+19,13298800,C>T,945,G945R,"Developmental and epileptic encephalopathy, 42 (DEE42), Episodic ataxia type 2 (EA2)"
+19,13298796,G>A,946,S946F,
+19,13298797,A>T,946,S946T,
+19,13298796,G>T,946,S946Y,
+19,13298793,G>A,947,P947L,
+19,13298793,G>C,947,P947R,
+19,13298791,G>A,948,R948C,"Developmental and epileptic encephalopathy, 42 (DEE42), Episodic ataxia type 2 (EA2)"
+19,13298790,C>T,948,R948H,
+19,13298791,G>T,948,R948S,
+19,13298787,G>A,949,T949M,
+19,13298781,G>A,951,A951V,"Developmental and epileptic encephalopathy, 42 (DEE42), Episodic ataxia type 2 (EA2)"
+19,13298777,G>T,952,D952E,"Developmental and epileptic encephalopathy, 42 (DEE42), Episodic ataxia type 2 (EA2)"
+19,13298775,C>G,953,G953A,
+19,13298775,C>T,953,G953E,
+19,13298776,C>T,953,G953R,"Developmental and epileptic encephalopathy, 42 (DEE42), Episodic ataxia type 2 (EA2)"
+19,13298773,C>T,954,E954K,
+19,13298768,A>C,955,H955Q,
+19,13298770,G>A,955,H955Y,"Developmental and epileptic encephalopathy, 42 (DEE42), Episodic ataxia type 2 (EA2)"
+19,13298766,C>A,956,R956L,"Developmental and epileptic encephalopathy, 42 (DEE42), Episodic ataxia type 2 (EA2)"
+19,13298766,C>T,956,R956Q,"Developmental and epileptic encephalopathy, 42 (DEE42), Episodic ataxia type 2 (EA2), Inborn genetic diseases"
+19,13298763,C>T,957,R957H,
+19,13298764,G>T,957,R957S,
+19,13298760,T>A,958,H958L,
+19,13298761,G>T,958,H958N,"Developmental and epileptic encephalopathy, 42 (DEE42), Episodic ataxia type 2 (EA2), Inborn genetic diseases"
+19,13298760,T>C,958,H958R,
+19,13298758,G>A,959,R959C,
+19,13298754,G>A,960,A960V,"Developmental and epileptic encephalopathy, 42 (DEE42), Episodic ataxia type 2 (EA2)"
+19,13298752,G>C,961,H961D,
+19,13298751,T>G,961,H961P,"Developmental and epileptic encephalopathy, 42 (DEE42), Episodic ataxia type 2 (EA2)"
+19,13298752,G>A,961,H961Y,"Developmental and epileptic encephalopathy, 42 (DEE42), Episodic ataxia type 2 (EA2)"
+19,13298749,G>A,962,R962C,"Developmental and epileptic encephalopathy, 42 (DEE42), Episodic ataxia type 2 (EA2)"
+19,13298748,C>T,962,R962H,
+19,13298748,C>A,962,R962L,
+19,13298742,G>T,964,P964H,Inborn genetic diseases
+19,13298742,G>C,964,P964R,
+19,13298743,G>A,964,P964S,"Developmental and epileptic encephalopathy, 42 (DEE42), Episodic ataxia type 2 (EA2), Migraine, familial hemiplegic, 1, Spinocerebellar ataxia type 6 (SCA6)"
+19,13298740,C>T,965,G965R,"Developmental and epileptic encephalopathy, 42 (DEE42), Episodic ataxia type 2 (EA2)"
+19,13298737,C>T,966,E966K,"Developmental and epileptic encephalopathy, 42 (DEE42), Episodic ataxia type 2 (EA2)"
+19,13298737,C>G,966,E966Q,
+19,13298734,C>T,967,E967K,Episodic ataxia type 2 (EA2)
+19,13298733,T>A,967,E967V,
+19,13298730,C>T,968,G968D,
+19,13298728,G>C,969,P969A,Episodic ataxia type 2 (EA2)
+19,13298727,G>C,969,P969R,
+19,13298724,T>C,970,E970G,"Developmental and epileptic encephalopathy, 42 (DEE42), Episodic ataxia type 2 (EA2)"
+19,13298725,C>T,970,E970K,
+19,13298719,T>C,972,K972E,"Developmental and epileptic encephalopathy, 42 (DEE42), Episodic ataxia type 2 (EA2)"
+19,13298716,C>A,973,A973S,
+19,13298715,G>A,973,A973V,
+19,13298711,C>G,974,E974D,
+19,13298709,C>A,975,R975L,"Developmental and epileptic encephalopathy, 42 (DEE42), Episodic ataxia type 2 (EA2), Migraine, familial hemiplegic, 1, Spinocerebellar ataxia type 6 (SCA6)"
+19,13298709,C>T,975,R975Q,"Developmental and epileptic encephalopathy, 42 (DEE42), Episodic ataxia type 2 (EA2)"
+19,13298703,G>A,977,A977V,"Developmental and epileptic encephalopathy, 42 (DEE42), Episodic ataxia type 2 (EA2)"
+19,13298700,C>G,978,R978P,
+19,13298700,C>T,978,R978Q,
+19,13298701,G>A,978,R978W,"Developmental and epileptic encephalopathy, 42 (DEE42), Episodic ataxia type 2 (EA2), Inborn genetic diseases"
+19,13298698,G>A,979,H979Y,
+19,13298695,G>A,980,R980C,"Developmental and epileptic encephalopathy, 42 (DEE42), Episodic ataxia type 2 (EA2)"
+19,13298695,G>C,980,R980G,
+19,13298694,C>T,980,R980H,
+19,13298695,G>T,980,R980S,
+19,13298689,C>T,982,G982S,"Developmental and epileptic encephalopathy, 42 (DEE42), Episodic ataxia type 2 (EA2)"
+19,13298686,T>C,983,S983G,
+19,13298685,C>T,983,S983N,
+19,13298683,G>C,984,R984G,
+19,13298682,C>A,984,R984L,
+19,13298680,G>C,985,P985A,
+19,13298679,G>A,985,P985L,
+19,13298680,G>A,985,P985S,
+19,13298677,C>A,986,A986S,
+19,13298677,C>T,986,A986T,"Developmental and epileptic encephalopathy, 42 (DEE42), Episodic ataxia type 2 (EA2)"
+19,13298676,G>A,986,A986V,"Developmental and epileptic encephalopathy, 42 (DEE42), Episodic ataxia type 2 (EA2)"
+19,13298674,G>C,987,R987G,"Developmental and epileptic encephalopathy, 42 (DEE42), Episodic ataxia type 2 (EA2)"
+19,13298673,C>A,987,R987L,
+19,13298673,C>G,987,R987P,"Developmental and epileptic encephalopathy, 42 (DEE42), Episodic ataxia type 2 (EA2)"
+19,13298674,G>A,987,R987W,"Developmental and epileptic encephalopathy, 42 (DEE42), Episodic ataxia type 2 (EA2)"
+19,13298671,C>A,988,G988C,
+19,13298670,C>T,988,G988D,"Developmental and epileptic encephalopathy, 42 (DEE42), Episodic ataxia type 2 (EA2)"
+19,13298671,C>T,988,G988S,
+19,13298667,C>T,989,G989D,
+19,13298668,C>T,989,G989S,
+19,13298662,C>T,991,G991S,"Developmental and epileptic encephalopathy, 42 (DEE42), Episodic ataxia type 2 (EA2)"
+19,13298661,C>A,991,G991V,"Developmental and epileptic encephalopathy, 42 (DEE42), Episodic ataxia type 2 (EA2)"
+19,13298658,T>C,992,E992G,
+19,13298659,C>T,992,E992K,
+19,13298659,C>G,992,E992Q,"Developmental and epileptic encephalopathy, 42 (DEE42), Episodic ataxia type 2 (EA2)"
+19,13298658,T>A,992,E992V,"Developmental and epileptic encephalopathy, 42 (DEE42), Episodic ataxia type 2 (EA2), Inborn genetic diseases"
+19,13298656,C>T,993,G993S,
+19,13298651,C>G,994,E994D,"Developmental and epileptic encephalopathy, 42 (DEE42), Episodic ataxia type 2 (EA2)"
+19,13298649,C>A,995,G995V,"Developmental and epileptic encephalopathy, 42 (DEE42), Episodic ataxia type 2 (EA2)"
+19,13298647,G>C,996,P996A,
+19,13298646,G>A,996,P996L,
+19,13298646,G>C,996,P996R,"Developmental and epileptic encephalopathy, 42 (DEE42), Episodic ataxia type 2 (EA2)"
+19,13298643,T>C,997,D997G,
+19,13298644,C>T,997,D997N,"Developmental and epileptic encephalopathy, 42 (DEE42), Episodic ataxia type 2 (EA2)"
+19,13298640,C>T,998,G998E,"Developmental and epileptic encephalopathy, 42 (DEE42), Episodic ataxia type 2 (EA2), Migraine, familial hemiplegic, 1, Spinocerebellar ataxia type 6 (SCA6)"
+19,13298641,C>T,998,G998R,"Developmental and epileptic encephalopathy, 42 (DEE42), Episodic ataxia type 2 (EA2), Migraine, familial hemiplegic, 1, Spinocerebellar ataxia type 6 (SCA6)"
+19,13298637,C>T,999,G999D,
+19,13298631,C>T,1001,R1001H,
+19,13298631,C>A,1001,R1001L,"Developmental and epileptic encephalopathy, 42 (DEE42), Episodic ataxia type 2 (EA2)"
+19,13298631,C>G,1001,R1001P,"Developmental and epileptic encephalopathy, 42 (DEE42), Episodic ataxia type 2 (EA2)"
+19,13298629,T>C,1002,R1002G,Inborn genetic diseases
+19,13298629,T>A,1002,R1002W,"Developmental and epileptic encephalopathy, 42 (DEE42), Episodic ataxia type 2 (EA2)"
+19,13298619,T>C,1005,H1005R,
+19,13298616,C>A,1006,R1006L,
+19,13298616,C>G,1006,R1006P,"Developmental and epileptic encephalopathy, 42 (DEE42), Episodic ataxia type 2 (EA2)"
+19,13298616,C>T,1006,R1006Q,"Developmental and epileptic encephalopathy, 42 (DEE42), Episodic ataxia type 2 (EA2)"
+19,13298617,G>A,1006,R1006W,"Developmental and epileptic encephalopathy, 42 (DEE42), Episodic ataxia type 2 (EA2), Inborn genetic diseases"
+19,13298611,C>T,1008,G1008S,
+19,13298608,C>T,1009,A1009T,
+19,13298607,G>A,1009,A1009V,
+19,13298605,G>C,1010,P1010A,"Developmental and epileptic encephalopathy, 42 (DEE42), Episodic ataxia type 2 (EA2), Inborn genetic diseases"
+19,13298604,G>A,1010,P1010L,
+19,13298601,G>T,1011,A1011D,
+19,13298602,C>T,1011,A1011T,
+19,13298599,T>C,1012,T1012A,
+19,13298598,G>T,1012,T1012K,"Developmental and epileptic encephalopathy, 42 (DEE42), Episodic ataxia type 2 (EA2), Inborn genetic diseases"
+19,13298598,G>A,1012,T1012M,"Developmental and epileptic encephalopathy, 42 (DEE42), Episodic ataxia type 2 (EA2)"
+19,13298599,T>G,1012,T1012P,
+19,13298596,A>G,1013,Y1013H,
+19,13298591,C>A,1014,E1014D,"Developmental and epileptic encephalopathy, 42 (DEE42), Episodic ataxia type 2 (EA2)"
+19,13298593,C>T,1014,E1014K,"Developmental and epileptic encephalopathy, 42 (DEE42), Episodic ataxia type 2 (EA2), Inborn genetic diseases, Intellectual disability"
+19,13298592,T>A,1014,E1014V,
+19,13298590,C>T,1015,G1015R,"Developmental and epileptic encephalopathy, 42 (DEE42), Episodic ataxia type 2 (EA2), Inborn genetic diseases"
+19,13298589,C>A,1015,G1015V,
+19,13298586,T>G,1016,D1016A,
+19,13298585,G>C,1016,D1016E,"Developmental and epileptic encephalopathy, 42 (DEE42), Episodic ataxia type 2 (EA2)"
+19,13298587,C>T,1016,D1016N,"Developmental and epileptic encephalopathy, 42 (DEE42), Episodic ataxia type 2 (EA2)"
+19,13298584,C>G,1017,A1017P,
+19,13298584,C>A,1017,A1017S,
+19,13298584,C>T,1017,A1017T,
+19,13298583,G>A,1017,A1017V,
+19,13298580,C>G,1018,R1018P,"Developmental and epileptic encephalopathy, 42 (DEE42), Episodic ataxia type 2 (EA2)"
+19,13298580,C>T,1018,R1018Q,"Developmental and epileptic encephalopathy, 42 (DEE42), Episodic ataxia type 2 (EA2)"
+19,13298581,G>A,1018,R1018W,"Developmental and epileptic encephalopathy, 42 (DEE42), Episodic ataxia type 2 (EA2)"
+19,13298578,T>C,1019,R1019G,
+19,13298577,C>A,1019,R1019M,
+19,13298573,C>G,1020,E1020D,
+19,13298575,C>T,1020,E1020K,
+19,13298575,C>G,1020,E1020Q,
+19,13298570,G>T,1021,D1021E,"Developmental and epileptic encephalopathy, 42 (DEE42), Episodic ataxia type 2 (EA2)"
+19,13298572,C>T,1021,D1021N,
+19,13298569,T>C,1022,K1022E,
+19,13298568,T>A,1022,K1022M,
+19,13298566,C>T,1023,E1023K,"Developmental and epileptic encephalopathy, 42 (DEE42), Episodic ataxia type 2 (EA2)"
+19,13298562,C>T,1024,R1024Q,"Developmental and epileptic encephalopathy, 42 (DEE42), Episodic ataxia type 2 (EA2)"
+19,13298563,G>A,1024,R1024W,
+19,13298558,C>A,1025,R1025S,
+19,13298555,A>T,1026,H1026Q,"Developmental and epileptic encephalopathy, 42 (DEE42), Episodic ataxia type 2 (EA2)"
+19,13298556,T>C,1026,H1026R,"Developmental and epileptic encephalopathy, 42 (DEE42), Episodic ataxia type 2 (EA2)"
+19,13298554,G>C,1027,R1027G,"Developmental and epileptic encephalopathy, 42 (DEE42), Episodic ataxia type 2 (EA2)"
+19,13298553,C>A,1027,R1027L,
+19,13298553,C>T,1027,R1027Q,
+19,13298554,G>A,1027,R1027W,
+19,13298550,C>A,1028,R1028M,
+19,13298544,T>A,1030,K1030I,
+19,13286963,C>G,1031,E1031D,
+19,13286964,T>C,1031,E1031G,
+19,13286965,C>T,1031,E1031K,
+19,13286960,G>T,1032,N1032K,
+19,13286961,T>C,1032,N1032S,
+19,13286961,T>G,1032,N1032T,
+19,13286959,G>C,1033,Q1033E,
+19,13286955,C>T,1034,G1034D,"Developmental and epileptic encephalopathy, 42 (DEE42), Episodic ataxia type 2 (EA2)"
+19,13286956,C>T,1034,G1034S,"Developmental and epileptic encephalopathy, 42 (DEE42), Episodic ataxia type 2 (EA2)"
+19,13286952,G>A,1035,S1035F,
+19,13286950,C>T,1036,G1036R,"Developmental and epileptic encephalopathy, 42 (DEE42), Episodic ataxia type 2 (EA2)"
+19,13286947,C>A,1037,V1037F,
+19,13286947,C>T,1037,V1037I,
+19,13286947,C>G,1037,V1037L,
+19,13286944,G>A,1038,P1038S,
+19,13286941,C>T,1039,V1039M,
+19,13286937,G>A,1040,S1040L,"Developmental and epileptic encephalopathy, 42 (DEE42), Episodic ataxia type 2 (EA2)"
+19,13286937,G>C,1040,S1040W,
+19,13286935,C>T,1041,G1041S,
+19,13286934,C>A,1041,G1041V,"Developmental and epileptic encephalopathy, 42 (DEE42), Episodic ataxia type 2 (EA2), Inborn genetic diseases"
+19,13286931,G>C,1042,P1042R,
+19,13286932,G>T,1042,P1042T,"Developmental and epileptic encephalopathy, 42 (DEE42), Episodic ataxia type 2 (EA2)"
+19,13286928,T>A,1043,N1043I,
+19,13286927,G>T,1043,N1043K,"Developmental and epileptic encephalopathy, 42 (DEE42), Episodic ataxia type 2 (EA2)"
+19,13286928,T>C,1043,N1043S,
+19,13286928,T>G,1043,N1043T,
+19,13286923,A>C,1045,S1045A,
+19,13286923,A>G,1045,S1045P,
+19,13286920,T>C,1046,T1046A,
+19,13286920,T>G,1046,T1046P,
+19,13286917,T>G,1047,T1047P,
+19,13286913,C>T,1048,R1048Q,
+19,13286914,G>A,1048,R1048W,"Developmental and epileptic encephalopathy, 42 (DEE42), Episodic ataxia type 2 (EA2)"
+19,13286911,G>A,1049,P1049S,
+19,13286911,G>T,1049,P1049T,"Developmental and epileptic encephalopathy, 42 (DEE42)"
+19,13286907,A>G,1050,I1050T,Spinocerebellar ataxia type 6 (SCA6)
+19,13286898,T>C,1053,D1053G,
+19,13286899,C>G,1053,D1053H,"Developmental and epileptic encephalopathy, 42 (DEE42), Episodic ataxia type 2 (EA2)"
+19,13286892,C>G,1055,G1055A,"Developmental and epileptic encephalopathy, 42 (DEE42), Episodic ataxia type 2 (EA2)"
+19,13286890,G>A,1056,R1056C,"Developmental and epileptic encephalopathy, 42 (DEE42), Episodic ataxia type 2 (EA2), Inborn genetic diseases"
+19,13286889,C>T,1056,R1056H,"Developmental and epileptic encephalopathy, 42 (DEE42), Episodic ataxia type 2 (EA2), Inborn genetic diseases"
+19,13286889,C>G,1056,R1056P,
+19,13286886,T>G,1057,Q1057P,"Developmental and epileptic encephalopathy, 42 (DEE42), Episodic ataxia type 2 (EA2)"
+19,13286882,G>C,1058,D1058E,
+19,13286881,G>A,1059,P1059S,"Developmental and epileptic encephalopathy, 42 (DEE42), Episodic ataxia type 2 (EA2), Inborn genetic diseases"
+19,13286877,G>A,1060,P1060L,
+19,13286877,G>C,1060,P1060R,"Developmental and epileptic encephalopathy, 42 (DEE42), Episodic ataxia type 2 (EA2)"
+19,13286878,G>A,1060,P1060S,"Developmental and epileptic encephalopathy, 42 (DEE42), Episodic ataxia type 2 (EA2)"
+19,13286872,C>T,1062,A1062T,
+19,13286866,C>T,1064,D1064N,
+19,13286866,C>A,1064,D1064Y,
+19,13286860,C>T,1066,D1066N,
+19,13286857,T>C,1067,N1067D,
+19,13286846,G>T,1070,N1070K,
+19,13286843,G>T,1071,N1071K,"Developmental and epileptic encephalopathy, 42 (DEE42), Episodic ataxia type 2 (EA2)"
+19,13286833,T>C,1075,T1075A,
+19,13286830,C>A,1076,A1076S,
+19,13286830,C>T,1076,A1076T,"Developmental and epileptic encephalopathy, 42 (DEE42), Episodic ataxia type 2 (EA2), Inborn genetic diseases"
+19,13286829,G>A,1076,A1076V,"Developmental and epileptic encephalopathy, 42 (DEE42), Episodic ataxia type 2 (EA2), Inborn genetic diseases, Migraine, familial hemiplegic, 1, Spinocerebellar ataxia type 6 (SCA6)"
+19,13286827,C>T,1077,E1077K,
+19,13286823,G>A,1078,S1078L,"Developmental and epileptic encephalopathy, 42 (DEE42), Episodic ataxia type 2 (EA2)"
+19,13286820,G>T,1079,A1079D,
+19,13286818,C>T,1080,A1080T,"Developmental and epileptic encephalopathy, 42 (DEE42), Episodic ataxia type 2 (EA2)"
+19,13286815,G>A,1081,P1081S,"Developmental and epileptic encephalopathy, 42 (DEE42), Episodic ataxia type 2 (EA2)"
+19,13286815,G>T,1081,P1081T,
+19,13286811,T>C,1082,H1082R,
+19,13286812,G>A,1082,H1082Y,
+19,13286809,C>G,1083,G1083R,
+19,13286809,C>T,1083,G1083S,"Developmental and epileptic encephalopathy, 42 (DEE42), Episodic ataxia type 2 (EA2), Inborn genetic diseases"
+19,13286804,G>C,1084,S1084R,
+19,13286805,C>G,1084,S1084T,
+19,13286803,G>C,1085,L1085V,
+19,13286794,C>A,1088,A1088S,
+19,13286794,C>T,1088,A1088T,"Developmental and epileptic encephalopathy, 42 (DEE42), Episodic ataxia type 2 (EA2), Inborn genetic diseases"
+19,13286791,C>A,1089,G1089C,"Developmental and epileptic encephalopathy, 42 (DEE42), Episodic ataxia type 2 (EA2), Inborn genetic diseases"
+19,13286791,C>T,1089,G1089S,"Developmental and epileptic encephalopathy, 42 (DEE42), Episodic ataxia type 2 (EA2), Inborn genetic diseases"
+19,13286785,G>A,1091,P1091S,
+19,13286778,C>A,1093,S1093I,
+19,13286776,G>C,1094,P1094A,
+19,13286776,G>A,1094,P1094S,
+19,13286770,T>C,1096,K1096E,
+19,13286760,T>C,1099,N1099S,
+19,13286754,G>A,1101,T1101I,"Developmental and epileptic encephalopathy, 42 (DEE42), Episodic ataxia type 2 (EA2)"
+19,13286751,T>G,1102,D1102A,
+19,13286750,G>T,1102,D1102E,
+19,13286752,C>T,1102,D1102N,"Developmental and epileptic encephalopathy, 42 (DEE42), Episodic ataxia type 2 (EA2), Inborn genetic diseases"
+19,13286748,G>A,1103,P1103L,"Developmental and epileptic encephalopathy, 42 (DEE42), Episodic ataxia type 2 (EA2), Inborn genetic diseases"
+19,13286745,C>T,1104,G1104D,
+19,13286746,C>T,1104,G1104S,"Developmental and epileptic encephalopathy, 42 (DEE42), Episodic ataxia type 2 (EA2), Inborn genetic diseases, Migraine, familial hemiplegic, 1, Spinocerebellar ataxia type 6 (SCA6)"
+19,13286743,G>A,1105,P1105S,
+19,13286739,A>G,1106,M1106T,
+19,13286740,T>C,1106,M1106V,
+19,13286736,A>G,1107,L1107P,
+19,13286731,T>A,1109,I1109F,"Developmental and epileptic encephalopathy, 42 (DEE42), Episodic ataxia type 2 (EA2)"
+19,13286730,A>G,1109,I1109T,
+19,13286727,G>T,1110,P1110H,
+19,13286725,C>A,1111,A1111S,"Developmental and epileptic encephalopathy, 42 (DEE42), Episodic ataxia type 2 (EA2), Inborn genetic diseases"
+19,13286724,G>A,1111,A1111V,
+19,13286722,T>G,1112,M1112L,"Developmental and epileptic encephalopathy, 42 (DEE42), Episodic ataxia type 2 (EA2)"
+19,13286722,T>C,1112,M1112V,
+19,13286715,G>A,1114,T1114I,
+19,13286716,T>G,1114,T1114P,
+19,13286710,G>C,1116,P1116A,
+19,13286709,G>A,1116,P1116L,"Developmental and epileptic encephalopathy, 42 (DEE42), Episodic ataxia type 2 (EA2)"
+19,13286710,G>A,1116,P1116S,
+19,13286703,T>G,1118,N1118T,
+19,13286701,C>G,1119,A1119P,"Developmental and epileptic encephalopathy, 42 (DEE42), Episodic ataxia type 2 (EA2)"
+19,13286701,C>T,1119,A1119T,"Developmental and epileptic encephalopathy, 42 (DEE42), Episodic ataxia type 2 (EA2), Inborn genetic diseases"
+19,13286700,G>A,1119,A1119V,
+19,13286697,G>T,1120,A1120D,
+19,13286698,C>T,1120,A1120T,
+19,13286695,T>C,1121,S1121G,
+19,13286692,G>A,1122,R1122C,"Developmental and epileptic encephalopathy, 42 (DEE42), Episodic ataxia type 2 (EA2)"
+19,13286691,C>T,1122,R1122H,"Developmental and epileptic encephalopathy, 42 (DEE42), Episodic ataxia type 2 (EA2), SUDDEN INFANT DEATH SYNDROME (SIDS)"
+19,13286691,C>A,1122,R1122L,
+19,13286688,C>T,1123,R1123Q,"Developmental and epileptic encephalopathy, 42 (DEE42), Episodic ataxia type 2 (EA2)"
+19,13286689,G>A,1123,R1123W,"Developmental and epileptic encephalopathy, 42 (DEE42), Episodic ataxia type 2 (EA2)"
+19,13286686,T>C,1124,T1124A,
+19,13286685,G>A,1124,T1124M,"Developmental and epileptic encephalopathy, 42 (DEE42), Episodic ataxia type 2 (EA2)"
+19,13286682,G>A,1125,P1125L,
+19,13286680,T>C,1126,N1126D,
+19,13286679,T>C,1126,N1126S,"Developmental and epileptic encephalopathy, 42 (DEE42), Episodic ataxia type 2 (EA2)"
+19,13286673,G>A,1128,P1128L,"Developmental and epileptic encephalopathy, 42 (DEE42), Episodic ataxia type 2 (EA2)"
+19,13286673,G>T,1128,P1128Q,"Developmental and epileptic encephalopathy, 42 (DEE42), Episodic ataxia type 2 (EA2)"
+19,13286667,T>C,1130,N1130S,
+19,13286664,G>T,1131,P1131Q,
+19,13286661,G>A,1132,S1132F,"Developmental and epileptic encephalopathy, 42 (DEE42), Episodic ataxia type 2 (EA2)"
+19,13286659,T>C,1133,N1133D,
+19,13286652,C>G,1135,G1135A,
+19,13286653,C>T,1135,G1135S,"Developmental and epileptic encephalopathy, 42 (DEE42), Episodic ataxia type 2 (EA2), Migraine, familial hemiplegic, 1, Spinocerebellar ataxia type 6 (SCA6)"
+19,13286650,G>A,1136,P1136S,"Developmental and epileptic encephalopathy, 42 (DEE42), Episodic ataxia type 2 (EA2)"
+19,13286650,G>T,1136,P1136T,
+19,13286647,G>C,1137,P1137A,"Developmental and epileptic encephalopathy, 42 (DEE42), Episodic ataxia type 2 (EA2), Inborn genetic diseases"
+19,13286646,G>T,1137,P1137H,"Developmental and epileptic encephalopathy, 42 (DEE42), Episodic ataxia type 2 (EA2)"
+19,13286646,G>A,1137,P1137L,"Developmental and epileptic encephalopathy, 42 (DEE42), Episodic ataxia type 2 (EA2)"
+19,13286646,G>C,1137,P1137R,"Developmental and epileptic encephalopathy, 42 (DEE42), Episodic ataxia type 2 (EA2), Migraine, familial hemiplegic, 1, Spinocerebellar ataxia type 6 (SCA6)"
+19,13286647,G>A,1137,P1137S,
+19,13286643,T>A,1138,K1138M,
+19,13286644,T>G,1138,K1138Q,
+19,13286643,T>C,1138,K1138R,"Developmental and epileptic encephalopathy, 42 (DEE42), Episodic ataxia type 2 (EA2)"
+19,13286640,G>A,1139,T1139I,
+19,13286641,T>A,1139,T1139S,
+19,13286638,G>T,1140,P1140T,
+19,13286635,C>T,1141,E1141K,"Developmental and epileptic encephalopathy, 42 (DEE42), Episodic ataxia type 2 (EA2), Inborn genetic diseases"
+19,13286627,G>T,1143,S1143R,Inborn genetic diseases
+19,13286626,G>A,1144,L1144F,"Developmental and epileptic encephalopathy, 42 (DEE42), Episodic ataxia type 2 (EA2)"
+19,13286625,A>G,1144,L1144P,
+19,13286620,C>T,1146,V1146I,"Developmental and epileptic encephalopathy, 42 (DEE42), Episodic ataxia type 2 (EA2)"
+19,13286607,C>T,1150,S1150N,
+19,13286608,T>G,1150,S1150R,
+19,13286605,C>T,1151,G1151S,
+19,13286599,G>C,1153,Q1153E,"Developmental and epileptic encephalopathy, 42 (DEE42), Episodic ataxia type 2 (EA2), Inborn genetic diseases"
+19,13286598,T>G,1153,Q1153P,
+19,13286592,T>A,1155,N1155I,"Developmental and epileptic encephalopathy, 42 (DEE42), Episodic ataxia type 2 (EA2)"
+19,13286592,T>C,1155,N1155S,"Developmental and epileptic encephalopathy, 42 (DEE42), Episodic ataxia type 2 (EA2)"
+19,13286589,G>A,1156,S1156L,
+19,13286584,T>C,1158,K1158E,
+19,13286583,T>G,1158,K1158T,
+19,13286577,G>T,1160,A1160D,
+19,13286577,G>C,1160,A1160G,"Developmental and epileptic encephalopathy, 42 (DEE42), Episodic ataxia type 2 (EA2)"
+19,13286578,C>A,1160,A1160S,
+19,13286578,C>T,1160,A1160T,"Developmental and epileptic encephalopathy, 42 (DEE42), Episodic ataxia type 2 (EA2)"
+19,13286577,G>A,1160,A1160V,"Developmental and epileptic encephalopathy, 42 (DEE42), Episodic ataxia type 2 (EA2)"
+19,13286575,T>C,1161,R1161G,"Developmental and epileptic encephalopathy, 42 (DEE42), Episodic ataxia type 2 (EA2)"
+19,13286568,G>T,1163,P1163H,
+19,13286566,C>T,1164,D1164N,"Developmental and epileptic encephalopathy, 42 (DEE42), Episodic ataxia type 2 (EA2)"
+19,13286566,C>A,1164,D1164Y,
+19,13286559,G>A,1166,T1166I,"Developmental and epileptic encephalopathy, 42 (DEE42), Episodic ataxia type 2 (EA2)"
+19,13286551,C>G,1169,D1169H,
+19,13286547,A>G,1170,I1170T,
+19,13286548,T>C,1170,I1170V,
+19,13286545,G>A,1171,P1171S,
+19,13286542,G>C,1172,P1172A,
+19,13286541,G>A,1172,P1172L,
+19,13286541,G>C,1172,P1172R,"Developmental and epileptic encephalopathy, 42 (DEE42), Episodic ataxia type 2 (EA2)"
+19,13286538,G>C,1173,A1173G,
+19,13286538,G>A,1173,A1173V,
+19,13286536,A>C,1174,C1174G,"Developmental and epileptic encephalopathy, 42 (DEE42), Episodic ataxia type 2 (EA2)"
+19,13286535,C>T,1174,C1174Y,
+19,13286532,G>A,1175,P1175L,
+19,13286529,G>C,1176,P1176R,
+19,13286530,G>A,1176,P1176S,"Developmental and epileptic encephalopathy, 42 (DEE42), Episodic ataxia type 2 (EA2)"
+19,13286530,G>T,1176,P1176T,"Developmental and epileptic encephalopathy, 42 (DEE42), Episodic ataxia type 2 (EA2)"
+19,13286527,G>C,1177,P1177A,"Developmental and epileptic encephalopathy, 42 (DEE42), Episodic ataxia type 2 (EA2)"
+19,13286526,G>T,1177,P1177H,
+19,13286526,G>A,1177,P1177L,"Developmental and epileptic encephalopathy, 42 (DEE42), Episodic ataxia type 2 (EA2)"
+19,13286526,G>C,1177,P1177R,"Developmental and epileptic encephalopathy, 42 (DEE42), Episodic ataxia type 2 (EA2), Inborn genetic diseases"
+19,13286527,G>A,1177,P1177S,"Developmental and epileptic encephalopathy, 42 (DEE42), Episodic ataxia type 2 (EA2)"
+19,13286527,G>T,1177,P1177T,"Developmental and epileptic encephalopathy, 42 (DEE42), Episodic ataxia type 2 (EA2)"
+19,13286524,G>A,1178,L1178F,
+19,13286523,A>T,1178,L1178H,"Developmental and epileptic encephalopathy, 42 (DEE42), Episodic ataxia type 2 (EA2)"
+19,13286524,G>T,1178,L1178I,"Developmental and epileptic encephalopathy, 42 (DEE42), Episodic ataxia type 2 (EA2)"
+19,13286523,A>G,1178,L1178P,
+19,13286524,G>C,1178,L1178V,"Developmental and epileptic encephalopathy, 42 (DEE42), Episodic ataxia type 2 (EA2)"
+19,13286521,T>C,1179,N1179D,
+19,13286521,T>G,1179,N1179H,
+19,13286520,T>C,1179,N1179S,
+19,13286520,T>G,1179,N1179T,
+19,13286517,T>G,1180,H1180P,
+19,13286517,T>C,1180,H1180R,
+19,13286514,G>A,1181,T1181I,
+19,13286515,T>G,1181,T1181P,
+19,13286514,G>C,1181,T1181S,"Developmental and epileptic encephalopathy, 42 (DEE42), Episodic ataxia type 2 (EA2)"
+19,13286511,A>G,1182,V1182A,
+19,13286512,C>T,1182,V1182I,"Developmental and epileptic encephalopathy, 42 (DEE42), Episodic ataxia type 2 (EA2), Inborn genetic diseases"
+19,13286509,C>T,1183,V1183I,"Developmental and epileptic encephalopathy, 42 (DEE42), Episodic ataxia type 2 (EA2), Inborn genetic diseases"
+19,13285206,A>G,1185,V1185A,
+19,13285200,T>C,1187,K1187R,
+19,13285195,C>G,1189,A1189P,
+19,13285195,C>A,1189,A1189S,
+19,13285195,C>T,1189,A1189T,"Developmental and epileptic encephalopathy, 42 (DEE42), Episodic ataxia type 2 (EA2)"
+19,13285190,G>T,1190,N1190K,
+19,13285191,T>G,1190,N1190T,
+19,13285184,G>T,1192,D1192E,
+19,13285186,C>T,1192,D1192N,"Developmental and epileptic encephalopathy, 42 (DEE42), Episodic ataxia type 2 (EA2)"
+19,13285185,T>A,1192,D1192V,
+19,13285182,G>A,1193,P1193L,
+19,13285182,G>T,1193,P1193Q,
+19,13285179,A>T,1194,L1194Q,
+19,13285176,G>A,1195,P1195L,"Developmental and epileptic encephalopathy, 42 (DEE42), Episodic ataxia type 2 (EA2)"
+19,13285170,T>C,1197,K1197R,
+19,13285167,T>C,1198,E1198G,
+19,13285164,T>C,1199,E1199G,
+19,13285160,C>G,1200,E1200D,
+19,13285161,T>C,1200,E1200G,"Developmental and epileptic encephalopathy, 42 (DEE42), Episodic ataxia type 2 (EA2)"
+19,13285162,C>G,1200,E1200Q,
+19,13285156,T>C,1202,K1202E,
+19,13285153,C>T,1203,E1203K,"Developmental and epileptic encephalopathy, 42 (DEE42), Episodic ataxia type 2 (EA2)"
+19,13285149,T>C,1204,E1204G,
+19,13285147,C>T,1205,E1205K,
+19,13285138,C>T,1208,D1208N,"Developmental and epileptic encephalopathy, 42 (DEE42), Episodic ataxia type 2 (EA2)"
+19,13285135,G>A,1209,R1209C,"Developmental and epileptic encephalopathy, 42 (DEE42), Episodic ataxia type 2 (EA2)"
+19,13285135,G>C,1209,R1209G,
+19,13285134,C>T,1209,R1209H,"Developmental and epileptic encephalopathy, 42 (DEE42), Episodic ataxia type 2 (EA2), Inborn genetic diseases"
+19,13285134,C>A,1209,R1209L,"Developmental and epileptic encephalopathy, 42 (DEE42), Episodic ataxia type 2 (EA2)"
+19,13285135,G>T,1209,R1209S,"Developmental and epileptic encephalopathy, 42 (DEE42), Episodic ataxia type 2 (EA2)"
+19,13285131,C>T,1210,G1210E,"Developmental and epileptic encephalopathy, 42 (DEE42), Episodic ataxia type 2 (EA2)"
+19,13285127,T>G,1211,E1211D,
+19,13285126,C>A,1212,D1212Y,"Developmental and epileptic encephalopathy, 42 (DEE42), Episodic ataxia type 2 (EA2), Inborn genetic diseases, Migraine, familial hemiplegic, 1, Spinocerebellar ataxia type 6 (SCA6)"
+19,13285123,C>A,1213,G1213C,
+19,13285122,C>T,1213,G1213D,
+19,13285123,C>T,1213,G1213S,"Developmental and epileptic encephalopathy, 42 (DEE42), Episodic ataxia type 2 (EA2)"
+19,13285117,T>C,1215,K1215E,"Developmental and epileptic encephalopathy, 42 (DEE42)"
+19,13285116,T>C,1215,K1215R,
+19,13285109,C>T,1217,M1217I,
+19,13285110,A>T,1217,M1217K,"Developmental and epileptic encephalopathy, 42 (DEE42), Episodic ataxia type 2 (EA2)"
+19,13285110,A>G,1217,M1217T,
+19,13285111,T>C,1217,M1217V,"Developmental and epileptic encephalopathy, 42 (DEE42), Episodic ataxia type 2 (EA2)"
+19,13285104,G>T,1219,P1219H,
+19,13285104,G>A,1219,P1219L,"Developmental and epileptic encephalopathy, 42 (DEE42), Episodic ataxia type 2 (EA2)"
+19,13285093,T>C,1223,M1223V,
+19,13285077,G>A,1228,T1228M,
+19,13285075,T>C,1229,T1229A,
+19,13285072,T>C,1230,N1230D,
+19,13285068,G>A,1231,P1231L,
+19,13285069,G>A,1231,P1231S,
+19,13283392,G>A,1233,R1233C,"Developmental and epileptic encephalopathy, 42 (DEE42), Episodic ataxia type 2 (EA2)"
+19,13283391,C>T,1233,R1233H,
+19,13283389,G>A,1234,R1234C,"Developmental and epileptic encephalopathy, 42 (DEE42), Episodic ataxia type 2 (EA2), Inborn genetic diseases"
+19,13283388,C>T,1234,R1234H,"Developmental and epileptic encephalopathy, 42 (DEE42), Episodic ataxia type 2 (EA2), Inborn genetic diseases"
+19,13283388,C>G,1234,R1234P,"Developmental and epileptic encephalopathy, 42 (DEE42), Episodic ataxia type 2 (EA2)"
+19,13283374,T>C,1239,I1239V,"Developmental and epileptic encephalopathy, 42 (DEE42), Episodic ataxia type 2 (EA2)"
+19,13283365,G>C,1242,L1242V,Inborn genetic diseases
+19,13283362,G>A,1243,R1243C,
+19,13283358,T>C,1244,Y1244C,
+19,13283348,C>A,1247,M1247I,
+19,13283350,T>A,1247,M1247L,
+19,13283350,T>C,1247,M1247V,
+19,13283346,C>T,1248,C1248Y,
+19,13283344,T>C,1249,I1249V,
+19,13283341,G>C,1250,L1250V,
+19,13283332,T>A,1253,I1253F,"Developmental and epileptic encephalopathy, 42 (DEE42), Episodic ataxia type 2 (EA2)"
+19,13283324,C>T,1255,M1255I,"Developmental and epileptic encephalopathy, 42 (DEE42), Episodic ataxia type 2 (EA2)"
+19,13283325,A>G,1255,M1255T,"Developmental and epileptic encephalopathy, 42 (DEE42), Episodic ataxia type 2 (EA2)"
+19,13283319,C>T,1257,S1257N,
+19,13283317,T>C,1258,I1258V,
+19,13283305,C>T,1262,A1262T,"Developmental and epileptic encephalopathy, 42 (DEE42), Episodic ataxia type 2 (EA2)"
+19,13283302,C>T,1263,E1263K,"Developmental and epileptic encephalopathy, 42 (DEE42), Episodic ataxia type 2 (EA2)"
+19,13283299,C>A,1264,D1264Y,
+19,13283292,A>G,1266,V1266A,
+19,13283286,G>A,1268,P1268L,"Developmental and epileptic encephalopathy, 42 (DEE42), Episodic ataxia type 2 (EA2)"
+19,13283282,G>C,1269,N1269K,
+19,13283283,T>C,1269,N1269S,
+19,13283281,C>A,1270,A1270S,
+19,13283281,C>T,1270,A1270T,
+19,13283274,C>T,1272,R1272Q,"Developmental and epileptic encephalopathy, 42 (DEE42), Episodic ataxia type 2 (EA2)"
+19,13283275,G>A,1272,R1272W,"Developmental and epileptic encephalopathy, 42 (DEE42), Episodic ataxia type 2 (EA2)"
+19,13283269,T>C,1274,N1274D,"Developmental and epileptic encephalopathy, 42 (DEE42), Episodic ataxia type 2 (EA2)"
+19,13283268,T>A,1274,N1274I,
+19,13277128,C>G,1275,V1275L,"Developmental and epileptic encephalopathy, 42 (DEE42), Episodic ataxia type 2 (EA2)"
+19,13277121,C>T,1277,R1277Q,"Developmental and epileptic encephalopathy, 42 (DEE42), Episodic ataxia type 2 (EA2)"
+19,13277117,G>T,1278,Y1278*,
+19,13277119,A>G,1278,Y1278H,
+19,13277109,T>C,1281,Y1281C,
+19,13277110,A>G,1281,Y1281H,
+19,13277110,A>T,1281,Y1281N,"Developmental and epileptic encephalopathy, 42 (DEE42), Episodic ataxia type 2 (EA2)"
+19,13277107,C>T,1282,V1282I,
+19,13277103,A>G,1283,F1283S,
+19,13277100,G>A,1284,T1284I,"Developmental and epileptic encephalopathy, 42 (DEE42), Episodic ataxia type 2 (EA2)"
+19,13277098,C>T,1285,G1285S,
+19,13277094,A>G,1286,V1286A,
+19,13277095,C>T,1286,V1286I,
+19,13277083,C>G,1290,E1290Q,
+19,13277078,C>T,1291,M1291I,"Developmental and epileptic encephalopathy, 42 (DEE42), Episodic ataxia type 2 (EA2)"
+19,13277074,T>C,1293,I1293V,
+19,13275941,G>A,1300,L1300F,
+19,13275938,C>T,1301,V1301I,"Developmental and epileptic encephalopathy, 42 (DEE42), Episodic ataxia type 2 (EA2), Migraine, familial hemiplegic, 1"
+19,13275928,T>G,1304,Q1304P,"Developmental and epileptic encephalopathy, 42 (DEE42), Episodic ataxia type 2 (EA2)"
+19,13275926,C>G,1305,G1305R,
+19,13275919,T>C,1307,Y1307C,
+19,13275917,A>C,1308,F1308V,"Developmental and epileptic encephalopathy, 42 (DEE42), Episodic ataxia type 2 (EA2)"
+19,13275914,G>A,1309,R1309C,
+19,13275913,C>T,1309,R1309H,"Developmental and epileptic encephalopathy, 42 (DEE42), Episodic ataxia type 2 (EA2)"
+19,13275896,G>A,1315,L1315F,
+19,13275896,G>T,1315,L1315I,
+19,13275896,G>C,1315,L1315V,
+19,13275891,G>T,1316,D1316E,"Developmental and epileptic encephalopathy, 52 (DEE52), Episodic ataxia type 2 (EA2), Migraine, familial hemiplegic, 1, Spinocerebellar ataxia type 6 (SCA6)"
+19,13275893,C>T,1316,D1316N,"Developmental and epileptic encephalopathy, 42 (DEE42), Episodic ataxia type 2 (EA2)"
+19,13275887,T>C,1318,I1318V,
+19,13275878,T>C,1321,S1321G,"Developmental and epileptic encephalopathy, 42 (DEE42), Episodic ataxia type 2 (EA2)"
+19,13275856,G>A,1328,A1328V,
+19,13275850,G>A,1330,T1330I,Inborn genetic diseases
+19,13262825,C>T,1333,S1333N,"Developmental and epileptic encephalopathy, 42 (DEE42), Episodic ataxia type 2 (EA2)"
+19,13262823,T>C,1334,K1334E,"Migraine, familial hemiplegic, 1, Migraine, familial hemiplegic, 1 (FHM1)"
+19,13262814,C>A,1337,D1337Y,"Spinocerebellar ataxia type 6 (SCA6), Spinocerebellar ataxia 6 (SCA6)"
+19,13262806,G>C,1339,N1339K,
+19,13262804,G>A,1340,T1340M,
+19,13262799,T>G,1342,K1342Q,
+19,13262796,A>G,1343,S1343P,"Developmental and epileptic encephalopathy, 42 (DEE42), Episodic ataxia type 2 (EA2), Migraine, familial hemiplegic, 1"
+19,13262795,G>T,1343,S1343Y,"Developmental and epileptic encephalopathy, 42 (DEE42), Developmental and epileptic encephalopathy, 52 (DEE52), Episodic ataxia type 2 (EA2), Migraine, familial hemiplegic, 1, Spinocerebellar ataxia type 6 (SCA6)"
+19,13262792,A>G,1344,L1344P,"CACNA1A-associated disorder, Developmental and epileptic encephalopathy, 52 (DEE52), Episodic ataxia type 2 (EA2), Migraine, familial hemiplegic, 1, Spinocerebellar ataxia type 6 (SCA6)"
+19,13262789,C>T,1345,R1345Q,"Migraine, familial hemiplegic, 1, Migraine, familial hemiplegic, 1 (FHM1)"
+19,13262780,C>G,1348,R1348P,
+19,13262780,C>T,1348,R1348Q,"Developmental and epileptic encephalopathy, 42 (DEE42), Developmental and epileptic encephalopathy, 52 (DEE52), Episodic ataxia type 2 (EA2), Inborn genetic diseases, Migraine, familial hemiplegic, 1, Spinocerebellar ataxia type 6 (SCA6)"
+19,13262781,G>A,1348,R1348W,"Developmental and epileptic encephalopathy, 42 (DEE42), Episodic ataxia type 2 (EA2)"
+19,13262778,C>T,1349,V1349M,Episodic ataxia type 2 (EA2)
+19,13262771,C>A,1351,R1351L,
+19,13262771,C>T,1351,R1351Q,"Developmental and epileptic encephalopathy, 42 (DEE42), Developmental and epileptic encephalopathy, 52 (DEE52), Episodic ataxia type 2 (EA2), Inborn genetic diseases, Migraine, familial hemiplegic, 1, Spinocerebellar ataxia type 6 (SCA6)"
+19,13262768,G>A,1352,P1352L,"Developmental and epileptic encephalopathy, 42 (DEE42), Developmental and epileptic encephalopathy, 52 (DEE52), Episodic ataxia type 2 (EA2), Migraine, familial hemiplegic, 1, Spinocerebellar ataxia type 6 (SCA6)"
+19,13262759,G>A,1355,T1355I,"Developmental and epileptic encephalopathy, 42 (DEE42), Developmental and epileptic encephalopathy, 52 (DEE52), Episodic ataxia type 2 (EA2), Migraine, familial hemiplegic, 1, Spinocerebellar ataxia type 6 (SCA6)"
+19,13262759,G>T,1355,T1355N,"Developmental and epileptic encephalopathy, 42 (DEE42), Developmental and epileptic encephalopathy, 52 (DEE52), Episodic ataxia type 2 (EA2), Migraine, familial hemiplegic, 1, Spinocerebellar ataxia type 6 (SCA6)"
+19,13262760,T>G,1355,T1355P,
+19,13262756,A>C,1356,I1356S,
+19,13262750,C>T,1358,R1358Q,
+19,13262751,G>A,1358,R1358W,CACNA1A-associated disorders
+19,13262744,G>T,1360,P1360Q,
+19,13262736,T>C,1363,K1363E,"Developmental and epileptic encephalopathy, 42 (DEE42), Episodic ataxia type 2 (EA2)"
+19,13261609,G>T,1364,A1364D,
+19,13261606,A>T,1365,V1365E,"Developmental and epileptic encephalopathy, 42 (DEE42), Episodic ataxia type 2 (EA2)"
+19,13261604,A>T,1366,F1366I,
+19,13261599,G>C,1367,D1367E,
+19,13261598,A>G,1368,C1368R,"Developmental and epileptic encephalopathy, 42 (DEE42), Episodic ataxia type 2 (EA2)"
+19,13261597,C>G,1368,C1368S,"Migraine, familial hemiplegic, 1"
+19,13261588,T>G,1371,N1371T,
+19,13261565,T>A,1379,I1379F,"Developmental and epileptic encephalopathy, 42 (DEE42), Episodic ataxia type 2 (EA2)"
+19,13261558,A>G,1381,I1381T,
+19,13261556,C>A,1382,V1382F,"Developmental and epileptic encephalopathy, 42 (DEE42), Episodic ataxia type 2 (EA2)"
+19,13261552,T>C,1383,Y1383C,"Migraine, familial hemiplegic, 1, Migraine, familial hemiplegic, 1 (FHM1)"
+19,13261548,C>T,1384,M1384I,
+19,13261550,T>G,1384,M1384L,
+19,13261534,A>G,1389,I1389T,"Developmental and epileptic encephalopathy, 42 (DEE42), Episodic ataxia type 2 (EA2)"
+19,13261529,C>A,1391,A1391S,"Developmental and epileptic encephalopathy, 42 (DEE42), Episodic ataxia type 2 (EA2)"
+19,13261529,C>T,1391,A1391T,
+19,13261525,A>G,1392,V1392A,"Developmental and epileptic encephalopathy, 42 (DEE42), Episodic ataxia type 2 (EA2)"
+19,13261526,C>A,1392,V1392L,"Developmental and epileptic encephalopathy, 42 (DEE42), Episodic ataxia type 2 (EA2)"
+19,13261526,C>T,1392,V1392M,"Developmental and epileptic encephalopathy, 42 (DEE42), Developmental and epileptic encephalopathy, 52 (DEE52), Episodic ataxia type 2 (EA2), Inborn genetic diseases, Migraine, Migraine, familial hemiplegic, 1, Spinocerebellar ataxia type 6 (SCA6)"
+19,13261512,C>A,1396,Q1396H,
+19,13261511,G>A,1397,L1397F,
+19,13261505,T>C,1399,K1399E,
+19,13261503,C>G,1399,K1399N,
+19,13261501,C>G,1400,G1400A,"Developmental and epileptic encephalopathy, 42 (DEE42), Episodic ataxia type 2 (EA2)"
+19,13261501,C>T,1400,G1400E,
+19,13261498,T>C,1401,K1401R,"Developmental and epileptic encephalopathy, 42 (DEE42), Episodic ataxia type 2 (EA2)"
+19,13261495,A>C,1402,F1402C,"Episodic ataxia type 2 (EA2), Episodic ataxia 2 (EA2)"
+19,13261492,A>G,1403,F1403S,
+19,13261490,G>A,1404,H1404Y,
+19,13261478,C>T,1408,E1408K,
+19,13261472,T>C,1410,K1410E,"Developmental and epileptic encephalopathy, 42 (DEE42), Episodic ataxia type 2 (EA2)"
+19,13261466,A>T,1412,F1412I,
+19,13261464,A>C,1412,F1412L,
+19,13261458,T>A,1414,K1414N,
+19,13261450,C>T,1417,R1417Q,
+19,13259696,T>C,1419,K1419R,"Developmental and epileptic encephalopathy, 42 (DEE42), Episodic ataxia type 2 (EA2)"
+19,13259693,T>A,1420,Y1420F,
+19,13259690,A>T,1421,L1421H,
+19,13259685,A>G,1423,Y1423H,
+19,13259679,T>G,1425,K1425Q,
+19,13259676,T>C,1426,N1426D,
+19,13259671,C>A,1427,E1427D,
+19,13259664,C>T,1430,A1430T,
+19,13259663,G>A,1430,A1430V,
+19,13259660,C>G,1431,R1431P,
+19,13259660,C>T,1431,R1431Q,"Developmental and epileptic encephalopathy, 42 (DEE42), Episodic ataxia type 2 (EA2), Inborn genetic diseases"
+19,13259658,C>G,1432,D1432H,
+19,13259654,C>T,1433,R1433Q,"Developmental and epileptic encephalopathy, 42 (DEE42)"
+19,13259655,G>A,1433,R1433W,"Inborn genetic diseases, Spinocerebellar ataxia type 6 (SCA6)"
+19,13259642,T>C,1437,K1437R,
+19,13259630,T>A,1441,H1441L,"Developmental and epileptic encephalopathy, 42 (DEE42), Episodic ataxia type 2 (EA2)"
+19,13259628,A>C,1442,Y1442D,"Developmental and epileptic encephalopathy, 42 (DEE42), Episodic ataxia type 2 (EA2)"
+19,13259624,T>C,1443,D1443G,"Developmental and epileptic encephalopathy, 42 (DEE42)"
+19,13259625,C>T,1443,D1443N,"Developmental and epileptic encephalopathy, 42 (DEE42), Episodic ataxia type 2 (EA2)"
+19,13259619,C>T,1445,V1445M,
+19,13259611,C>A,1447,W1447C,
+19,13259609,G>A,1448,A1448V,
+19,13259607,G>T,1449,L1449M,
+19,13259601,T>G,1451,T1451P,
+19,13259598,G>T,1452,L1452I,
+19,13259592,T>G,1454,T1454P,
+19,13259589,C>A,1455,V1455L,"Familial hemiplegic migraine, Migraine, familial hemiplegic, 1, Migraine, familial hemiplegic, 1 (FHM1)"
+19,13259589,C>T,1455,V1455M,"Developmental and epileptic encephalopathy, 42 (DEE42), Episodic ataxia type 2 (EA2)"
+19,13259582,G>A,1457,T1457M,"Developmental and epileptic encephalopathy, 42 (DEE42), Episodic ataxia type 2 (EA2)"
+19,13259579,C>T,1458,G1458E,
+19,13259568,G>A,1462,P1462S,
+19,13257551,C>G,1463,Q1463H,
+19,13257550,C>T,1464,V1464I,"Developmental and epileptic encephalopathy, 42 (DEE42), Episodic ataxia type 2 (EA2)"
+19,13257537,G>A,1468,S1468L,
+19,13257532,C>T,1470,D1470N,
+19,13257529,C>A,1471,A1471S,
+19,13257529,C>T,1471,A1471T,"Developmental and epileptic encephalopathy, 42 (DEE42), Episodic ataxia type 2 (EA2), Inborn genetic diseases"
+19,13257514,G>C,1476,Q1476E,
+19,13257510,C>T,1477,G1477D,
+19,13257501,G>A,1480,P1480L,
+19,13257499,C>G,1481,G1481R,"Episodic ataxia type 2 (EA2), Episodic ataxia 2 (EA2)"
+19,13257498,C>A,1481,G1481V,
+19,13257493,G>A,1483,R1483C,"Developmental and epileptic encephalopathy, 42 (DEE42), Episodic ataxia type 2 (EA2)"
+19,13257492,C>T,1483,R1483H,
+19,13257492,C>A,1483,R1483L,
+19,13257483,A>G,1486,M1486T,
+19,13257484,T>C,1486,M1486V,
+19,13257478,T>A,1488,I1488F,"Developmental and epileptic encephalopathy, 42 (DEE42), Episodic ataxia type 2 (EA2)"
+19,13257474,A>G,1489,F1489S,"Episodic ataxia type 2 (EA2), Episodic ataxia 2 (EA2)"
+19,13257471,T>C,1490,Y1490C,"Developmental and epileptic encephalopathy, 42 (DEE42), Episodic ataxia type 2 (EA2)"
+19,13257469,C>A,1491,V1491F,CACNA1A-related disorders
+19,13257469,C>T,1491,V1491I,
+19,13257466,C>T,1492,V1492I,"Developmental and epileptic encephalopathy, 42 (DEE42), Episodic ataxia type 2 (EA2), Episodic ataxia 2 (EA2)"
+19,13257462,T>C,1493,Y1493C,
+19,13257447,G>C,1498,P1498R,
+19,13257432,T>C,1503,N1503S,Cerebellar ataxia
+19,13257425,A>C,1505,F1505L,"Episodic ataxia type 2 (EA2), Migraine, familial hemiplegic, 1, Spinocerebellar ataxia type 6 (SCA6)"
+19,13257426,A>G,1505,F1505S,"Developmental and epileptic encephalopathy, 42 (DEE42), Episodic ataxia type 2 (EA2)"
+19,13257424,C>A,1506,V1506L,"Developmental and epileptic encephalopathy, 42 (DEE42), Episodic ataxia type 2 (EA2), Inborn genetic diseases"
+19,13257420,G>T,1507,A1507D,
+19,13257421,C>A,1507,A1507S,"Developmental and epileptic encephalopathy, 42 (DEE42), Developmental and epileptic encephalopathy 42 (DEE42)"
+19,13257421,C>T,1507,A1507T,"Developmental and epileptic encephalopathy, 42 (DEE42), Developmental and epileptic encephalopathy, 52 (DEE52), Episodic ataxia type 2 (EA2), Migraine, familial hemiplegic, 1, Spinocerebellar ataxia type 6 (SCA6)"
+19,13257413,G>C,1509,I1509M,
+19,13257405,G>T,1512,T1512N,"Developmental and epileptic encephalopathy, 42 (DEE42), Episodic ataxia type 2 (EA2)"
+19,13257395,C>A,1515,E1515D,
+19,13257391,C>T,1517,G1517R,"Developmental and epileptic encephalopathy, 42 (DEE42)"
+19,13257390,C>A,1517,G1517V,"Developmental and epileptic encephalopathy, 42 (DEE42)"
+19,13257388,C>A,1518,D1518Y,
+19,13257384,T>C,1519,K1519R,
+19,13257381,A>G,1520,M1520T,
+19,13257379,T>C,1521,M1521V,"Developmental and epileptic encephalopathy, 42 (DEE42), Episodic ataxia type 2 (EA2)"
+19,13257366,C>T,1525,S1525N,"Developmental and epileptic encephalopathy, 42 (DEE42), Episodic ataxia type 2 (EA2)"
+19,13257361,C>G,1527,E1527Q,Inborn genetic diseases
+19,13255258,C>T,1531,R1531K,"Developmental and epileptic encephalopathy, 42 (DEE42), Episodic ataxia type 2 (EA2)"
+19,13255249,A>G,1534,I1534T,"Developmental and epileptic encephalopathy, 42 (DEE42), Episodic ataxia type 2 (EA2)"
+19,13255247,C>T,1535,D1535N,
+19,13255241,C>T,1537,A1537T,"Developmental and epileptic encephalopathy, 42 (DEE42), Episodic ataxia type 2 (EA2)"
+19,13255232,C>T,1540,A1540T,"Developmental and epileptic encephalopathy, 42 (DEE42), Episodic ataxia type 2 (EA2)"
+19,13255231,G>A,1540,A1540V,
+19,13255225,G>A,1542,P1542L,
+19,13255219,G>A,1544,T1544I,
+19,13255216,C>A,1545,R1545L,
+19,13255216,C>T,1545,R1545Q,"Developmental and epileptic encephalopathy, 42 (DEE42), Episodic ataxia type 2 (EA2), Inborn genetic diseases"
+19,13255214,G>A,1546,H1546Y,"Developmental and epileptic encephalopathy, 42 (DEE42), Episodic ataxia type 2 (EA2)"
+19,13255210,A>G,1547,M1547T,
+19,13255211,T>C,1547,M1547V,
+19,13255207,G>A,1548,P1548L,
+19,13255207,G>T,1548,P1548Q,
+19,13255204,T>G,1549,Q1549P,
+19,13255204,T>C,1549,Q1549R,
+19,13255198,T>A,1551,K1551M,
+19,13255198,T>C,1551,K1551R,
+19,13255196,G>C,1552,Q1552E,
+19,13255195,T>C,1552,Q1552R,
+19,13255188,G>C,1554,F1554L,"Developmental and epileptic encephalopathy, 42 (DEE42), Episodic ataxia type 2 (EA2), Inborn genetic diseases"
+19,13255186,T>C,1555,Q1555R,
+19,13255181,G>A,1557,R1557C,
+19,13255180,C>T,1557,R1557H,"Developmental and epileptic encephalopathy, 42 (DEE42), Episodic ataxia type 2 (EA2), Inborn genetic diseases, Migraine, familial hemiplegic, 1, Spinocerebellar ataxia type 6 (SCA6)"
+19,13255176,C>A,1558,M1558I,
+19,13255178,T>A,1558,M1558L,
+19,13255167,G>C,1561,F1561L,"Developmental and epileptic encephalopathy, 42 (DEE42), Episodic ataxia type 2 (EA2)"
+19,13255166,C>G,1562,V1562L,"Developmental and epileptic encephalopathy, 42 (DEE42), Episodic ataxia type 2 (EA2)"
+19,13255166,C>T,1562,V1562M,"Developmental and epileptic encephalopathy, 42 (DEE42), Episodic ataxia type 2 (EA2), Inborn genetic diseases"
+19,13255157,G>A,1565,P1565S,"Developmental and epileptic encephalopathy, 42 (DEE42), Episodic ataxia type 2 (EA2)"
+19,13255154,G>A,1566,P1566S,
+19,13255146,C>G,1568,E1568D,
+19,13255148,C>T,1568,E1568K,
+19,13255142,T>C,1570,T1570A,
+19,13255141,G>A,1570,T1570M,
+19,13255142,T>A,1570,T1570S,
+19,13255136,T>C,1572,M1572V,"Developmental and epileptic encephalopathy, 42 (DEE42), Episodic ataxia type 2 (EA2)"
+19,13255130,T>C,1574,M1574V,"Developmental and epileptic encephalopathy, 42 (DEE42), Episodic ataxia type 2 (EA2)"
+19,13255124,C>T,1576,A1576T,"Developmental and epileptic encephalopathy, 42 (DEE42), Episodic ataxia type 2 (EA2)"
+19,13255112,T>C,1580,I1580V,
+19,13253099,G>T,1586,F1586L,"Developmental and epileptic encephalopathy, 42 (DEE42), Episodic ataxia type 2 (EA2)"
+19,13253100,A>T,1586,F1586Y,
+19,13253085,A>G,1591,V1591A,"Developmental and epileptic encephalopathy, 42 (DEE42), Episodic ataxia type 2 (EA2)"
+19,13253083,C>T,1592,A1592T,
+19,13253071,C>A,1596,A1596S,
+19,13253071,C>T,1596,A1596T,"Developmental and epileptic encephalopathy, 42 (DEE42), Episodic ataxia type 2 (EA2)"
+19,13253070,G>A,1596,A1596V,
+19,13253064,C>T,1598,R1598Q,
+19,13253052,A>G,1602,I1602T,"Developmental and epileptic encephalopathy, 42 (DEE42), Episodic ataxia type 2 (EA2)"
+19,13253053,T>C,1602,I1602V,"Developmental and epileptic encephalopathy, 42 (DEE42), Episodic ataxia type 2 (EA2), Migraine, familial hemiplegic, 1, Spinocerebellar ataxia type 6 (SCA6)"
+19,13253050,C>A,1603,V1603F,
+19,13253050,C>T,1603,V1603I,"Developmental and epileptic encephalopathy, 42 (DEE42), Episodic ataxia type 2 (EA2)"
+19,13253029,G>C,1610,L1610V,
+19,13253021,A>C,1612,C1612W,"Developmental and epileptic encephalopathy, 42 (DEE42), Episodic ataxia type 2 (EA2), Inborn genetic diseases"
+19,13253020,C>G,1613,V1613L,
+19,13253014,T>C,1615,K1615E,"Developmental and epileptic encephalopathy, 42 (DEE42), Episodic ataxia type 2 (EA2)"
+19,13253010,A>G,1616,V1616A,
+19,13253011,C>T,1616,V1616I,
+19,13253007,A>G,1617,M1617T,"Developmental and epileptic encephalopathy, 42 (DEE42), Episodic ataxia type 2 (EA2)"
+19,13245258,A>C,1625,F1625C,"Developmental and epileptic encephalopathy, 42 (DEE42), Episodic ataxia type 2 (EA2)"
+19,13245256,G>A,1626,R1626C,"Developmental and epileptic encephalopathy, 42 (DEE42), Episodic ataxia type 2 (EA2)"
+19,13245255,C>T,1626,R1626H,"Developmental and epileptic encephalopathy, 42 (DEE42), Episodic ataxia type 2 (EA2)"
+19,13245253,C>T,1627,D1627N,"Developmental and epileptic encephalopathy, 42 (DEE42), Episodic ataxia type 2 (EA2), Inborn genetic diseases"
+19,13245239,G>C,1631,I1631M,
+19,13245241,T>C,1631,I1631V,"Developmental and epileptic encephalopathy, 42 (DEE42), Episodic ataxia type 2 (EA2)"
+19,13245233,G>C,1633,D1633E,"Developmental and epileptic encephalopathy, 42 (DEE42), Episodic ataxia type 2 (EA2)"
+19,13245235,C>T,1633,D1633N,"CACNA1A-related disorders, Developmental and epileptic encephalopathy, 52 (DEE52), Episodic ataxia type 2 (EA2), Inborn genetic diseases, Migraine, familial hemiplegic, 1, Spinocerebellar ataxia type 6 (SCA6)"
+19,13245220,G>C,1638,L1638V,
+19,13245216,C>T,1639,G1639D,
+19,13245211,T>G,1641,I1641L,
+19,13245205,C>T,1643,D1643N,"Developmental and epileptic encephalopathy, 42 (DEE42), Developmental and epileptic encephalopathy, 52 (DEE52), Episodic ataxia type 2 (EA2), Migraine, familial hemiplegic, 1, Spinocerebellar ataxia type 6 (SCA6)"
+19,13245201,A>G,1644,I1644T,"Developmental and epileptic encephalopathy, 42 (DEE42), Episodic ataxia type 2 (EA2)"
+19,13245190,C>G,1648,E1648Q,"Developmental and epileptic encephalopathy, 42 (DEE42), Episodic ataxia type 2 (EA2)"
+19,13245187,A>G,1649,F1649L,
+19,13235730,T>C,1651,N1651D,
+19,13235714,A>G,1656,L1656P,
+19,13235706,G>A,1659,L1659F,
+19,13235703,G>A,1660,R1660C,"Developmental and epileptic encephalopathy, 42 (DEE42), Episodic ataxia type 2 (EA2)"
+19,13235702,C>T,1660,R1660H,"Developmental and epileptic encephalopathy, 42 (DEE42), Episodic ataxia type 2 (EA2), Spinocerebellar ataxia type 6 (SCA6), Episodic ataxia 2 (EA2)"
+19,13235693,C>T,1663,R1663Q,"Chronic and progressive ataxia, Developmental and epileptic encephalopathy, 42 (DEE42), Episodic ataxia type 2 (EA2), Global developmental delay (DD), Inborn genetic diseases, Non-progressive congenital cerebellar ataxia, Spinocerebellar ataxia type 6 (SCA6), Spinocerebellar ataxia 6 (SCA6)"
+19,13235684,C>G,1666,R1666P,"Developmental and epileptic encephalopathy, 42 (DEE42), Developmental and epileptic encephalopathy, 52 (DEE52), Episodic ataxia type 2 (EA2), Inborn genetic diseases, Migraine, familial hemiplegic, 1, Spinocerebellar ataxia type 6 (SCA6)"
+19,13235684,C>T,1666,R1666Q,Spastic ataxia
+19,13235685,G>A,1666,R1666W,"Migraine, familial hemiplegic, 1, Migraine, familial hemiplegic, 1 (FHM1)"
+19,13235682,G>A,1667,L1667F,"Developmental and epileptic encephalopathy, 42 (DEE42), Episodic ataxia type 2 (EA2)"
+19,13235679,T>C,1668,I1668V,
+19,13235673,G>T,1670,L1670I,
+19,13235667,G>A,1672,R1672C,"Developmental and epileptic encephalopathy, 42 (DEE42), Episodic ataxia type 2 (EA2)"
+19,13235666,C>T,1672,R1672H,"Developmental and epileptic encephalopathy, 42 (DEE42)"
+19,13235666,C>G,1672,R1672P,"Cerebellar ataxia, Developmental and epileptic encephalopathy, 52 (DEE52), Episodic ataxia type 2 (EA2), Intellectual disability, Migraine, familial hemiplegic, 1, Spinocerebellar ataxia type 6 (SCA6)"
+19,13235663,T>C,1673,Q1673R,"Developmental and epileptic encephalopathy, 42 (DEE42), Episodic ataxia type 2 (EA2)"
+19,13235660,C>T,1674,G1674D,"Developmental and epileptic encephalopathy, 42 (DEE42), Episodic ataxia type 2 (EA2)"
+19,13235660,C>A,1674,G1674V,
+19,13235652,T>C,1677,I1677V,"Developmental and epileptic encephalopathy, 42 (DEE42), Episodic ataxia type 2 (EA2)"
+19,13235649,G>A,1678,R1678C,"Developmental and epileptic encephalopathy, 42 (DEE42), Episodic ataxia type 2 (EA2), Episodic ataxia 2 (EA2)"
+19,13235648,C>T,1678,R1678H,"Developmental and epileptic encephalopathy, 42 (DEE42), Episodic ataxia type 2 (EA2), Intellectual disability"
+19,13235646,T>C,1679,I1679V,
+19,13235637,A>G,1682,W1682R,"Migraine, familial hemiplegic, 1, Migraine, familial hemiplegic, 1 (FHM1)"
+19,13235633,G>A,1683,T1683I,
+19,13235628,C>T,1685,V1685M,"Developmental and epileptic encephalopathy, 42 (DEE42), Episodic ataxia type 2 (EA2)"
+19,13235624,T>C,1686,Q1686R,"Developmental and epileptic encephalopathy, 42 (DEE42), Episodic ataxia type 2 (EA2)"
+19,13235621,G>A,1687,S1687F,"Developmental and epileptic encephalopathy, 42 (DEE42), Episodic ataxia type 2 (EA2)"
+19,13235273,G>T,1690,A1690D,
+19,13235270,A>T,1691,L1691Q,"Developmental and epileptic encephalopathy, 42 (DEE42)"
+19,13235262,C>T,1694,V1694I,"Migraine, familial hemiplegic, 1, Migraine, familial hemiplegic, 1 (FHM1)"
+19,13235248,G>C,1698,I1698M,
+19,13235247,C>G,1699,A1699P,"Developmental and epileptic encephalopathy, 42 (DEE42), Episodic ataxia type 2 (EA2)"
+19,13235247,C>T,1699,A1699T,"Developmental and epileptic encephalopathy, 42 (DEE42), Episodic ataxia type 2 (EA2)"
+19,13235246,G>A,1699,A1699V,
+19,13235244,T>C,1700,M1700V,
+19,13235238,A>G,1702,F1702L,"Developmental and epileptic encephalopathy, 42 (DEE42), Episodic ataxia type 2 (EA2)"
+19,13235222,A>G,1707,I1707T,"Developmental and epileptic encephalopathy, 52 (DEE52), Episodic ataxia type 2 (EA2), Migraine, familial hemiplegic, 1, Spinocerebellar ataxia type 6 (SCA6)"
+19,13235223,T>C,1707,I1707V,
+19,13235220,T>G,1708,I1708L,"Developmental and epileptic encephalopathy, 42 (DEE42), Episodic ataxia type 2 (EA2)"
+19,13235219,A>G,1708,I1708T,"Developmental and epileptic encephalopathy, 42 (DEE42), Episodic ataxia type 2 (EA2), Inborn genetic diseases, Migraine, familial hemiplegic, 1, Spinocerebellar ataxia type 6 (SCA6)"
+19,13235217,C>T,1709,G1709R,
+19,13235211,G>T,1711,Q1711K,
+19,13235036,C>G,1712,V1712L,
+19,13235036,C>T,1712,V1712M,
+19,13235031,A>T,1713,F1713L,Spinocerebellar ataxia type 6 (SCA6)
+19,13235021,C>T,1717,G1717S,
+19,13235018,T>A,1718,I1718F,
+19,13235015,C>T,1719,D1719N,"Developmental and epileptic encephalopathy, 42 (DEE42), Episodic ataxia type 2 (EA2), Inborn genetic diseases"
+19,13235015,C>A,1719,D1719Y,
+19,13235012,C>T,1720,V1720M,"Developmental and epileptic encephalopathy, 42 (DEE42), Episodic ataxia type 2 (EA2)"
+19,13235008,T>C,1721,E1721G,
+19,13235005,T>C,1722,D1722G,
+19,13235003,C>T,1723,E1723K,"Developmental and epileptic encephalopathy, 42 (DEE42), Episodic ataxia type 2 (EA2)"
+19,13235000,C>T,1724,D1724N,"Developmental and epileptic encephalopathy, 42 (DEE42), Episodic ataxia type 2 (EA2)"
+19,13234996,C>T,1725,S1725N,"Developmental and epileptic encephalopathy, 42 (DEE42), Episodic ataxia type 2 (EA2), Inborn genetic diseases"
+19,13234996,C>G,1725,S1725T,
+19,13234988,C>T,1728,D1728N,"Developmental and epileptic encephalopathy, 42 (DEE42), Episodic ataxia type 2 (EA2)"
+19,13234982,A>G,1730,F1730L,
+19,13234977,T>G,1731,Q1731H,"Developmental and epileptic encephalopathy, 42 (DEE42), Episodic ataxia type 2 (EA2)"
+19,13234976,T>C,1732,I1732V,
+19,13234972,G>A,1733,T1733I,"Developmental and epileptic encephalopathy, 42 (DEE42), Episodic ataxia type 2 (EA2)"
+19,13234970,C>T,1734,E1734K,"Developmental and epileptic encephalopathy, 42 (DEE42), Episodic ataxia type 2 (EA2)"
+19,13234966,T>A,1735,H1735L,"Episodic ataxia type 2 (EA2), Episodic ataxia 2 (EA2)"
+19,13234961,T>A,1737,N1737Y,
+19,13234956,G>T,1738,F1738L,
+19,13234957,A>G,1738,F1738S,
+19,13234954,C>T,1739,R1739Q,
+19,13234955,G>A,1739,R1739W,"Developmental and epileptic encephalopathy, 42 (DEE42), Episodic ataxia type 2 (EA2)"
+19,13234937,G>A,1745,L1745F,"Developmental and epileptic encephalopathy, 42 (DEE42)"
+19,13234932,C>G,1746,M1746I,"Developmental and epileptic encephalopathy, 42 (DEE42), Episodic ataxia type 2 (EA2)"
+19,13234934,T>C,1746,M1746V,
+19,13234921,C>T,1750,R1750Q,"Developmental and epileptic encephalopathy, 42 (DEE42), Episodic ataxia type 2 (EA2)"
+19,13234922,G>A,1750,R1750W,"Developmental and epileptic encephalopathy, 42 (DEE42), Episodic ataxia type 2 (EA2), Migraine, familial hemiplegic, 1, Spinocerebellar ataxia type 6 (SCA6)"
+19,13231857,A>C,1751,S1751R,
+19,13231850,C>T,1754,G1754R,"Developmental and epileptic encephalopathy, 42 (DEE42), Episodic ataxia type 2 (EA2), Inborn genetic diseases"
+19,13231847,C>T,1755,E1755K,"Episodic ataxia type 2 (EA2), Episodic ataxia 2 (EA2)"
+19,13231822,G>A,1763,S1763F,
+19,13231816,A>C,1765,L1765R,
+19,13231814,T>C,1766,S1766G,
+19,13231811,C>T,1767,G1767R,
+19,13231804,G>A,1769,P1769L,
+19,13231780,A>G,1777,L1777P,
+19,13231781,G>C,1777,L1777V,
+19,13231774,C>T,1779,R1779Q,"Developmental and epileptic encephalopathy, 42 (DEE42), Episodic ataxia type 2 (EA2), Inborn genetic diseases"
+19,13231769,A>G,1781,C1781R,
+19,13231762,T>C,1783,N1783S,
+19,13231762,T>G,1783,N1783T,
+19,13231724,G>T,1796,L1796I,
+19,13231717,G>A,1798,S1798L,"Developmental and epileptic encephalopathy, 42 (DEE42), Developmental and epileptic encephalopathy, 52 (DEE52), Episodic ataxia type 2 (EA2), Migraine, familial hemiplegic, 1, Spinocerebellar ataxia type 6 (SCA6)"
+19,13231718,A>G,1798,S1798P,
+19,13230193,A>G,1806,V1806A,"Developmental and epileptic encephalopathy, 52 (DEE52), Episodic ataxia type 2 (EA2), Migraine, familial hemiplegic, 1, Spinocerebellar ataxia type 6 (SCA6)"
+19,13230191,C>A,1807,A1807S,Global developmental delay (DD)
+19,13230191,C>T,1807,A1807T,"Developmental and epileptic encephalopathy, 42 (DEE42), Episodic ataxia type 2 (EA2)"
+19,13230188,C>T,1808,V1808I,"Developmental and epileptic encephalopathy, 42 (DEE42), Developmental and epileptic encephalopathy, 52 (DEE52), Episodic ataxia type 2 (EA2), Migraine, familial hemiplegic, 1, Spinocerebellar ataxia type 6 (SCA6)"
+19,13230185,T>G,1809,I1809L,"Developmental and epileptic encephalopathy, 42 (DEE42), Episodic ataxia type 2 (EA2), Familial hemiplegic migraine, Migraine, familial hemiplegic, 1, Migraine, familial hemiplegic, 1 (FHM1)"
+19,13230184,A>G,1809,I1809T,"Developmental and epileptic encephalopathy, 42 (DEE42), Episodic ataxia type 2 (EA2)"
+19,13230179,C>T,1811,D1811N,
+19,13230171,A>C,1813,F1813L,"Developmental and epileptic encephalopathy, 42 (DEE42), Episodic ataxia type 2 (EA2)"
+19,13230166,T>G,1815,Y1815S,
+19,13230161,T>G,1817,T1817P,
+19,13230158,G>C,1818,R1818G,"Developmental and epileptic encephalopathy, 42 (DEE42), Episodic ataxia type 2 (EA2)"
+19,13230157,C>G,1818,R1818P,
+19,13230157,C>T,1818,R1818Q,"Developmental and epileptic encephalopathy, 42 (DEE42), Episodic ataxia type 2 (EA2)"
+19,13230155,C>T,1819,D1819N,
+19,13230146,T>C,1822,I1822V,
+19,13230142,A>G,1823,L1823P,
+19,13230139,C>T,1824,G1824D,
+19,13230133,T>C,1826,H1826R,"Developmental and epileptic encephalopathy, 42 (DEE42), Episodic ataxia type 2 (EA2)"
+19,13230131,G>C,1827,H1827D,
+19,13230131,G>A,1827,H1827Y,
+19,13230122,C>T,1830,E1830K,
+19,13230116,C>T,1832,V1832M,
+19,13230099,C>G,1837,E1837D,"Developmental and epileptic encephalopathy, 42 (DEE42), Episodic ataxia type 2 (EA2)"
+19,13230101,C>T,1837,E1837K,"Developmental and epileptic encephalopathy, 42 (DEE42), Episodic ataxia type 2 (EA2)"
+19,13230101,C>G,1837,E1837Q,
+19,13230093,G>T,1839,D1839E,
+19,13230089,C>G,1841,A1841P,"Developmental and epileptic encephalopathy, 42 (DEE42), Episodic ataxia type 2 (EA2)"
+19,13230089,C>T,1841,A1841T,"Developmental and epileptic encephalopathy, 42 (DEE42), Episodic ataxia type 2 (EA2)"
+19,13227526,C>T,1844,G1844S,
+19,13227523,G>A,1845,R1845C,
+19,13227518,C>G,1846,M1846I,
+19,13227519,A>G,1846,M1846T,
+19,13227513,T>G,1848,Y1848S,
+19,13227510,A>G,1849,L1849P,
+19,13227510,A>C,1849,L1849R,
+19,13227486,T>C,1857,H1857R,
+19,13227482,C>T,1858,M1858I,
+19,13227477,G>A,1860,P1860L,
+19,13228722,A>G,1868,C1868R,"Episodic ataxia type 2 (EA2), Episodic ataxia 2 (EA2)"
+19,13227450,G>A,1869,P1869L,
+19,13227447,G>T,1870,A1870D,
+19,13227448,C>G,1870,A1870P,
+19,13227439,C>G,1873,A1873P,
+19,13224771,C>T,1876,R1876Q,
+19,13224772,G>A,1876,R1876W,
+19,13224762,C>G,1879,R1879P,
+19,13224762,C>T,1879,R1879Q,"Developmental and epileptic encephalopathy, 42 (DEE42), Episodic ataxia type 2 (EA2)"
+19,13224763,G>A,1879,R1879W,"Developmental and epileptic encephalopathy, 42 (DEE42), Episodic ataxia type 2 (EA2)"
+19,13224756,T>G,1881,D1881A,
+19,13224757,C>G,1881,D1881H,
+19,13224750,G>C,1883,P1883R,
+19,13224747,A>T,1884,V1884D,Spinocerebellar ataxia type 6 (SCA6)
+19,13224748,C>T,1884,V1884I,"Developmental and epileptic encephalopathy, 42 (DEE42), Episodic ataxia type 2 (EA2), Inborn genetic diseases, Migraine, familial hemiplegic, 1, Spinocerebellar ataxia type 6 (SCA6)"
+19,13224744,G>C,1885,A1885G,
+19,13224745,C>T,1885,A1885T,
+19,13224741,T>C,1886,D1886G,
+19,13224739,C>A,1887,D1887Y,
+19,13224735,T>C,1888,N1888S,
+19,13224735,T>G,1888,N1888T,
+19,13224730,C>T,1890,V1890I,
+19,13224720,T>C,1893,N1893S,
+19,13224715,T>C,1895,T1895A,
+19,13224708,A>C,1897,M1897R,"Developmental and epileptic encephalopathy, 42 (DEE42), Episodic ataxia type 2 (EA2)"
+19,13224709,T>C,1897,M1897V,
+19,13224703,G>C,1899,L1899V,"Developmental and epileptic encephalopathy, 42 (DEE42), Episodic ataxia type 2 (EA2)"
+19,13224697,G>A,1901,R1901C,
+19,13224696,C>T,1901,R1901H,
+19,13224694,T>C,1902,T1902A,
+19,13224682,T>C,1906,I1906V,
+19,13224678,T>C,1907,K1907R,"Developmental and epileptic encephalopathy, 42 (DEE42)"
+19,13224667,C>T,1911,G1911R,"Developmental and epileptic encephalopathy, 42 (DEE42), Episodic ataxia type 2 (EA2)"
+19,13214605,C>T,1912,G1912E,"Developmental and epileptic encephalopathy, 42 (DEE42)"
+19,13214606,C>T,1912,G1912R,"Developmental and epileptic encephalopathy, 42 (DEE42), Episodic ataxia type 2 (EA2)"
+19,13214602,G>A,1913,A1913V,
+19,13214599,T>C,1914,D1914G,
+19,13214600,C>T,1914,D1914N,"Developmental and epileptic encephalopathy, 42 (DEE42), Episodic ataxia type 2 (EA2)"
+19,13214596,T>C,1915,K1915R,
+19,13214590,T>A,1917,Q1917L,
+19,13214587,A>G,1918,M1918T,
+19,13214585,C>T,1919,D1919N,"Developmental and epileptic encephalopathy, 42 (DEE42), Episodic ataxia type 2 (EA2)"
+19,13214582,C>A,1920,A1920S,
+19,13214582,C>T,1920,A1920T,"Developmental and epileptic encephalopathy, 42 (DEE42), Episodic ataxia type 2 (EA2)"
+19,13214581,G>A,1920,A1920V,
+19,13214579,C>T,1921,E1921K,"Developmental and epileptic encephalopathy, 42 (DEE42), Episodic ataxia type 2 (EA2)"
+19,13214572,C>T,1923,R1923Q,"Developmental and epileptic encephalopathy, 42 (DEE42), Episodic ataxia type 2 (EA2)"
+19,13214568,C>A,1924,K1924N,
+19,13214570,T>G,1924,K1924Q,
+19,13214569,T>C,1924,K1924R,
+19,13214569,T>G,1924,K1924T,"Developmental and epileptic encephalopathy, 42 (DEE42), Episodic ataxia type 2 (EA2)"
+19,13214567,C>G,1925,E1925Q,
+19,13214562,C>T,1926,M1926I,"Developmental and epileptic encephalopathy, 42 (DEE42), Episodic ataxia type 2 (EA2)"
+19,13214561,T>A,1927,M1927L,"Developmental and epileptic encephalopathy, 42 (DEE42), Episodic ataxia type 2 (EA2)"
+19,13214561,T>C,1927,M1927V,
+19,13214557,G>T,1928,A1928E,
+19,13214557,G>A,1928,A1928V,
+19,13214549,G>A,1931,P1931S,
+19,13214546,T>C,1932,N1932D,
+19,13214545,T>C,1932,N1932S,"Developmental and epileptic encephalopathy, 42 (DEE42), Episodic ataxia type 2 (EA2), Inborn genetic diseases"
+19,13214539,G>C,1934,S1934C,"Developmental and epileptic encephalopathy, 42 (DEE42), Episodic ataxia type 2 (EA2)"
+19,13214537,G>T,1935,Q1935K,"Developmental and epileptic encephalopathy, 42 (DEE42), Episodic ataxia type 2 (EA2)"
+19,13214530,G>A,1937,T1937M,"Developmental and epileptic encephalopathy, 42 (DEE42), Episodic ataxia type 2 (EA2), Inborn genetic diseases"
+19,13214527,A>G,1938,L1938P,
+19,13214523,G>T,1939,D1939E,
+19,13214525,C>G,1939,D1939H,
+19,13214525,C>T,1939,D1939N,
+19,13214516,C>T,1942,V1942I,
+19,13214513,T>C,1943,T1943A,
+19,13214509,G>C,1944,P1944R,
+19,13214510,G>A,1944,P1944S,
+19,13214506,T>G,1945,H1945P,
+19,13214503,T>G,1946,K1946T,
+19,13214330,G>A,1948,T1948M,"Developmental and epileptic encephalopathy, 42 (DEE42), Episodic ataxia type 2 (EA2)"
+19,13214327,T>A,1949,D1949V,
+19,13214319,C>A,1952,V1952L,
+19,13214319,C>T,1952,V1952M,"Developmental and epileptic encephalopathy, 42 (DEE42), Episodic ataxia type 2 (EA2)"
+19,13214316,C>T,1953,G1953R,"Developmental and epileptic encephalopathy, 42 (DEE42), Episodic ataxia type 2 (EA2)"
+19,13214306,T>C,1956,Y1956C,
+19,13214306,T>A,1956,Y1956F,
+19,13214304,C>T,1957,A1957T,"Developmental and epileptic encephalopathy, 42 (DEE42), Episodic ataxia type 2 (EA2)"
+19,13214297,A>G,1959,M1959T,"Developmental and epileptic encephalopathy, 42 (DEE42), Episodic ataxia type 2 (EA2)"
+19,13214298,T>C,1959,M1959V,
+19,13214293,C>T,1960,M1960I,"Developmental and epileptic encephalopathy, 42 (DEE42), Episodic ataxia type 2 (EA2), Migraine, familial hemiplegic, 1, Spinocerebellar ataxia type 6 (SCA6)"
+19,13214288,A>G,1962,M1962T,
+19,13214282,T>C,1964,Y1964C,Inborn genetic diseases
+19,13214276,C>A,1966,R1966L,
+19,13214276,C>T,1966,R1966Q,"Developmental and epileptic encephalopathy, 42 (DEE42), Episodic ataxia type 2 (EA2), Inborn genetic diseases"
+19,13214277,G>A,1966,R1966W,"Developmental and epileptic encephalopathy, 42 (DEE42), Episodic ataxia type 2 (EA2)"
+19,13214264,G>A,1970,A1970V,
+19,13214260,C>G,1971,K1971N,
+19,13214252,T>G,1974,Q1974P,
+19,13214250,C>T,1975,A1975T,
+19,13214249,G>A,1975,A1975V,
+19,13214245,C>T,1976,M1976I,
+19,13214246,A>G,1976,M1976T,
+19,13214247,T>C,1976,M1976V,
+19,13214244,G>A,1977,R1977C,
+19,13214243,C>T,1977,R1977H,"Developmental and epileptic encephalopathy, 42 (DEE42), Episodic ataxia type 2 (EA2)"
+19,13214244,G>T,1977,R1977S,
+19,13214241,C>T,1978,E1978K,"Developmental and epileptic encephalopathy, 42 (DEE42), Episodic ataxia type 2 (EA2), Inborn genetic diseases, Intellectual disability"
+19,13214237,T>G,1979,E1979A,
+19,13214238,C>T,1979,E1979K,
+19,13214235,G>C,1980,Q1980E,
+19,13214234,T>G,1980,Q1980P,
+19,13212739,T>C,1981,D1981G,
+19,13212736,C>T,1982,R1982Q,"Developmental and epileptic encephalopathy, 42 (DEE42), Episodic ataxia type 2 (EA2), Inborn genetic diseases, Migraine, familial hemiplegic, 1"
+19,13212737,G>A,1982,R1982W,
+19,13212733,G>A,1983,T1983I,"Developmental and epileptic encephalopathy, 42 (DEE42), Episodic ataxia type 2 (EA2)"
+19,13212728,G>C,1985,L1985V,
+19,13212724,A>G,1986,M1986T,"Developmental and epileptic encephalopathy, 42 (DEE42), Episodic ataxia type 2 (EA2)"
+19,13212725,T>C,1986,M1986V,
+19,13212722,A>G,1987,F1987L,
+19,13212717,C>G,1988,Q1988H,
+19,13212716,G>A,1989,R1989C,
+19,13212715,C>T,1989,R1989H,"Developmental and epileptic encephalopathy, 42 (DEE42), Episodic ataxia type 2 (EA2)"
+19,13212713,T>G,1990,M1990L,
+19,13212710,C>T,1991,E1991K,
+19,13212710,C>G,1991,E1991Q,
+19,13212709,T>A,1991,E1991V,
+19,13212706,G>T,1992,P1992H,
+19,13212706,G>A,1992,P1992L,
+19,13212706,G>C,1992,P1992R,
+19,13212703,G>A,1993,P1993L,
+19,13212703,G>T,1993,P1993Q,
+19,13212697,G>A,1995,P1995L,"Developmental and epileptic encephalopathy, 42 (DEE42), Episodic ataxia type 2 (EA2)"
+19,13212698,G>A,1995,P1995S,
+19,13212695,T>C,1996,T1996A,"Developmental and epileptic encephalopathy, 42 (DEE42), Episodic ataxia type 2 (EA2), Inborn genetic diseases"
+19,13212694,G>A,1996,T1996M,"Developmental and epileptic encephalopathy, 42 (DEE42), Episodic ataxia type 2 (EA2)"
+19,13212694,G>C,1996,T1996R,
+19,13212687,T>G,1998,E1998D,"Developmental and epileptic encephalopathy, 42 (DEE42), Episodic ataxia type 2 (EA2)"
+19,13212689,C>T,1998,E1998K,
+19,13212686,C>G,1999,G1999R,
+19,13212682,C>G,2000,G2000A,"Developmental and epileptic encephalopathy, 42 (DEE42), Episodic ataxia type 2 (EA2)"
+19,13212682,C>T,2000,G2000E,
+19,13212683,C>T,2000,G2000R,
+19,13212679,G>A,2001,P2001L,
+19,13212680,G>A,2001,P2001S,"Developmental and epileptic encephalopathy, 42 (DEE42), Episodic ataxia type 2 (EA2), Spinocerebellar ataxia type 6 (SCA6)"
+19,13212676,C>G,2002,G2002A,
+19,13212676,C>T,2002,G2002D,"Developmental and epileptic encephalopathy, 42 (DEE42), Episodic ataxia type 2 (EA2)"
+19,13212677,C>T,2002,G2002S,"Developmental and epileptic encephalopathy, 42 (DEE42)"
+19,13212667,G>T,2005,A2005D,
+19,13212668,C>A,2005,A2005S,
+19,13212668,C>T,2005,A2005T,"Developmental and epileptic encephalopathy, 42 (DEE42), Episodic ataxia type 2 (EA2)"
+19,13212664,A>C,2006,L2006R,"Developmental and epileptic encephalopathy, 42 (DEE42), Episodic ataxia type 2 (EA2)"
+19,13212662,G>C,2007,P2007A,
+19,13212661,G>A,2007,P2007L,
+19,13212658,G>C,2008,S2008C,
+19,13212655,G>T,2009,T2009N,"Developmental and epileptic encephalopathy, 42 (DEE42), Episodic ataxia type 2 (EA2)"
+19,13212650,G>C,2011,L2011V,
+19,13212646,T>C,2012,D2012G,"Developmental and epileptic encephalopathy, 42 (DEE42), Episodic ataxia type 2 (EA2)"
+19,13212647,C>G,2012,D2012H,
+19,13212640,C>G,2014,G2014A,
+19,13212637,C>G,2015,G2015A,
+19,13212637,C>T,2015,G2015E,"Developmental and epileptic encephalopathy, 42 (DEE42), Episodic ataxia type 2 (EA2), Inborn genetic diseases"
+19,13212638,C>T,2015,G2015R,
+19,13212635,C>T,2016,A2016T,
+19,13212631,A>G,2017,L2017P,"Developmental and epileptic encephalopathy, 42 (DEE42), Episodic ataxia type 2 (EA2)"
+19,13212518,C>A,2019,A2019S,"Developmental and epileptic encephalopathy, 42 (DEE42), Episodic ataxia type 2 (EA2), Inborn genetic diseases"
+19,13212517,G>A,2019,A2019V,
+19,13212515,G>A,2020,H2020Y,"Developmental and epileptic encephalopathy, 42 (DEE42), Episodic ataxia type 2 (EA2)"
+19,13212512,C>T,2021,E2021K,"Developmental and epileptic encephalopathy, 42 (DEE42), Episodic ataxia type 2 (EA2), Inborn genetic diseases, Migraine, familial hemiplegic, 1, Spinocerebellar ataxia type 6 (SCA6)"
+19,13212508,C>T,2022,S2022N,"Developmental and epileptic encephalopathy, 42 (DEE42), Episodic ataxia type 2 (EA2)"
+19,13212506,C>A,2023,G2023C,"Developmental and epileptic encephalopathy, 42 (DEE42), Episodic ataxia type 2 (EA2)"
+19,13212505,C>T,2023,G2023D,
+19,13212506,C>T,2023,G2023S,"Developmental and epileptic encephalopathy, 42 (DEE42), Episodic ataxia type 2 (EA2), Inborn genetic diseases"
+19,13212503,G>A,2024,L2024F,
+19,13212500,T>G,2025,K2025Q,"Developmental and epileptic encephalopathy, 42 (DEE42), Episodic ataxia type 2 (EA2)"
+19,13212496,T>C,2026,E2026G,"Developmental and epileptic encephalopathy, 42 (DEE42), Episodic ataxia type 2 (EA2)"
+19,13212494,T>C,2027,S2027G,"Developmental and epileptic encephalopathy, 42 (DEE42), Episodic ataxia type 2 (EA2)"
+19,13212493,C>A,2027,S2027I,
+19,13212492,G>T,2027,S2027R,
+19,13212490,G>A,2028,P2028L,"Developmental and epileptic encephalopathy, 42 (DEE42), Episodic ataxia type 2 (EA2)"
+19,13212490,G>C,2028,P2028R,"Developmental and epileptic encephalopathy, 42 (DEE42), Episodic ataxia type 2 (EA2)"
+19,13212488,A>G,2029,S2029P,
+19,13212487,G>T,2029,S2029Y,
+19,13212482,C>A,2031,V2031L,
+19,13212472,C>T,2034,R2034H,"Developmental and epileptic encephalopathy, 42 (DEE42), Episodic ataxia type 2 (EA2)"
+19,13212467,G>T,2036,Q2036K,
+19,13212462,C>G,2037,E2037D,
+19,13212460,A>G,2038,M2038T,
+19,13212457,A>G,2039,F2039S,
+19,13212449,T>C,2042,T2042A,
+19,13212448,G>A,2042,T2042M,"Combined immunodeficiency, Developmental and epileptic encephalopathy, 42 (DEE42), Episodic ataxia type 2 (EA2), Inborn genetic diseases, Migraine, familial hemiplegic, 1, Myelitis, Spinocerebellar ataxia type 6 (SCA6)"
+19,13212449,T>G,2042,T2042P,
+19,13212448,G>C,2042,T2042R,
+19,13212445,C>T,2043,G2043D,"Developmental and epileptic encephalopathy, 42 (DEE42), Episodic ataxia type 2 (EA2)"
+19,13212446,C>G,2043,G2043R,
+19,13212443,T>C,2044,T2044A,"Developmental and epileptic encephalopathy, 42 (DEE42), Episodic ataxia type 2 (EA2)"
+19,13212436,C>A,2046,S2046I,
+19,13212437,T>G,2046,S2046R,
+19,13212433,G>A,2047,P2047L,"Developmental and epileptic encephalopathy, 42 (DEE42), Episodic ataxia type 2 (EA2), Inborn genetic diseases"
+19,13212431,C>T,2048,E2048K,Inborn genetic diseases
+19,13212426,T>G,2049,Q2049H,
+19,13212427,T>C,2049,Q2049R,
+19,13212425,C>T,2050,G2050S,
+19,13212424,C>A,2050,G2050V,"Developmental and epileptic encephalopathy, 42 (DEE42), Episodic ataxia type 2 (EA2)"
+19,13212422,G>C,2051,P2051A,
+19,13212421,G>A,2051,P2051L,
+19,13212419,G>C,2052,P2052A,
+19,13212418,G>A,2052,P2052L,
+19,13212419,G>A,2052,P2052S,
+19,13212416,T>G,2053,T2053P,
+19,13212411,G>T,2054,D2054E,"Developmental and epileptic encephalopathy, 42 (DEE42), Episodic ataxia type 2 (EA2), Inborn genetic diseases"
+19,13212412,T>C,2054,D2054G,
+19,13212413,C>T,2054,D2054N,"Developmental and epileptic encephalopathy, 42 (DEE42), Episodic ataxia type 2 (EA2), Inborn genetic diseases"
+19,13212400,C>G,2058,S2058T,"Developmental and epileptic encephalopathy, 42 (DEE42), Episodic ataxia type 2 (EA2)"
+19,13212396,C>G,2059,Q2059H,
+19,13212394,G>A,2060,P2060L,
+19,13212392,T>G,2061,N2061H,"Developmental and epileptic encephalopathy, 42 (DEE42), Episodic ataxia type 2 (EA2)"
+19,13212213,C>G,2065,V2065L,
+19,13212213,C>T,2065,V2065M,"Developmental and epileptic encephalopathy, 42 (DEE42), Episodic ataxia type 2 (EA2)"
+19,13212206,A>G,2067,M2067T,
+19,13212204,G>C,2068,R2068G,"Developmental and epileptic encephalopathy, 42 (DEE42), Episodic ataxia type 2 (EA2)"
+19,13212203,C>G,2068,R2068P,
+19,13212203,C>T,2068,R2068Q,"Developmental and epileptic encephalopathy, 42 (DEE42), Episodic ataxia type 2 (EA2), Inborn genetic diseases"
+19,13212201,C>T,2069,E2069K,"Developmental and epileptic encephalopathy, 42 (DEE42), Episodic ataxia type 2 (EA2)"
+19,13212201,C>G,2069,E2069Q,
+19,13212196,C>T,2070,M2070I,
+19,13212197,A>G,2070,M2070T,"Developmental and epileptic encephalopathy, 42 (DEE42)"
+19,13212194,C>T,2071,G2071D,
+19,13212195,C>T,2071,G2071S,"Developmental and epileptic encephalopathy, 42 (DEE42), Episodic ataxia type 2 (EA2)"
+19,13212192,T>C,2072,R2072G,"Developmental and epileptic encephalopathy, 42 (DEE42), Episodic ataxia type 2 (EA2)"
+19,13212191,C>T,2072,R2072K,
+19,13212189,C>T,2073,D2073N,"Developmental and epileptic encephalopathy, 42 (DEE42), Episodic ataxia type 2 (EA2)"
+19,13212186,C>T,2074,G2074S,"Developmental and epileptic encephalopathy, 42 (DEE42), Episodic ataxia type 2 (EA2)"
+19,13212185,C>A,2074,G2074V,
+19,13212183,A>G,2075,Y2075H,
+19,13212182,T>G,2075,Y2075S,
+19,13212175,G>T,2077,D2077E,"Developmental and epileptic encephalopathy, 42 (DEE42), Episodic ataxia type 2 (EA2)"
+19,13212177,C>T,2077,D2077N,"Developmental and epileptic encephalopathy, 42 (DEE42), Episodic ataxia type 2 (EA2)"
+19,13212176,T>A,2077,D2077V,"Developmental and epileptic encephalopathy, 42 (DEE42), Episodic ataxia type 2 (EA2)"
+19,13212174,T>C,2078,S2078G,
+19,13212173,C>T,2078,S2078N,
+19,13212171,C>T,2079,E2079K,"Developmental and epileptic encephalopathy, 42 (DEE42), Episodic ataxia type 2 (EA2)"
+19,13212168,G>T,2080,H2080N,
+19,13212166,G>C,2080,H2080Q,"Developmental and epileptic encephalopathy, 42 (DEE42), Episodic ataxia type 2 (EA2)"
+19,13212167,T>C,2080,H2080R,
+19,13212165,A>G,2081,Y2081H,"Developmental and epileptic encephalopathy, 42 (DEE42), Episodic ataxia type 2 (EA2), Inborn genetic diseases"
+19,13212164,T>G,2081,Y2081S,
+19,13212162,G>C,2082,L2082V,
+19,13212159,G>A,2083,P2083S,"Developmental and epileptic encephalopathy, 42 (DEE42), Episodic ataxia type 2 (EA2)"
+19,13212155,A>T,2084,M2084K,
+19,13212155,A>G,2084,M2084T,
+19,13212156,T>C,2084,M2084V,"Developmental and epileptic encephalopathy, 42 (DEE42), Episodic ataxia type 2 (EA2)"
+19,13212149,C>A,2086,G2086V,"Developmental and epileptic encephalopathy, 42 (DEE42), Episodic ataxia type 2 (EA2)"
+19,13212143,C>G,2088,G2088A,"Developmental and epileptic encephalopathy, 42 (DEE42), Episodic ataxia type 2 (EA2)"
+19,13212144,C>T,2088,G2088S,"Developmental and epileptic encephalopathy, 42 (DEE42), Episodic ataxia type 2 (EA2)"
+19,13212140,C>T,2089,R2089Q,"Developmental and epileptic encephalopathy, 42 (DEE42), Episodic ataxia type 2 (EA2)"
+19,13212141,G>A,2089,R2089W,
+19,13212134,G>T,2091,A2091D,
+19,13212135,C>T,2091,A2091T,
+19,13212134,G>A,2091,A2091V,
+19,13212131,G>T,2092,S2092Y,"Developmental and epileptic encephalopathy, 42 (DEE42), Episodic ataxia type 2 (EA2)"
+19,13212129,T>G,2093,M2093L,
+19,13212129,T>C,2093,M2093V,
+19,13212125,G>A,2094,P2094L,"CACNA1A-Related Disorder, Developmental and epileptic encephalopathy, 42 (DEE42), Episodic ataxia type 2 (EA2), Inborn genetic diseases"
+19,13212126,G>A,2094,P2094S,
+19,13212123,G>A,2095,R2095C,
+19,13212122,C>T,2095,R2095H,
+19,13212122,C>G,2095,R2095P,
+19,13212123,G>T,2095,R2095S,
+19,13212120,G>A,2096,L2096F,
+19,13212117,G>A,2097,P2097S,
+19,13212117,G>T,2097,P2097T,
+19,13212114,C>G,2098,A2098P,"Developmental and epileptic encephalopathy, 42 (DEE42), Episodic ataxia type 2 (EA2)"
+19,13212113,G>A,2098,A2098V,
+19,13212111,C>T,2099,E2099K,"Developmental and epileptic encephalopathy, 42 (DEE42), Episodic ataxia type 2 (EA2)"
+19,13212105,G>C,2101,Q2101E,
+19,13210651,C>T,2102,R2102K,"Developmental and epileptic encephalopathy, 42 (DEE42), Episodic ataxia type 2 (EA2)"
+19,13210651,C>A,2102,R2102M,
+19,13210650,C>A,2102,R2102S,
+19,13210648,C>A,2103,R2103I,
+19,13210646,T>C,2104,R2104G,
+19,13210644,C>A,2104,R2104S,
+19,13210642,C>T,2105,G2105D,
+19,13210643,C>T,2105,G2105S,"Developmental and epileptic encephalopathy, 42 (DEE42), Episodic ataxia type 2 (EA2)"
+19,13210639,C>A,2106,R2106L,"Developmental and epileptic encephalopathy, 42 (DEE42), Episodic ataxia type 2 (EA2)"
+19,13210639,C>T,2106,R2106Q,"Developmental and epileptic encephalopathy, 42 (DEE42), Episodic ataxia type 2 (EA2)"
+19,13210640,G>A,2106,R2106W,"Developmental and epileptic encephalopathy, 42 (DEE42), Episodic ataxia type 2 (EA2)"
+19,13210636,G>T,2107,P2107Q,
+19,13210634,G>A,2108,R2108C,
+19,13210633,C>T,2108,R2108H,"Developmental and epileptic encephalopathy, 42 (DEE42), Episodic ataxia type 2 (EA2)"
+19,13210633,C>A,2108,R2108L,
+19,13210634,G>T,2108,R2108S,"Developmental and epileptic encephalopathy, 42 (DEE42), Episodic ataxia type 2 (EA2)"
+19,13210630,C>G,2109,G2109A,
+19,13210630,C>T,2109,G2109E,"Developmental and epileptic encephalopathy, 42 (DEE42), Episodic ataxia type 2 (EA2)"
+19,13210630,C>A,2109,G2109V,
+19,13210631,C>A,2109,G2109W,
+19,13210628,T>G,2110,N2110H,
+19,13210627,T>C,2110,N2110S,
+19,13210625,T>C,2111,N2111D,"Developmental and epileptic encephalopathy, 42 (DEE42), Episodic ataxia type 2 (EA2)"
+19,13210623,G>T,2111,N2111K,
+19,13210621,A>C,2112,L2112R,
+19,13210618,C>A,2113,S2113I,
+19,13210618,C>T,2113,S2113N,
+19,13209498,T>G,2114,T2114P,
+19,13209498,T>A,2114,T2114S,"Developmental and epileptic encephalopathy, 42 (DEE42), Episodic ataxia type 2 (EA2)"
+19,13209492,A>C,2116,S2116A,"Developmental and epileptic encephalopathy, 42 (DEE42), Episodic ataxia type 2 (EA2)"
+19,13209486,T>G,2118,T2118P,
+19,13209481,G>T,2119,S2119R,
+19,13209479,G>T,2120,P2120H,
+19,13209479,G>C,2120,P2120R,
+19,13209480,G>A,2120,P2120S,"Developmental and epileptic encephalopathy, 42 (DEE42), Episodic ataxia type 2 (EA2)"
+19,13209477,T>A,2121,M2121L,"Developmental and epileptic encephalopathy, 42 (DEE42), Episodic ataxia type 2 (EA2), Inborn genetic diseases"
+19,13209472,C>A,2122,K2122N,
+19,13209473,T>C,2122,K2122R,
+19,13209471,G>A,2123,R2123C,"Developmental and epileptic encephalopathy, 42 (DEE42), Episodic ataxia type 2 (EA2)"
+19,13209470,C>T,2123,R2123H,"Developmental and epileptic encephalopathy, 42 (DEE42), Episodic ataxia type 2 (EA2)"
+19,13209470,C>G,2123,R2123P,"Developmental and epileptic encephalopathy, 42 (DEE42), Episodic ataxia type 2 (EA2), Migraine, familial hemiplegic, 1"
+19,13209464,G>T,2125,A2125D,
+19,13209464,G>A,2125,A2125V,
+19,13209459,C>G,2127,V2127L,
+19,13209459,C>T,2127,V2127M,"Developmental and epileptic encephalopathy, 42 (DEE42), Episodic ataxia type 2 (EA2), Inborn genetic diseases"
+19,13209452,C>T,2129,G2129D,
+19,13209453,C>G,2129,G2129R,"Developmental and epileptic encephalopathy, 42 (DEE42), Episodic ataxia type 2 (EA2)"
+19,13209453,C>T,2129,G2129S,
+19,13209444,C>A,2132,A2132S,
+19,13209443,G>A,2132,A2132V,
+19,13209440,C>G,2133,R2133P,
+19,13209440,C>T,2133,R2133Q,"Developmental and epileptic encephalopathy, 42 (DEE42), Episodic ataxia type 2 (EA2)"
+19,13209438,G>A,2134,R2134C,"Cerebellar ataxia, Developmental and epileptic encephalopathy, 42 (DEE42), Episodic ataxia type 2 (EA2), Inborn genetic diseases, Spinocerebellar ataxia type 6 (SCA6), Episodic ataxia 2 (EA2)"
+19,13209437,C>T,2134,R2134H,"Developmental and epileptic encephalopathy, 42 (DEE42), Episodic ataxia type 2 (EA2)"
+19,13209432,C>G,2136,D2136H,
+19,13209432,C>T,2136,D2136N,
+19,13209429,C>T,2137,D2137N,"Developmental and epileptic encephalopathy, 42 (DEE42), Episodic ataxia type 2 (EA2)"
+19,13209429,C>A,2137,D2137Y,
+19,13209422,G>A,2139,S2139L,
+19,13209416,T>C,2141,E2141G,
+19,13209417,C>T,2141,E2141K,
+19,13209413,C>G,2142,R2142P,
+19,13209413,C>T,2142,R2142Q,"Developmental and epileptic encephalopathy, 42 (DEE42), Episodic ataxia type 2 (EA2), Inborn genetic diseases"
+19,13209414,G>A,2142,R2142W,
+19,13209410,A>C,2143,V2143G,
+19,13209411,C>G,2143,V2143L,
+19,13209407,G>A,2144,P2144L,"Developmental and epileptic encephalopathy, 42 (DEE42), Episodic ataxia type 2 (EA2), Inborn genetic diseases, Migraine, familial hemiplegic, 1, Spinocerebellar ataxia type 6 (SCA6)"
+19,13209402,C>T,2146,E2146K,"Developmental and epileptic encephalopathy, 42 (DEE42), Episodic ataxia type 2 (EA2)"
+19,13209398,T>C,2147,E2147G,
+19,13209394,G>T,2148,N2148K,"Developmental and epileptic encephalopathy, 42 (DEE42), Episodic ataxia type 2 (EA2)"
+19,13209393,G>T,2149,Q2149K,
+19,13209390,G>C,2150,R2150G,"Developmental and epileptic encephalopathy, 42 (DEE42), Episodic ataxia type 2 (EA2)"
+19,13209389,C>T,2150,R2150Q,"Developmental and epileptic encephalopathy, 42 (DEE42), Episodic ataxia type 2 (EA2), Inborn genetic diseases"
+19,13209390,G>A,2150,R2150W,"Developmental and epileptic encephalopathy, 42 (DEE42), Episodic ataxia type 2 (EA2)"
+19,13209385,G>T,2151,H2151Q,
+19,13209387,G>A,2151,H2151Y,"Developmental and epileptic encephalopathy, 42 (DEE42), Episodic ataxia type 2 (EA2)"
+19,13209382,G>C,2152,H2152Q,"Developmental and epileptic encephalopathy, 42 (DEE42), Episodic ataxia type 2 (EA2)"
+19,13209381,G>C,2153,Q2153E,
+19,13209379,C>A,2153,Q2153H,
+19,13209381,G>T,2153,Q2153K,
+19,13209380,T>C,2153,Q2153R,"Developmental and epileptic encephalopathy, 42 (DEE42), Episodic ataxia type 2 (EA2)"
+19,13209377,C>A,2154,R2154L,"Developmental and epileptic encephalopathy, 42 (DEE42), Episodic ataxia type 2 (EA2)"
+19,13209377,C>T,2154,R2154Q,
+19,13209378,G>A,2154,R2154W,"Developmental and epileptic encephalopathy, 42 (DEE42), Episodic ataxia type 2 (EA2), Inborn genetic diseases"
+19,13209375,G>A,2155,R2155C,"Developmental and epileptic encephalopathy, 42 (DEE42), Episodic ataxia type 2 (EA2)"
+19,13209374,C>T,2155,R2155H,"Developmental and epileptic encephalopathy, 42 (DEE42), Episodic ataxia type 2 (EA2), Inborn genetic diseases"
+19,13209374,C>A,2155,R2155L,"Developmental and epileptic encephalopathy, 42 (DEE42), Episodic ataxia type 2 (EA2), Inborn genetic diseases"
+19,13209372,G>A,2156,R2156C,"Developmental and epileptic encephalopathy, 42 (DEE42), Episodic ataxia type 2 (EA2), Inborn genetic diseases, Migraine, familial hemiplegic, 1, Spinocerebellar ataxia type 6 (SCA6)"
+19,13209372,G>C,2156,R2156G,"Developmental and epileptic encephalopathy, 42 (DEE42), Episodic ataxia type 2 (EA2)"
+19,13209371,C>T,2156,R2156H,"Developmental and epileptic encephalopathy, 42 (DEE42), Episodic ataxia type 2 (EA2), Inborn genetic diseases"
+19,13209371,C>A,2156,R2156L,
+19,13209367,G>T,2157,D2157E,
+19,13209369,C>T,2157,D2157N,"Developmental and epileptic encephalopathy, 42 (DEE42), Episodic ataxia type 2 (EA2)"
+19,13209366,G>A,2158,R2158C,"Developmental and epileptic encephalopathy, 42 (DEE42), Episodic ataxia type 2 (EA2)"
+19,13209365,C>T,2158,R2158H,"Developmental and epileptic encephalopathy, 42 (DEE42), Episodic ataxia type 2 (EA2)"
+19,13209363,T>C,2159,S2159G,
+19,13209360,G>C,2160,H2160D,
+19,13209359,T>G,2160,H2160P,
+19,13209357,G>A,2161,R2161C,"Developmental and epileptic encephalopathy, 42 (DEE42), Episodic ataxia type 2 (EA2), Inborn genetic diseases"
+19,13209356,C>T,2161,R2161H,"Developmental and epileptic encephalopathy, 42 (DEE42), Episodic ataxia type 2 (EA2)"
+19,13209354,C>T,2162,A2162T,"Developmental and epileptic encephalopathy, 42 (DEE42), Episodic ataxia type 2 (EA2), Inborn genetic diseases"
+19,13209350,G>C,2163,S2163C,
+19,13209350,G>A,2163,S2163F,
+19,13209345,G>A,2165,R2165C,"Developmental and epileptic encephalopathy, 42 (DEE42), Episodic ataxia type 2 (EA2), Inborn genetic diseases"
+19,13209344,C>T,2165,R2165H,"Developmental and epileptic encephalopathy, 42 (DEE42), Episodic ataxia type 2 (EA2), Inborn genetic diseases"
+19,13209345,G>T,2165,R2165S,
+19,13209341,G>A,2166,S2166F,
+19,13209341,G>T,2166,S2166Y,
+19,13209336,C>A,2168,G2168C,
+19,13209335,C>T,2168,G2168D,
+19,13209336,C>G,2168,G2168R,
+19,13209333,G>A,2169,R2169C,"Developmental and epileptic encephalopathy, 42 (DEE42), Episodic ataxia type 2 (EA2), Inborn genetic diseases, Migraine, familial hemiplegic, 1, Spinocerebellar ataxia type 6 (SCA6)"
+19,13209333,G>C,2169,R2169G,"Developmental and epileptic encephalopathy, 42 (DEE42), Episodic ataxia type 2 (EA2)"
+19,13209332,C>T,2169,R2169H,"Developmental and epileptic encephalopathy, 42 (DEE42), Episodic ataxia type 2 (EA2)"
+19,13209332,C>A,2169,R2169L,"Developmental and epileptic encephalopathy, 42 (DEE42)"
+19,13209330,A>G,2170,Y2170H,
+19,13209323,T>C,2172,D2172G,
+19,13209324,C>T,2172,D2172N,"Developmental and epileptic encephalopathy, 42 (DEE42), Episodic ataxia type 2 (EA2)"
+19,13209324,C>A,2172,D2172Y,"Developmental and epileptic encephalopathy, 42 (DEE42), Episodic ataxia type 2 (EA2), Inborn genetic diseases"
+19,13209009,C>A,2176,G2176V,"Developmental and epileptic encephalopathy, 42 (DEE42), Episodic ataxia type 2 (EA2), Inborn genetic diseases"
+19,13209003,C>T,2178,G2178E,
+19,13209004,C>T,2178,G2178R,"Developmental and epileptic encephalopathy, 42 (DEE42), Episodic ataxia type 2 (EA2)"
+19,13209000,G>C,2179,T2179R,
+19,13208998,C>T,2180,D2180N,
+19,13208994,A>G,2181,L2181P,"Developmental and epileptic encephalopathy, 42 (DEE42), Episodic ataxia type 2 (EA2)"
+19,13208992,T>C,2182,S2182G,
+19,13208991,C>G,2182,S2182T,
+19,13208987,C>T,2183,M2183I,"Developmental and epileptic encephalopathy, 42 (DEE42), Episodic ataxia type 2 (EA2), Inborn genetic diseases"
+19,13208986,T>C,2184,T2184A,"Developmental and epileptic encephalopathy, 42 (DEE42), Episodic ataxia type 2 (EA2), Inborn genetic diseases"
+19,13208980,G>C,2186,Q2186E,
+19,13208973,C>T,2188,G2188E,
+19,13208974,C>T,2188,G2188R,"Developmental and epileptic encephalopathy, 42 (DEE42), Episodic ataxia type 2 (EA2)"
+19,13208971,C>T,2189,D2189N,"Developmental and epileptic encephalopathy, 42 (DEE42), Episodic ataxia type 2 (EA2), Migraine, familial hemiplegic, 1"
+19,13208964,G>A,2191,P2191L,"Developmental and epileptic encephalopathy, 42 (DEE42), Episodic ataxia type 2 (EA2)"
+19,13208964,G>T,2191,P2191Q,
+19,13208961,G>A,2192,S2192L,"Developmental and epileptic encephalopathy, 42 (DEE42), Episodic ataxia type 2 (EA2), Migraine, familial hemiplegic, 1"
+19,13208955,T>C,2194,E2194G,
+19,13208956,C>T,2194,E2194K,
+19,13208953,G>C,2195,R2195G,
+19,13208952,C>A,2195,R2195L,"Developmental and epileptic encephalopathy, 42 (DEE42), Episodic ataxia type 2 (EA2)"
+19,13208952,C>T,2195,R2195Q,"Developmental and epileptic encephalopathy, 42 (DEE42), Episodic ataxia type 2 (EA2), Inborn genetic diseases"
+19,13208953,G>A,2195,R2195W,"Developmental and epileptic encephalopathy, 42 (DEE42), Episodic ataxia type 2 (EA2)"
+19,13208948,G>T,2196,D2196E,"Developmental and epileptic encephalopathy, 42 (DEE42), Episodic ataxia type 2 (EA2)"
+19,13208950,C>T,2196,D2196N,
+19,13208945,C>A,2197,Q2197H,"Developmental and epileptic encephalopathy, 42 (DEE42), Episodic ataxia type 2 (EA2)"
+19,13208943,T>C,2198,E2198G,
+19,13208944,C>G,2198,E2198Q,
+19,13208940,C>T,2199,R2199Q,"Developmental and epileptic encephalopathy, 42 (DEE42), Episodic ataxia type 2 (EA2)"
+19,13208941,G>A,2199,R2199W,"Developmental and epileptic encephalopathy, 42 (DEE42), Episodic ataxia type 2 (EA2)"
+19,13208937,C>G,2200,G2200A,"Developmental and epileptic encephalopathy, 42 (DEE42), Episodic ataxia type 2 (EA2)"
+19,13208937,C>T,2200,G2200D,
+19,13208935,G>C,2201,R2201G,
+19,13208934,C>T,2201,R2201Q,
+19,13208935,G>A,2201,R2201W,"Developmental and epileptic encephalopathy, 42 (DEE42), Episodic ataxia type 2 (EA2), Inborn genetic diseases"
+19,13208931,G>C,2202,P2202R,
+19,13208932,G>A,2202,P2202S,
+19,13208929,T>C,2203,K2203E,
+19,13208927,C>G,2203,K2203N,"Developmental and epileptic encephalopathy, 42 (DEE42), Episodic ataxia type 2 (EA2)"
+19,13208928,T>C,2203,K2203R,"Developmental and epileptic encephalopathy, 42 (DEE42), Episodic ataxia type 2 (EA2), Migraine, familial hemiplegic, 1, Spinocerebellar ataxia type 6 (SCA6)"
+19,13208926,C>T,2204,D2204N,"Developmental and epileptic encephalopathy, 42 (DEE42), Episodic ataxia type 2 (EA2), Inborn genetic diseases"
+19,13208923,G>C,2205,R2205G,"Developmental and epileptic encephalopathy, 42 (DEE42), Episodic ataxia type 2 (EA2)"
+19,13208922,C>T,2205,R2205Q,"Developmental and epileptic encephalopathy, 42 (DEE42), Episodic ataxia type 2 (EA2)"
+19,13208923,G>A,2205,R2205W,"Developmental and epileptic encephalopathy, 42 (DEE42), Episodic ataxia type 2 (EA2), Inborn genetic diseases"
+19,13208919,T>C,2206,K2206R,"Developmental and epileptic encephalopathy, 42 (DEE42), Episodic ataxia type 2 (EA2)"
+19,13208917,G>C,2207,H2207D,
+19,13208916,T>C,2207,H2207R,
+19,13208913,C>T,2208,R2208Q,
+19,13208914,G>C,2208,R2208G,
+19,13208909,C>G,2209,Q2209H,
+19,13208908,G>C,2210,H2210D,
+19,13208908,G>T,2210,H2210N,
+19,13208906,G>C,2210,H2210Q,"Developmental and epileptic encephalopathy, 42 (DEE42), Episodic ataxia type 2 (EA2)"
+19,13208907,T>C,2210,H2210R,"Developmental and epileptic encephalopathy, 42 (DEE42), Episodic ataxia type 2 (EA2)"
+19,13208905,G>T,2211,H2211N,
+19,13208904,T>G,2211,H2211P,
+19,13208903,G>T,2211,H2211Q,"Developmental and epileptic encephalopathy, 42 (DEE42), Episodic ataxia type 2 (EA2)"
+19,13208904,T>C,2211,H2211R,
+19,13208905,G>A,2211,H2211Y,
+19,13208902,G>T,2212,H2212N,
+19,13208901,T>G,2212,H2212P,
+19,13208900,G>C,2212,H2212Q,
+19,13208902,G>A,2212,H2212Y,
+19,13208898,T>G,2213,H2213P,
+19,13208899,G>A,2213,H2213Y,
+19,13208895,T>G,2214,H2214P,
+19,13208895,T>C,2214,H2214R,"Developmental and epileptic encephalopathy, 42 (DEE42), Episodic ataxia type 2 (EA2)"
+19,13208896,G>A,2214,H2214Y,
+19,13208896,G>T,2214,H2214N,"Developmental and epileptic encephalopathy, 42 (DEE42), Episodic ataxia type 2 (EA2)"
+19,13208893,G>T,2215,H2215N,
+19,13208892,T>G,2215,H2215P,"Developmental and epileptic encephalopathy, 42 (DEE42), Episodic ataxia type 2 (EA2), Migraine, familial hemiplegic, 1, Spinocerebellar ataxia type 6 (SCA6)"
+19,13208890,G>T,2216,H2216N,
+19,13208889,T>G,2216,H2216P,"Migraine, familial hemiplegic, 1"
+19,13208890,G>A,2216,H2216Y,"Developmental and epileptic encephalopathy, 42 (DEE42), Episodic ataxia type 2 (EA2)"
+19,13208886,T>A,2217,H2217L,"Developmental and epileptic encephalopathy, 42 (DEE42), Episodic ataxia type 2 (EA2)"
+19,13208886,T>G,2217,H2217P,
+19,13208886,T>C,2217,H2217R,
+19,13208887,G>A,2217,H2217Y,"Developmental and epileptic encephalopathy, 42 (DEE42), Episodic ataxia type 2 (EA2)"
+19,13208885,G>T,2217,H2217Q,
+19,13208883,T>G,2218,H2218P,"Developmental and epileptic encephalopathy, 42 (DEE42), Episodic ataxia type 2 (EA2)"
+19,13208884,G>A,2218,H2218Y,
+19,13208881,G>T,2219,H2219N,"Developmental and epileptic encephalopathy, 42 (DEE42), Episodic ataxia type 2 (EA2)"
+19,13208880,T>G,2219,H2219P,"Developmental and epileptic encephalopathy, 42 (DEE42), Episodic ataxia type 2 (EA2), Inborn genetic diseases, Intellectual disability"
+19,13208881,G>A,2219,H2219Y,
+19,13208881,G>C,2219,H2219D,
+19,13208879,A>C,2219,H2219Q,
+19,13208880,T>C,2219,H2219R,
+19,13208877,G>T,2220,P2220H,"Developmental and epileptic encephalopathy, 42 (DEE42), Episodic ataxia type 2 (EA2), Inborn genetic diseases"
+19,13208877,G>A,2220,P2220L,
+19,13208874,G>A,2221,P2221L,"Developmental and epileptic encephalopathy, 42 (DEE42), Episodic ataxia type 2 (EA2)"
+19,13208875,G>A,2221,P2221S,
+19,13208875,G>T,2221,P2221T,
+19,13208871,G>A,2222,P2222L,"Developmental and epileptic encephalopathy, 42 (DEE42), Episodic ataxia type 2 (EA2), Inborn genetic diseases"
+19,13208872,G>T,2222,P2222T,
+19,13208868,G>A,2223,P2223L,
+19,13208869,G>A,2223,P2223S,"Developmental and epileptic encephalopathy, 42 (DEE42), Episodic ataxia type 2 (EA2), Inborn genetic diseases"
+19,13208869,G>T,2223,P2223T,
+19,13208865,T>G,2224,D2224A,
+19,13208866,C>G,2224,D2224H,
+19,13208866,C>T,2224,D2224N,
+19,13208865,T>A,2224,D2224V,
+19,13208863,T>C,2225,K2225E,
+19,13208858,G>T,2226,D2226E,"Developmental and epileptic encephalopathy, 42 (DEE42), Episodic ataxia type 2 (EA2)"
+19,13208857,G>A,2227,R2227C,"Developmental and epileptic encephalopathy, 42 (DEE42), Episodic ataxia type 2 (EA2)"
+19,13208856,C>T,2227,R2227H,"Developmental and epileptic encephalopathy, 42 (DEE42), Episodic ataxia type 2 (EA2), Inborn genetic diseases"
+19,13208856,C>A,2227,R2227L,"Developmental and epileptic encephalopathy, 42 (DEE42), Episodic ataxia type 2 (EA2)"
+19,13208856,C>G,2227,R2227P,
+19,13208857,G>T,2227,R2227S,
+19,13208854,A>G,2228,Y2228H,
+19,13208851,C>T,2229,A2229T,"Developmental and epileptic encephalopathy, 42 (DEE42), Episodic ataxia type 2 (EA2)"
+19,13208847,T>C,2230,Q2230R,"Developmental and epileptic encephalopathy, 42 (DEE42), Episodic ataxia type 2 (EA2), Hereditary episodic ataxia"
+19,13208845,C>G,2231,E2231Q,
+19,13208841,C>G,2232,R2232P,
+19,13208841,C>T,2232,R2232Q,"Developmental and epileptic encephalopathy, 42 (DEE42), Episodic ataxia type 2 (EA2)"
+19,13208842,G>A,2232,R2232W,"Developmental and epileptic encephalopathy, 42 (DEE42), Episodic ataxia type 2 (EA2)"
+19,13208838,G>A,2233,P2233L,"Developmental and epileptic encephalopathy, 42 (DEE42), Episodic ataxia type 2 (EA2)"
+19,13208838,G>C,2233,P2233R,
+19,13208836,C>T,2234,D2234N,
+19,13208833,G>C,2235,H2235D,
+19,13208832,T>C,2235,H2235R,"Developmental and epileptic encephalopathy, 42 (DEE42), Episodic ataxia type 2 (EA2)"
+19,13208833,G>A,2235,H2235Y,"Developmental and epileptic encephalopathy, 42 (DEE42), Episodic ataxia type 2 (EA2)"
+19,13208830,C>A,2236,G2236C,"Developmental and epileptic encephalopathy, 42 (DEE42), Episodic ataxia type 2 (EA2)"
+19,13208830,C>T,2236,G2236S,"Developmental and epileptic encephalopathy, 42 (DEE42), Episodic ataxia type 2 (EA2)"
+19,13208827,G>C,2237,R2237G,
+19,13208826,C>A,2237,R2237L,"Developmental and epileptic encephalopathy, 42 (DEE42), Episodic ataxia type 2 (EA2)"
+19,13208826,C>T,2237,R2237Q,"Developmental and epileptic encephalopathy, 42 (DEE42), Episodic ataxia type 2 (EA2)"
+19,13208827,G>A,2237,R2237W,"Developmental and epileptic encephalopathy, 42 (DEE42), Episodic ataxia type 2 (EA2)"
+19,13208823,G>T,2238,A2238E,
+19,13208824,C>G,2238,A2238P,
+19,13208820,C>T,2239,R2239Q,"Developmental and epileptic encephalopathy, 42 (DEE42), Episodic ataxia type 2 (EA2), Inborn genetic diseases"
+19,13208821,G>A,2239,R2239W,"Developmental and epileptic encephalopathy, 42 (DEE42), Episodic ataxia type 2 (EA2), Inborn genetic diseases"
+19,13208818,C>A,2240,A2240S,
+19,13208817,G>A,2240,A2240V,
+19,13208815,G>C,2241,R2241G,
+19,13208814,C>T,2241,R2241Q,"Developmental and epileptic encephalopathy, 42 (DEE42), Episodic ataxia type 2 (EA2)"
+19,13208815,G>A,2241,R2241W,"Developmental and epileptic encephalopathy, 42 (DEE42), Episodic ataxia type 2 (EA2)"
+19,13208811,T>G,2242,D2242A,
+19,13208810,G>T,2242,D2242E,
+19,13208811,T>C,2242,D2242G,
+19,13208812,C>T,2242,D2242N,"Developmental and epileptic encephalopathy, 42 (DEE42), Episodic ataxia type 2 (EA2)"
+19,13208807,C>G,2243,Q2243H,"Developmental and epileptic encephalopathy, 42 (DEE42), Episodic ataxia type 2 (EA2)"
+19,13208808,T>G,2243,Q2243P,
+19,13208806,G>A,2244,R2244C,"Developmental and epileptic encephalopathy, 42 (DEE42), Episodic ataxia type 2 (EA2), Inborn genetic diseases"
+19,13208805,C>T,2244,R2244H,"Developmental and epileptic encephalopathy, 42 (DEE42), Episodic ataxia type 2 (EA2)"
+19,13208801,C>A,2245,W2245C,"Developmental and epileptic encephalopathy, 42 (DEE42), Episodic ataxia type 2 (EA2)"
+19,13208803,A>C,2245,W2245G,
+19,13208800,A>C,2246,S2246A,
+19,13208799,G>A,2246,S2246F,"Developmental and epileptic encephalopathy, 42 (DEE42), Episodic ataxia type 2 (EA2), Inborn genetic diseases"
+19,13208800,A>G,2246,S2246P,Intellectual disability
+19,13208797,G>A,2247,R2247C,"Developmental and epileptic encephalopathy, 42 (DEE42), Episodic ataxia type 2 (EA2)"
+19,13208796,C>T,2247,R2247H,"Developmental and epileptic encephalopathy, 42 (DEE42), Episodic ataxia type 2 (EA2)"
+19,13208793,G>A,2248,S2248L,"Developmental and epileptic encephalopathy, 42 (DEE42), Episodic ataxia type 2 (EA2), Inborn genetic diseases"
+19,13208790,G>A,2249,P2249L,
+19,13208791,G>A,2249,P2249S,
+19,13208791,G>T,2249,P2249T,
+19,13208784,T>C,2251,E2251G,
+19,13208785,C>T,2251,E2251K,"Developmental and epileptic encephalopathy, 42 (DEE42), Episodic ataxia type 2 (EA2)"
+19,13208782,C>A,2252,G2252C,"Developmental and epileptic encephalopathy, 42 (DEE42), Episodic ataxia type 2 (EA2)"
+19,13208782,C>T,2252,G2252S,"Developmental and epileptic encephalopathy, 42 (DEE42), Episodic ataxia type 2 (EA2)"
+19,13208778,C>A,2253,R2253L,"Developmental and epileptic encephalopathy, 42 (DEE42), Episodic ataxia type 2 (EA2)"
+19,13208778,C>T,2253,R2253Q,"Developmental and epileptic encephalopathy, 42 (DEE42), Episodic ataxia type 2 (EA2)"
+19,13208774,C>A,2254,E2254D,
+19,13208776,C>T,2254,E2254K,
+19,13208776,C>G,2254,E2254Q,"Developmental and epileptic encephalopathy, 42 (DEE42), Episodic ataxia type 2 (EA2), Inborn genetic diseases"
+19,13208773,G>T,2255,H2255N,
+19,13208771,G>T,2255,H2255Q,
+19,13208768,C>T,2256,M2256I,
+19,13208769,A>T,2256,M2256K,
+19,13208770,T>G,2256,M2256L,
+19,13208770,T>C,2256,M2256V,
+19,13208766,G>C,2257,A2257G,
+19,13208767,C>T,2257,A2257T,"Developmental and epileptic encephalopathy, 42 (DEE42), Episodic ataxia type 2 (EA2)"
+19,13208766,G>A,2257,A2257V,"Developmental and epileptic encephalopathy, 42 (DEE42), Episodic ataxia type 2 (EA2)"
+19,13208762,G>T,2258,H2258Q,
+19,13208764,G>A,2258,H2258Y,
+19,13208760,C>G,2259,R2259P,"Developmental and epileptic encephalopathy, 42 (DEE42), Episodic ataxia type 2 (EA2)"
+19,13208760,C>T,2259,R2259Q,"CACNA1A-related disorders, Developmental and epileptic encephalopathy, 42 (DEE42), Episodic ataxia type 2 (EA2)"
+19,13208761,G>A,2259,R2259W,"Developmental and epileptic encephalopathy, 42 (DEE42), Episodic ataxia type 2 (EA2), Inborn genetic diseases"
+19,13208758,G>C,2260,Q2260E,
+19,13208052,C>T,2261,G2261D,"Developmental and epileptic encephalopathy, 42 (DEE42), Episodic ataxia type 2 (EA2)"
+19,13208049,C>T,2262,S2262N,"Developmental and epileptic encephalopathy, 42 (DEE42), Episodic ataxia type 2 (EA2)"
+19,13208043,G>A,2264,S2264F,
+19,13208041,C>T,2265,V2265I,
+19,13208041,C>G,2265,V2265L,
+19,13208037,C>T,2266,S2266N,
+19,13208035,C>G,2267,G2267R,
+19,13208025,G>C,2270,A2270G,
+19,13208025,G>A,2270,A2270V,
+19,13208022,G>T,2271,P2271H,
+19,13208023,G>T,2271,P2271T,
+19,13208019,G>A,2272,S2272L,
+19,13208010,C>T,2275,G2275D,
+19,13208008,T>C,2276,T2276A,
+19,13208005,T>G,2277,S2277R,
+19,13208002,T>G,2278,T2278P,
+19,13207998,G>A,2279,P2279L,
+19,13207996,G>C,2280,R2280G,
+19,13207995,C>A,2280,R2280L,
+19,13207995,C>T,2280,R2280Q,
+19,13207992,C>T,2281,R2281Q,
+19,13207993,G>A,2281,R2281W,
+19,13207990,C>G,2282,G2282R,
+19,13207986,C>T,2283,R2283H,
+19,13207986,C>A,2283,R2283L,
+19,13207984,G>A,2284,R2284C,
+19,13207980,T>G,2285,Q2285P,
+19,13207971,T>G,2288,Q2288P,
+19,13207969,T>C,2289,T2289A,
+19,13207968,G>A,2289,T2289I,
+19,13207969,T>G,2289,T2289P,
+19,13207963,A>G,2291,S2291P,
+19,13207963,A>T,2291,S2291T,
+19,13207959,G>A,2292,T2292I,
+19,13207959,G>T,2292,T2292N,
+19,13207960,T>G,2292,T2292P,
+19,13207956,G>C,2293,P2293R,
+19,13207953,C>G,2294,R2294P,
+19,13207950,G>A,2295,P2295L,
+19,13207947,T>G,2296,H2296P,
+19,13207944,A>C,2297,V2297G,
+19,13207945,C>G,2297,V2297L,
+19,13207945,C>T,2297,V2297M,
+19,13207937,A>C,2299,Y2299*,
+19,13207935,G>A,2300,S2300F,
+19,13207933,G>C,2301,P2301A,"Developmental and epileptic encephalopathy, 42 (DEE42)"
+19,13207930,C>G,2302,V2302L,
+19,13207930,C>T,2302,V2302M,
+19,13207927,T>C,2303,I2303V,
+19,13207924,G>A,2304,R2304C,
+19,13207923,C>T,2304,R2304H,
+19,13207923,C>G,2304,R2304P,
+19,13207918,C>A,2306,A2306S,
+19,13207918,C>T,2306,A2306T,
+19,13207917,G>A,2306,A2306V,
+19,13207915,C>T,2307,G2307S,
+19,13207912,C>T,2308,G2308S,Inborn genetic diseases
+19,13207908,G>A,2309,S2309L,
+19,13207909,A>G,2309,S2309P,
+19,13207905,C>T,2310,G2310E,
+19,13207906,C>G,2310,G2310R,
+19,13207903,G>C,2311,P2311A,
+19,13207902,G>T,2311,P2311H,
+19,13207902,G>A,2311,P2311L,
+19,13207903,G>A,2311,P2311S,
+19,13207903,G>T,2311,P2311T,
+19,13207899,G>A,2312,P2312L,
+19,13207899,G>T,2312,P2312Q,
+19,13207899,G>C,2312,P2312R,
+19,13207900,G>A,2312,P2312S,
+19,13207896,T>A,2313,Q2313L,
+19,13207896,T>G,2313,Q2313P,
+19,13207893,T>G,2314,Q2314P,
+19,13207887,T>G,2316,Q2316P,
+19,13207880,C>A,2318,Q2318H,
+19,13207882,G>T,2318,Q2318K,
+19,13207881,T>G,2318,Q2318P,
+19,13207878,T>C,2319,Q2319R,
+19,13207876,G>C,2320,Q2320E,
+19,13207874,C>G,2320,Q2320H,
+19,13207875,T>G,2320,Q2320P,
+19,13207871,C>A,2321,Q2321H,
+19,13207872,T>G,2321,Q2321P,
+19,13207870,G>C,2322,Q2322E,
+19,13207869,T>G,2322,Q2322P,
+19,13207869,T>C,2322,Q2322R,
+19,13207864,G>C,2324,Q2324E,
+19,13207860,T>G,2325,Q2325P,
+19,13207861,G>C,2325,Q2325E,
+19,13207861,G>T,2325,Q2325K,
+19,13207857,G>T,2326,A2326E,
+19,13207857,G>A,2326,A2326V,
+19,13207854,A>C,2327,V2327G,
+19,13207851,G>T,2328,A2328D,
+19,13207851,G>A,2328,A2328V,
+19,13207845,G>A,2330,P2330L,
+19,13207845,G>C,2330,P2330R,
+19,13207846,G>T,2330,P2330T,
+19,13207843,C>A,2331,G2331C,
+19,13207842,C>T,2331,G2331D,
+19,13207843,C>T,2331,G2331S,
+19,13207839,C>T,2332,R2332Q,
+19,13207836,G>T,2333,A2333E,
+19,13207837,C>A,2333,A2333S,
+19,13207837,C>T,2333,A2333T,
+19,13207836,G>A,2333,A2333V,
+19,13207833,G>C,2334,A2334G,
+19,13207834,C>T,2334,A2334T,
+19,13207825,C>A,2337,G2337C,
+19,13207824,C>T,2337,G2337D,
+19,13207825,C>T,2337,G2337S,
+19,13207824,C>A,2337,G2337V,
+19,13207822,G>C,2338,P2338A,
+19,13207818,C>T,2339,R2339Q,
+19,13207819,G>A,2339,R2339W,
+19,13207815,C>T,2340,R2340K,
+19,13207813,A>G,2341,Y2341H,
+19,13207807,C>T,2343,G2343S,
+19,13207804,G>A,2344,P2344S,
+19,13207800,G>A,2345,T2345M,
+19,13207795,C>T,2347,E2347K,
+19,13207795,C>G,2347,E2347Q,
+19,13207792,G>A,2348,P2348S,
+19,13207782,C>T,2351,G2351E,
+19,13207783,C>T,2351,G2351R,
+19,13207778,A>C,2352,D2352E,
+19,13207779,T>C,2352,D2352G,
+19,13207780,C>G,2352,D2352H,
+19,13207776,C>A,2353,R2353L,
+19,13207776,C>T,2353,R2353Q,
+19,13207777,G>A,2353,R2353W,
+19,13207773,G>A,2354,P2354L,
+19,13207767,G>T,2356,T2356K,
+19,13207767,G>A,2356,T2356M,Spinocerebellar ataxia type 6 (SCA6)
+19,13207761,C>T,2358,G2358D,
+19,13207762,C>G,2358,G2358R,
+19,13207762,C>T,2358,G2358S,
+19,13207761,C>A,2358,G2358V,
+19,13207756,T>C,2360,S2360G,
+19,13207751,G>T,2361,S2361R,
+19,13207750,C>T,2362,G2362S,
+19,13207747,G>A,2363,R2363C,
+19,13207746,C>T,2363,R2363H,
+19,13207743,G>A,2364,S2364L,
+19,13207744,A>T,2364,S2364T,
+19,13207740,G>A,2365,P2365L,
+19,13207738,T>C,2366,R2366G,
+19,13207737,C>G,2366,R2366T,
+19,13207733,C>T,2367,M2367I,
+19,13207734,A>C,2367,M2367R,
+19,13207731,T>A,2368,E2368V,
+19,13207729,T>A,2369,R2369W,
+19,13207725,C>T,2370,R2370Q,
+19,13207726,G>A,2370,R2370W,
+19,13207722,A>C,2371,V2371G,
+19,13207723,C>T,2371,V2371I,
+19,13207723,C>G,2371,V2371L,
+19,13207720,G>C,2372,P2372A,
+19,13207716,C>T,2373,G2373D,
+19,13207713,G>A,2374,P2374L,
+19,13207714,G>A,2374,P2374S,
+19,13207710,G>T,2375,A2375D,"Developmental and epileptic encephalopathy, 1 (DEE1)"
+19,13207707,C>T,2376,R2376Q,
+19,13207708,G>A,2376,R2376W,
+19,13207703,G>T,2377,S2377R,
+19,13207701,T>G,2378,E2378A,
+19,13207701,T>C,2378,E2378G,
+19,13207702,C>T,2378,E2378K,
+19,13207699,A>C,2379,S2379A,
+19,13207698,G>C,2379,S2379C,
+19,13207698,G>A,2379,S2379F,"Developmental and epileptic encephalopathy, 42 (DEE42)"
+19,13207695,G>A,2380,P2380L,
+19,13207696,G>A,2380,P2380S,
+19,13207692,C>A,2381,R2381M,
+19,13207690,C>A,2382,A2382S,
+19,13207690,C>T,2382,A2382T,
+19,13207689,G>A,2382,A2382V,
+19,13207687,A>T,2383,C2383S,
+19,13207686,C>T,2383,C2383Y,
+19,13207684,G>C,2384,R2384G,
+19,13207683,C>T,2384,R2384Q,
+19,13207678,C>G,2386,G2386R,
+19,13207678,C>T,2386,G2386S,
+19,13207674,C>T,2387,G2387E,
+19,13207675,C>T,2387,G2387R,
+19,13207675,C>A,2387,G2387W,
+19,13207672,C>G,2388,A2388P,
+19,13207672,C>T,2388,A2388T,
+19,13207671,G>A,2388,A2388V,
+19,13207669,G>C,2389,R2389G,
+19,13207668,C>A,2389,R2389L,
+19,13207668,C>T,2389,R2389Q,
+19,13207669,G>A,2389,R2389W,
+19,13207662,G>A,2391,P2391L,
+19,13207660,C>G,2392,A2392P,
+19,13207660,C>T,2392,A2392T,
+19,13207657,A>G,2393,S2393P,
+19,13207654,C>T,2394,G2394S,
+19,13207650,G>A,2395,P2395L,
+19,13207650,G>C,2395,P2395R,
+19,13207651,G>A,2395,P2395S,
+19,13207644,A>T,2397,V2397E,
+19,13207645,C>T,2397,V2397M,Inborn genetic diseases
+19,13207637,C>G,2399,E2399D,
+19,13207639,C>T,2399,E2399K,
+19,13207632,G>A,2401,P2401L,
+19,13207629,G>A,2402,P2402L,
+19,13207627,C>G,2403,G2403R,
+19,13207623,G>A,2404,P2404L,
+19,13207621,G>C,2405,R2405G,
+19,13207620,C>T,2405,R2405Q,
+19,13207621,G>A,2405,R2405W,
+19,13207616,G>T,2406,H2406Q,
+19,13207617,T>C,2406,H2406R,
+19,13207618,G>A,2406,H2406Y,
+19,13207612,C>T,2408,G2408S,
+19,13207602,C>G,2411,R2411P,
+19,13207602,C>T,2411,R2411Q,
+19,13207599,C>G,2412,G2412A,
+19,13207599,C>T,2412,G2412D,
+19,13207600,C>G,2412,G2412R,
+19,13207600,C>T,2412,G2412S,
+19,13207599,C>A,2412,G2412V,
+19,13207593,T>G,2414,D2414A,
+19,13207594,C>T,2414,D2414N,
+19,13207591,A>G,2415,Y2415H,
+19,13207586,G>C,2416,D2416E,
+19,13207588,C>T,2416,D2416N,
+19,13207584,T>C,2417,E2417G,
+19,13207585,C>T,2417,E2417K,
+19,13207584,T>A,2417,E2417V,
+19,13207581,G>C,2418,A2418G,
+19,13207581,G>A,2418,A2418V,
+19,13207579,C>T,2419,D2419N,
+19,13207573,G>C,2421,P2421A,
+19,13207572,G>A,2421,P2421L,"Developmental and epileptic encephalopathy, 42 (DEE42), Episodic ataxia type 2 (EA2), Migraine, familial hemiplegic, 1, Spinocerebellar ataxia type 6 (SCA6)"
+19,13207565,G>C,2423,S2423R,
+19,13207564,C>T,2424,G2424R,
+19,13207560,C>T,2425,G2425D,
+19,13207560,C>A,2425,G2425V,
+19,13207557,C>T,2426,G2426D,
+19,13207558,C>T,2426,G2426S,
+19,13207555,C>T,2427,E2427K,
+19,13207551,T>G,2428,E2428A,
+19,13207550,C>A,2428,E2428D,
+19,13207545,A>G,2430,M2430T,
+19,13207543,C>G,2431,A2431P,
+19,13207543,C>T,2431,A2431T,
+19,13207542,G>A,2431,A2431V,
+19,13207539,C>T,2432,G2432E,
+19,13207540,C>T,2432,G2432R,
+19,13207537,C>T,2433,A2433T,
+19,13207534,A>G,2434,Y2434H,
+19,13207531,C>T,2435,D2435N,
+19,13207528,C>T,2436,A2436T,
+19,13207527,G>A,2436,A2436V,
+19,13207524,G>T,2437,P2437Q,
+19,13207522,G>A,2438,P2438S,
+19,13207522,G>T,2438,P2438T,
+19,13207518,G>T,2439,P2439H,
+19,13207518,G>A,2439,P2439L,"Developmental and epileptic encephalopathy, 42 (DEE42)"
+19,13207519,G>T,2439,P2439T,
+19,13207515,A>T,2440,V2440E,
+19,13207516,C>T,2440,V2440I,
+19,13207513,G>C,2441,R2441G,
+19,13207512,C>G,2441,R2441P,
+19,13207512,C>T,2441,R2441Q,
+19,13207507,C>G,2443,A2443P,
+19,13207507,C>T,2443,A2443T,
+19,13207506,G>A,2443,A2443V,"Developmental and epileptic encephalopathy, 42 (DEE42), Episodic ataxia type 2 (EA2), Migraine, familial hemiplegic, 1, Spinocerebellar ataxia type 6 (SCA6)"
+19,13207503,G>A,2444,S2444F,
+19,13207500,G>A,2445,S2445L,
+19,13207501,A>G,2445,S2445P,
+19,13207497,C>G,2446,G2446A,
+19,13207495,C>T,2447,A2447T,
+19,13207489,C>T,2449,G2449R,
+19,13207486,G>A,2450,R2450C,"Developmental and epileptic encephalopathy, 42 (DEE42)"
+19,13207485,C>T,2450,R2450H,
+19,13207486,G>T,2450,R2450S,
+19,13207482,G>A,2451,S2451L,
+19,13207483,A>G,2451,S2451P,
+19,13207477,T>C,2453,R2453G,
+19,13207476,C>T,2453,R2453K,
+19,13207470,G>C,2455,P2455R,
+19,13207468,G>C,2456,R2456G,
+19,13207467,C>A,2456,R2456L,
+19,13207467,C>G,2456,R2456P,
+19,13207468,G>A,2456,R2456W,
+19,13207465,C>A,2457,A2457S,
+19,13207465,C>T,2457,A2457T,
+19,13207464,G>A,2457,A2457V,
+19,13207462,A>C,2458,S2458A,
+19,13207461,G>A,2458,S2458L,
+19,13207455,G>A,2460,P2460L,
+19,13207456,G>A,2460,P2460S,
+19,13207453,C>G,2461,A2461P,
+19,13207453,C>A,2461,A2461S,
+19,13207453,C>T,2461,A2461T,
+19,13207452,G>A,2461,A2461V,
+19,13207446,G>C,2463,A2463G,
+19,13207447,C>A,2463,A2463S,
+19,13207446,G>A,2463,A2463V,
+19,13207443,G>A,2464,S2464L,
+19,13207438,A>G,2466,S2466P,
+19,13207435,G>C,2467,R2467G,
+19,13207434,C>G,2467,R2467P,"Developmental and epileptic encephalopathy, 42 (DEE42)"
+19,13207434,C>T,2467,R2467Q,Episodic ataxia type 2 (EA2)
+19,13207435,G>A,2467,R2467W,
+19,13207430,G>C,2468,H2468Q,CACNA1A-related disorders
+19,13207429,C>A,2469,G2469C,
+19,13207429,C>T,2469,G2469S,
+19,13207425,C>A,2470,R2470L,
+19,13207425,C>T,2470,R2470Q,
+19,13207426,G>A,2470,R2470W,
+19,13207422,C>T,2471,R2471Q,
+19,13207420,G>A,2472,L2472F,
+19,13207410,C>G,2475,G2475A,
+19,13207411,C>A,2475,G2475C,
+19,13207410,C>T,2475,G2475D,
+19,13207411,C>T,2475,G2475S,
+19,13207410,C>A,2475,G2475V,Inborn genetic diseases
+19,13207407,T>C,2476,Y2476C,
+19,13207408,A>C,2476,Y2476D,
+19,13207408,A>G,2476,Y2476H,Inborn genetic diseases
+19,13207408,A>T,2476,Y2476N,
+19,13207405,A>G,2477,Y2477H,
+19,13207402,G>C,2478,P2478A,
+19,13207401,G>A,2478,P2478L,
+19,13207398,G>C,2479,A2479G,
+19,13207398,G>A,2479,A2479V,
+19,13207395,T>G,2480,H2480P,
+19,13207394,G>C,2480,H2480Q,
+19,13207395,T>C,2480,H2480R,
+19,13207396,G>A,2480,H2480Y,
+19,13207393,C>T,2481,G2481R,"Developmental and epileptic encephalopathy, 42 (DEE42), Episodic ataxia type 2 (EA2), Migraine, familial hemiplegic, 1, Spinocerebellar ataxia type 6 (SCA6)"
+19,13207389,A>C,2482,L2482R,"Developmental and epileptic encephalopathy, 42 (DEE42)"
+19,13207390,G>C,2482,L2482V,
+19,13207387,C>T,2483,A2483T,
+19,13207386,G>A,2483,A2483V,
+19,13207384,T>C,2484,R2484G,
+19,13207383,C>T,2484,R2484K,
+19,13207382,C>A,2484,R2484S,
+19,13207380,G>A,2485,P2485L,
+19,13207378,G>A,2486,R2486C,
+19,13207377,C>T,2486,R2486H,
+19,13207375,C>T,2487,G2487R,
+19,13207375,C>A,2487,G2487W,
+19,13207371,G>A,2488,P2488L,
+19,13207372,G>A,2488,P2488S,
+19,13207368,C>T,2489,G2489D,
+19,13207365,G>C,2490,S2490C,
+19,13207365,G>A,2490,S2490F,
+19,13207366,A>G,2490,S2490P,
+19,13207365,G>T,2490,S2490Y,
+19,13207362,C>T,2491,R2491K,
+19,13207361,C>G,2491,R2491S,
+19,13207359,T>C,2492,K2492R,
+19,13207357,C>A,2493,G2493C,
+19,13207349,G>C,2495,H2495Q,
+19,13207347,T>G,2496,E2496A,
+19,13207345,G>C,2497,P2497A,
+19,13207344,G>A,2497,P2497L,
+19,13207345,G>A,2497,P2497S,
+19,13207341,T>C,2498,Y2498C,
+19,13207342,A>G,2498,Y2498H,
+19,13207334,C>G,2500,E2500D,
+19,13207335,T>C,2500,E2500G,
+19,13207336,C>T,2500,E2500K,
+19,13207336,C>G,2500,E2500Q,
+19,13207333,T>A,2501,S2501C,
+19,13207333,T>C,2501,S2501G,
+19,13207332,C>T,2501,S2501N,
+19,13207333,T>G,2501,S2501R,
+19,13207332,C>G,2501,S2501T,
+19,13207328,G>C,2502,D2502E,
+19,13207327,C>G,2503,D2503H,
+19,13207327,C>T,2503,D2503N,
+19,13207323,T>C,2504,D2504G,
+19,13207318,A>T,2506,C2506S,
+19,13207317,C>T,2506,C2506Y,
