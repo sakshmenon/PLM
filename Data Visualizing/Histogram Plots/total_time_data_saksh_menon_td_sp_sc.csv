@@ -1,0 +1,5 @@
+,pj_value,pj_file,pm_value,pm_file,pc_value,pc_file
+bfs,106.11674,p_jirovecii2td_sp_sc.bfs.k5.txt,100.92227,p_murina2td_sp_sc.bfs.k5.txt,99.4449,p_carinii2td_sp_sc.bfs.k5.txt
+bts,92.02177,p_jirovecii2td_sp_sc.bts.k5.txt,88.30734,p_murina2td_sp_sc.bts.k5.txt,88.81786,p_carinii2td_sp_sc.bts.k5.txt
+graph,0.66776,p_jirovecii2td_sp_sc.graph.k5.txt,0.6386,p_murina2td_sp_sc.graph.k5.txt,0.64082,p_carinii2td_sp_sc.graph.k5.txt
+faiss,16.06751,p_jirovecii2td_sp_sc.faiss.k5.txt,15.1305,p_murina2td_sp_sc.faiss.k5.txt,15.21344,p_carinii2td_sp_sc.faiss.k5.txt

@@ -1,0 +1,27 @@
+SC Avg Time Values,,,,,,
+,pj_value,pj_file,pm_value,pm_file,pc_value,pc_file
+bfs,0.00987,p_jirovecii2s_cerevisiae.bfs.k3.txt,0.01033,p_murina2s_cerevisiae.bfs.k3.txt,0.01017,p_carinii2s_cerevisiae.bfs.k3.txt
+bts,0.00929,p_jirovecii2s_cerevisiae.bts.k3.txt,0.00929,p_murina2s_cerevisiae.bts.k3.txt,0.00925,p_carinii2s_cerevisiae.bts.k3.txt
+graph,8.00E-05,p_jirovecii2s_cerevisiae.graph.k3.txt,9.00E-05,p_murina2s_cerevisiae.graph.k3.txt,9.00E-05,p_carinii2s_cerevisiae.graph.k3.txt
+faiss,0.00096,p_jirovecii2s_cerevisiae.faiss.k3.txt,0.00079,p_murina2s_cerevisiae.faiss.k3.txt,0.00083,p_carinii2s_cerevisiae.faiss.k3.txt
+,,,,,,
+SP Avg Time Values,,,,,,
+,pj_value,pj_file,pm_value,pm_file,pc_value,pc_file
+bfs,0.00835,p_jirovecii2s_pombe.bfs.k3.txt,0.00822,p_murina2s_pombe.bfs.k3.txt,0.00846,p_carinii2s_pombe.bfs.k3.txt
+bts,0.00795,p_jirovecii2s_pombe.bts.k3.txt,0.00799,p_murina2s_pombe.bts.k3.txt,0.00797,p_carinii2s_pombe.bts.k3.txt
+graph,8.00E-05,p_jirovecii2s_pombe.graph.k3.txt,7.00E-05,p_murina2s_pombe.graph.k3.txt,9.00E-05,p_carinii2s_pombe.graph.k3.txt
+faiss,0.00066,p_jirovecii2s_pombe.faiss.k3.txt,0.00062,p_murina2s_pombe.faiss.k3.txt,0.00067,p_carinii2s_pombe.faiss.k3.txt
+,,,,,,
+TD Avg Time Values,,,,,,
+,pj_value,pj_file,pm_value,pm_file,pc_value,pc_file
+bfs,0.00751,p_jirovecii2taphrina_deformans.bfs.k3.txt,0.00763,p_murina2taphrina_deformans.bfs.k3.txt,0.00747,p_carinii2taphrina_deformans.bfs.k3.txt
+bts,0.00711,p_jirovecii2taphrina_deformans.bts.k3.txt,0.0071,p_murina2taphrina_deformans.bts.k3.txt,0.00706,p_carinii2taphrina_deformans.bts.k3.txt
+graph,9.00E-05,p_jirovecii2taphrina_deformans.graph.k3.txt,9.00E-05,p_murina2taphrina_deformans.graph.k3.txt,9.00E-05,p_carinii2taphrina_deformans.graph.k3.txt
+faiss,0.00068,p_jirovecii2taphrina_deformans.faiss.k3.txt,0.00059,p_murina2taphrina_deformans.faiss.k3.txt,0.0006,p_carinii2taphrina_deformans.faiss.k3.txt
+,,,,,,
+TD_SP_SC Avg Time Values,,,,,,
+,pj_value,pj_file,pm_value,pm_file,pc_value,pc_file
+bfs,0.02822,p_jirovecii2td_sp_sc.bfs.k5.txt,0.02786,p_murina2td_sp_sc.bfs.k5.txt,0.02728,p_carinii2td_sp_sc.bfs.k5.txt
+bts,0.02447,p_jirovecii2td_sp_sc.bts.k5.txt,0.02437,p_murina2td_sp_sc.bts.k5.txt,0.02436,p_carinii2td_sp_sc.bts.k5.txt
+graph,0.00018,p_jirovecii2td_sp_sc.graph.k5.txt,0.00018,p_murina2td_sp_sc.graph.k5.txt,0.00018,p_carinii2td_sp_sc.graph.k5.txt
+faiss,0.00427,p_jirovecii2td_sp_sc.faiss.k5.txt,0.00418,p_murina2td_sp_sc.faiss.k5.txt,0.00417,p_carinii2td_sp_sc.faiss.k5.txt

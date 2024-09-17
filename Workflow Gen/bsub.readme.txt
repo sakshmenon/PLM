@@ -1,0 +1,13 @@
+
+I noticed that you were doing your run on a compute node, but I thought bioembeddings was optimized for gpus.   If you do decide to use gpu's on the gpu-v100 queue or the non-interactive queue gpu-a100, I think you will also need to 'module load cuda/12.2'.   
+
+
+
+bsub -Is -M 30000 -W 12:00 -q gpu-v100 -gpu "num=1:gmem=20G" -n 1 /bin/bash
+
+module load cuda/12.2
+module load anaconda3
+source activate bioembeddings
+
+python ../scripts/final/cluster_run.py -ff cacna1a_wt_2597variants.fasta -e prott5 -of cacna1a_wt_2597v -l residue
+

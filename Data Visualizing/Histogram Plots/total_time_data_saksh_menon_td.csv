@@ -1,0 +1,5 @@
+,pj_value,pj_file,pm_value,pm_file,pc_value,pc_file
+bfs,28.26284,p_jirovecii2taphrina_deformans.bfs.k3.txt,27.63263,p_murina2taphrina_deformans.bfs.k3.txt,27.21939,p_carinii2taphrina_deformans.bfs.k3.txt
+bts,26.72906,p_jirovecii2taphrina_deformans.bts.k3.txt,25.73532,p_murina2taphrina_deformans.bts.k3.txt,25.75632,p_carinii2taphrina_deformans.bts.k3.txt
+graph,0.32396,p_jirovecii2taphrina_deformans.graph.k3.txt,0.32038,p_murina2taphrina_deformans.graph.k3.txt,0.31223,p_carinii2taphrina_deformans.graph.k3.txt
+faiss,2.57596,p_jirovecii2taphrina_deformans.faiss.k3.txt,2.15116,p_murina2taphrina_deformans.faiss.k3.txt,2.1781,p_carinii2taphrina_deformans.faiss.k3.txt

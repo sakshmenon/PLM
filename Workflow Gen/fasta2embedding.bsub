@@ -1,0 +1,24 @@
+#BSUB -J fa2emb_mf
+#BSUB -W 12:00
+#BSUB -M 30000
+#BSUB -n 1
+#BSUB -q gpu-v100
+#BSUB -gpu "num=1:gmem=30G"
+#BSUB -o mf_embed.out
+#BSUB -e mf_embed.err
+
+module load cuda/12.2
+module load anaconda3
+source activate bioembeddings
+
+cd /data/aplab/ap/embedding/pneumocystis
+
+#python ../scripts/final/cluster_run.py -ff p_murina.GCF.faa -e prott5 -of p_murina -l protein
+#python ../scripts/final/cluster_run.py -ff p_carinii.GCF.faa -e prott5 -of p_carinii -l protein
+#python ../scripts/final/cluster_run.py -ff p_jirovecii.GCF.faa -e prott5 -of p_jirovecii -l protein
+
+#python ../scripts/final/cluster_run.py -ff taphrina_deformans.fasta -e prott5 -of taphrina_deformans -l protein
+#python ../scripts/final/cluster_run.py -ff GCF_000146045.2_R64_protein.faa -e prott5 -of s_cerevisiae -l protein
+#python ../scripts/final/cluster_run.py -ff GCF_000002945.2_ASM294v3_protein.faa -e prott5 -of s_pombe -l protein
+
+python ../scripts/final/cluster_run.py -ff uniprot.mf.fasta -e prott5 -of mating_factors -l protein
