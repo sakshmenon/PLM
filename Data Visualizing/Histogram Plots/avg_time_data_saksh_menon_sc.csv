@@ -1,0 +1,5 @@
+,pj_value,pj_file,pm_value,pm_file,pc_value,pc_file
+bfs,0.00987,p_jirovecii2s_cerevisiae.bfs.k3.txt,0.01033,p_murina2s_cerevisiae.bfs.k3.txt,0.01017,p_carinii2s_cerevisiae.bfs.k3.txt
+bts,0.00929,p_jirovecii2s_cerevisiae.bts.k3.txt,0.00929,p_murina2s_cerevisiae.bts.k3.txt,0.00925,p_carinii2s_cerevisiae.bts.k3.txt
+graph,8e-05,p_jirovecii2s_cerevisiae.graph.k3.txt,9e-05,p_murina2s_cerevisiae.graph.k3.txt,9e-05,p_carinii2s_cerevisiae.graph.k3.txt
+faiss,0.00096,p_jirovecii2s_cerevisiae.faiss.k3.txt,0.00079,p_murina2s_cerevisiae.faiss.k3.txt,0.00083,p_carinii2s_cerevisiae.faiss.k3.txt

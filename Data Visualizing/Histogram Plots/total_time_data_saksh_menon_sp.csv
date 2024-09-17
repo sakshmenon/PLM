@@ -1,0 +1,5 @@
+,pj_value,pj_file,pm_value,pm_file,pc_value,pc_file
+bfs,31.39337,p_jirovecii2s_pombe.bfs.k3.txt,29.76861,p_murina2s_pombe.bfs.k3.txt,30.85426,p_carinii2s_pombe.bfs.k3.txt
+bts,29.9088,p_jirovecii2s_pombe.bts.k3.txt,28.94471,p_murina2s_pombe.bts.k3.txt,29.05508,p_carinii2s_pombe.bts.k3.txt
+graph,0.28939,p_jirovecii2s_pombe.graph.k3.txt,0.25994,p_murina2s_pombe.graph.k3.txt,0.32494,p_carinii2s_pombe.graph.k3.txt
+faiss,2.48781,p_jirovecii2s_pombe.faiss.k3.txt,2.23002,p_murina2s_pombe.faiss.k3.txt,2.43229,p_carinii2s_pombe.faiss.k3.txt
