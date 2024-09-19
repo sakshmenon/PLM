@@ -1,5 +1,7 @@
 
-I noticed that you were doing your run on a compute node, but I thought bioembeddings was optimized for gpus.   If you do decide to use gpu's on the gpu-v100 queue or the non-interactive queue gpu-a100, I think you will also need to 'module load cuda/12.2'.   
+I noticed that you were doing your run on a compute node, but I thought bioembeddings was optimized for gpus.   
+If you do decide to use gpu's on the gpu-v100 queue or the non-interactive queue gpu-a100, I think you will also need to 
+'module load cuda/12.2'.   
 
 
 

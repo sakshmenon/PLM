@@ -15,8 +15,8 @@ import pandas as pd
 from sklearn.neighbors import BallTree
 from sklearn.metrics import pairwise_distances
 from scipy.spatial.distance import cdist
-import hnswlib
-import faiss
+# import hnswlib
+# import faiss
 from scipy import stats
 
 import warnings
