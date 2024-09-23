@@ -14,10 +14,13 @@ import numpy as np
 import pandas as pd
 from sklearn.neighbors import BallTree
 from sklearn.metrics import pairwise_distances
+from sklearn.metrics.pairwise import cosine_similarity
 from scipy.spatial.distance import cdist
 # import hnswlib
 # import faiss
 from scipy import stats
+import json
+import re
 
 import warnings
 warnings.filterwarnings("ignore")
@@ -26,8 +29,9 @@ parser = argparse.ArgumentParser(description="Run the protein similarity search 
 parser.add_argument('--ref_file','-rf', type=str, help='input csv filename with reference embeddings')
 parser.add_argument('--q_file','-qf', type=str, help='input csv filename with query embeddings')
 parser.add_argument('--method', '-m', type=str, help='search method: Brute Force, Ball Tree, HNSW Graph, FAISS.', choices=['bfs', 'bts', 'graph', 'faiss'], default='bfs')
-#parser.add_argument('--out_file', '-of', type=str, help='Output embedding filename (do not input whole .csv, for example, path/folder/filename is enough. This is for creating multiple file for both protein and residue level.')
+parser.add_argument('--out_file', '-of', type=str, help='Output embedding filename (do not input whole .csv, for example, path/folder/filename is enough. This is for creating multiple file for both protein and residue level.', default='bfs')
 parser.add_argument('--top_k', '-k', type=int, default=3, help='retrieve top k similar proteins.')
+parser.add_argument('--format', '-f', type=str, help='output format.', choices=['json', 'txt'])
 
 # Load protein embedding data
 def load_protein_embeddings(file_path):
@@ -86,8 +90,27 @@ def compute_confidence_interval(distances):
     conf_int = stats.t.interval(0.95, len(distances) - 1, loc=mean_dist, scale=std_dist / np.sqrt(len(distances)))
     return mean_dist, conf_int
 
+def query_ref_df_gen(query_file, ref_file):
+    query_df = pd.read_csv(query_file)
+    qindex_df = query_df['ProteinID']
+
+    pattern = r">([\w.]+)"
+    for index in qindex_df.index:
+        query_id = re.findall(pattern, query_df['ProteinID'][index])
+        qindex_df[index] = query_id[0]
+    
+    ref_df = pd.read_csv(ref_file)
+    rindex_df = ref_df['ProteinID']
+
+    pattern = r">([\w.]+)"
+    for index in rindex_df.index:
+        ref_id = re.findall(pattern, ref_df['ProteinID'][index])
+        rindex_df[index] = ref_id[0]
+
+    return query_df, qindex_df, ref_df, rindex_df
+
 # Main similarity search function
-def similarity_search(query_embeddings, query_protein_ids, reference_embeddings, reference_protein_ids, method, top_k):
+def similarity_search(query_embeddings, query_protein_ids, reference_embeddings, reference_protein_ids, method, top_k, format, reference_file, query_file, query_df, qindex_df, ref_df, rindex_df):
     # Initialize the search model
     search_model = None
     if method == 'bts':
@@ -105,11 +128,29 @@ def similarity_search(query_embeddings, query_protein_ids, reference_embeddings,
         'graph': {"HNSW Graphs": hnsw_search},
         'faiss': {"FAISS": faiss_search}
     }
+
+    pat = r">([\w.]+)\s.*?"
+    if format == 'json':
+        flag = 1
+        output_file = reference_file + '_' + query_file + '_' + method + '.json'
+
+    else:
+        output_file = reference_file + '_' + query_file + '_' + method + '.txt'
+        os.chdir('/Users/sakshmenon/Desktop/PLM/Workflow Gen/Report Gen')
+        output_file_obj = open(output_file, 'w')
+        flag = 0
+
+    method_report = {method : []}
     
     for method_name, search_func in methods[method].items():
-        print(f"Method:\t{method_name}")
+        if format == 'txt':
+            output_file_obj.write(f"Method:\t{method_name}\n")
         total_time = 0
+
+        score_report = []
+
         for query_id, query_embedding in zip(query_protein_ids, query_embeddings):
+            sub_report = {'Query' : {"ID": '', "Time": '', "Matches" : []}}
             start_time = time.time()
             if search_model is None:
                 top_indices, distances = search_func(query_embedding, reference_embeddings, top_k)
@@ -120,22 +161,56 @@ def similarity_search(query_embeddings, query_protein_ids, reference_embeddings,
             query_time = end_time - start_time
             total_time += query_time
 #            mean_dist, conf_int = compute_confidence_interval(distances)
-            
-            print(f"\nQuery:\t{query_id}")
+            query = re.findall(pat, query_id)[0]
+            if flag:
+                sub_report['Query']['ID'] = query
+            else:
+                output_file_obj.write(f"\nQuery:\t{query_id}\n")
+
 #            print(f"Top {top_k} similar proteins (distance,match):")
             for i, (idx, dist) in enumerate(zip(top_indices, distances)):
-                print(f"Top{i+1}:\t{dist:.3f}\t{reference_protein_ids[idx]}")
+                match = re.findall(pat, reference_protein_ids[idx])[0]
+
+
+                qindex = qindex_df[qindex_df == query].index[0]
+                query_vector = query_df.loc[qindex].values[:-1]
+
+                rindex = rindex_df[rindex_df == match].index[0]
+                ref_vector = ref_df.loc[rindex].values[:-1]
+
+                score = cosine_similarity([query_vector], [ref_vector])
+
+                if flag:
+                    sub_report['Query']['Matches'].append(({"ID": match, "Score": round(float(score[0]), ndigits=5)}))
+
+                else:
+                    output_file_obj.write(f"Top{i+1}:\t{dist:.3f}\t{reference_protein_ids[idx]}\n")
+
 #            print(f"  Mean distance: {mean_dist:.3f}, Confidence interval: {conf_int}")
-            print(f"Time:\t{query_time:.5f}")
+
+            if flag:
+                sub_report['Query']['Time'] = round(query_time, 6)
+                score_report.append(sub_report)
+            else:
+                output_file_obj.write(f"Time:\t{query_time:.5f}\n")
         
-        print(f"\nTotal query proteins={len(query_embeddings)}, reference proteins={len(reference_embeddings)}")
-        print(f"Total search time for {method_name}: {total_time:.5f} seconds")
-        avg_time = total_time / len(query_embeddings)
-        print(f"Average search time for {method_name}: {avg_time:.5f} seconds")
+        if flag:
+            json_object = json.dumps(score_report, indent=4)
+            os.chdir('/Users/sakshmenon/Desktop/PLM/Workflow Gen/Report Gen')
+            with open(output_file, "w") as outfile:
+                outfile.write(json_object)
+        
+        else:
+            output_file_obj.write(f"\nTotal query proteins={len(query_embeddings)}, reference proteins={len(reference_embeddings)}")
+            output_file_obj.write(f"Total search time for {method_name}: {total_time:.5f} seconds")
+            avg_time = total_time / len(query_embeddings)
+            output_file_obj.write(f"Average search time for {method_name}: {avg_time:.5f} seconds")
+
+            output_file_obj.close()
 
 # Example Usage
 if __name__ == "__main__":
-    # passing arguments
+    # passing arguments 
     args = parser.parse_args()
     if len(sys.argv) < 2:
         parser.print_help()
@@ -166,10 +241,23 @@ if __name__ == "__main__":
     # Process other optional parameters
     search_method = args.method
     top_k = args.top_k
+    if args.format:
+        format = args.format
+    else:
+        print("Error: output format not specified")
+        parser.print_help()
+        sys.exit(1)
 
     # Load reference and query data
     reference_embeddings, reference_protein_ids = load_protein_embeddings(reference_file)
     query_embeddings, query_protein_ids = load_protein_embeddings(query_file)
     
     # Perform similarity search
-    similarity_search(query_embeddings, query_protein_ids, reference_embeddings, reference_protein_ids, search_method, top_k)
+    query_df, qindex_df, ref_df, rindex_df = query_ref_df_gen(query_file, reference_file)
+    similarity_search(query_embeddings, query_protein_ids, reference_embeddings, reference_protein_ids, search_method, top_k, format, reference_file, query_file, query_df, qindex_df, ref_df, rindex_df)
+
+    # reference_embeddings, reference_protein_ids = load_protein_embeddings('/Users/sakshmenon/Desktop/results/workflow files/s_cerevisiae_protein.csv')
+    # query_embeddings, query_protein_ids = load_protein_embeddings('/Users/sakshmenon/Desktop/results/workflow files/p_carinii_protein.csv')
+    
+    # query_df, qindex_df, ref_df, rindex_df = query_ref_df_gen('/Users/sakshmenon/Desktop/results/workflow files/p_carinii_protein.csv', '/Users/sakshmenon/Desktop/results/workflow files/s_cerevisiae_protein.csv')
+    # similarity_search(query_embeddings, query_protein_ids, reference_embeddings, reference_protein_ids, 'bfs', 3, 'txt', '/Users/sakshmenon/Desktop/results/workflow files/s_cerevisiae_protein.csv', '/Users/sakshmenon/Desktop/results/workflow files/p_carinii_protein.csv', query_df, qindex_df, ref_df, rindex_df)
