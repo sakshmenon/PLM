@@ -29,7 +29,7 @@ parser = argparse.ArgumentParser(description="Run the protein similarity search 
 parser.add_argument('--ref_file','-rf', type=str, help='input csv filename with reference embeddings')
 parser.add_argument('--q_file','-qf', type=str, help='input csv filename with query embeddings')
 parser.add_argument('--method', '-m', type=str, help='search method: Brute Force, Ball Tree, HNSW Graph, FAISS.', choices=['bfs', 'bts', 'graph', 'faiss'], default='bfs')
-parser.add_argument('--out_file', '-of', type=str, help='Output embedding filename (do not input whole .csv, for example, path/folder/filename is enough. This is for creating multiple file for both protein and residue level.', default='bfs')
+parser.add_argument('--out_file', '-of', type=str, help='Output embedding filename (do not input whole .csv, for example, path/folder/filename is enough. This is for creating multiple file for both protein and residue level.', default = None)
 parser.add_argument('--top_k', '-k', type=int, default=3, help='retrieve top k similar proteins.')
 parser.add_argument('--format', '-f', type=str, help='output format.', choices=['json', 'txt'])
 
@@ -132,19 +132,26 @@ def similarity_search(query_embeddings, query_protein_ids, reference_embeddings,
     pat = r">([\w.]+)\s.*?"
     if format == 'json':
         flag = 1
-        output_file = reference_file + '_' + query_file + '_' + method + '.json'
+        if out_file_flag:
+            output_file = out_file
+        else:
+            output_file = 'None'
+            
 
     else:
-        output_file = reference_file + '_' + query_file + '_' + method + '.txt'
-        os.chdir('/Users/sakshmenon/Desktop/PLM/Workflow Gen/Report Gen')
-        output_file_obj = open(output_file, 'w')
-        flag = 0
-
-    method_report = {method : []}
+        if out_file_flag:
+            output_file = out_file
+            output_file_obj = open(output_file, 'w')
+            flag = 0
+        else:
+            flag = 0
     
     for method_name, search_func in methods[method].items():
         if format == 'txt':
-            output_file_obj.write(f"Method:\t{method_name}\n")
+            if out_file_flag:
+                output_file_obj.write(f"Method:\t{method_name}\n")
+            else:
+                print(f"Method:\t{method_name}\n")
         total_time = 0
 
         score_report = []
@@ -165,7 +172,10 @@ def similarity_search(query_embeddings, query_protein_ids, reference_embeddings,
             if flag:
                 sub_report['Query']['ID'] = query
             else:
-                output_file_obj.write(f"\nQuery:\t{query_id}\n")
+                if out_file_flag:
+                    output_file_obj.write(f"\nQuery:\t{query_id}\n")
+                else:
+                    print(f"\nQuery:\t{query_id}\n")
 
 #            print(f"Top {top_k} similar proteins (distance,match):")
             for i, (idx, dist) in enumerate(zip(top_indices, distances)):
@@ -182,9 +192,11 @@ def similarity_search(query_embeddings, query_protein_ids, reference_embeddings,
 
                 if flag:
                     sub_report['Query']['Matches'].append(({"ID": match, "Score": round(float(score[0]), ndigits=5)}))
-
                 else:
-                    output_file_obj.write(f"Top{i+1}:\t{dist:.3f}\t{reference_protein_ids[idx]}\n")
+                    if out_file_flag:
+                        output_file_obj.write(f"Top{i+1}:\t{dist:.3f}\t{reference_protein_ids[idx]}\n")
+                    else:
+                        print(f"Top{i+1}:\t{dist:.3f}\t{reference_protein_ids[idx]}\n")
 
 #            print(f"  Mean distance: {mean_dist:.3f}, Confidence interval: {conf_int}")
 
@@ -192,21 +204,35 @@ def similarity_search(query_embeddings, query_protein_ids, reference_embeddings,
                 sub_report['Query']['Time'] = round(query_time, 6)
                 score_report.append(sub_report)
             else:
-                output_file_obj.write(f"Time:\t{query_time:.5f}\n")
+                if out_file_flag:
+                    output_file_obj.write(f"Time:\t{query_time:.5f}\n")
+                else:
+                    print(f"Time:\t{query_time:.5f}\n")
         
         if flag:
             json_object = json.dumps(score_report, indent=4)
-            os.chdir('/Users/sakshmenon/Desktop/PLM/Workflow Gen/Report Gen')
-            with open(output_file, "w") as outfile:
-                outfile.write(json_object)
+            if output_file != 'None':
+                with open(output_file, "w") as outfile:
+                    outfile.write(json_object)
+            if output_file == 'None':
+                print(json_object)
         
         else:
-            output_file_obj.write(f"\nTotal query proteins={len(query_embeddings)}, reference proteins={len(reference_embeddings)}")
-            output_file_obj.write(f"Total search time for {method_name}: {total_time:.5f} seconds")
-            avg_time = total_time / len(query_embeddings)
-            output_file_obj.write(f"Average search time for {method_name}: {avg_time:.5f} seconds")
+            if out_file_flag:
+                output_file_obj.write(f"\nTotal query proteins={len(query_embeddings)}, reference proteins={len(reference_embeddings)}")
+                output_file_obj.write(f"Total search time for {method_name}: {total_time:.5f} seconds")
+                avg_time = total_time / len(query_embeddings)
+                output_file_obj.write(f"Average search time for {method_name}: {avg_time:.5f} seconds")
 
-            output_file_obj.close()
+                output_file_obj.close()
+
+            else:
+                print(f"\nTotal query proteins={len(query_embeddings)}, reference proteins={len(reference_embeddings)}")
+                print(f"Total search time for {method_name}: {total_time:.5f} seconds")
+                avg_time = total_time / len(query_embeddings)
+                print(f"Average search time for {method_name}: {avg_time:.5f} seconds")
+
+
 
 # Example Usage
 if __name__ == "__main__":
@@ -240,7 +266,15 @@ if __name__ == "__main__":
 
     # Process other optional parameters
     search_method = args.method
+
+    if args.out_file:
+        out_file = args.out_file
+        out_file_flag = 1
+    else:
+        out_file_flag = 0
+
     top_k = args.top_k
+
     if args.format:
         format = args.format
     else:
