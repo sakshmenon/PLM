@@ -1,4 +1,7 @@
-#! /usr/bin/bash
+# bsub -J fa2emb_mf -W 12:00 -M 30000 -n 1 -q gpu-v100 -gpu "num=1:gmem=30G" -Is /bin/bash
+
+# # python cluster_run.py -ff p_carinii.GCF.faa -e prott5 -of mating_factors -l protein
+# ./run_protein_analysis.sh s_cerevisiae_protein p_carinii_protein txt 3 bts somefile.txt
 
 module load cuda/12.2
 module load anaconda3
@@ -21,10 +24,10 @@ method=$5
 output_file=$6
 
 # Run the first command and generate reference_file.csv
-python cluster_run.py -ff "${reference_file}.faa" -e prott5 -of "${reference_file}" -l protein
+# python cluster_run.py -ff "${reference_file}.faa" -e prott5 -of "${reference_file}" -l protein
 
 # Run the second command and generate query_file.csv
-python cluster_run.py -ff "${query_file}.faa" -e prott5 -of "${query_file}" -l protein
+# python cluster_run.py -ff "${query_file}.faa" -e prott5 -of "${query_file}" -l protein
 
 # Run the third command, using the .csv outputs from the previous commands as input
 if [ -z "$output_file" ]; then

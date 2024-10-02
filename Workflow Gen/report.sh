@@ -10,7 +10,7 @@ if [ $# -lt 5 ]; then
     exit 1
 fi
 
-# Capture the input file names, format, top matches, and method provided by the user
+# Capture the input file names, format, top matches, and method provided by the userf
 reference_file=$1
 query_file=$2
 format=$3
@@ -21,10 +21,10 @@ method=$5
 output_file=$6
 
 # Run the first command and generate reference_file.csv
-python cluster_run.py -ff "${reference_file}.faa" -e prott5 -of "${reference_file}" -l protein
+# python cluster_run.py -ff "${reference_file}.faa" -e prott5 -of "${reference_file}" -l protein
 
 # Run the second command and generate query_file.csv
-python cluster_run.py -ff "${query_file}.faa" -e prott5 -of "${query_file}" -l protein
+# python cluster_run.py -ff "${query_file}.faa" -e prott5 -of "${query_file}" -l protein
 
 # Run the third command, using the .csv outputs from the previous commands as input
 if [ -z "$output_file" ]; then

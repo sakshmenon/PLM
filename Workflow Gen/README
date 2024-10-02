@@ -1,0 +1,5 @@
+These are the inputs for the shell file: <reference_file> <query_file> <format> <top_matches> <method> [output_file]
+Output file is optional. You can use the redirection operator as well.
+Format options are: txt or json
+Only pass the file name without the format extension for query and reference file inputs
+Example Usage: ./run_protein_analysis.sh s_cerevisiae_protein p_carinii_protein txt 3 bts someoutputfile.txt
