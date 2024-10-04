@@ -1,0 +1,65 @@
+Saksh, below are a few approaches to compute significance of the found similarity. Start implementing them.
+I will generate embeddings between 2 annotated organisms baker's yeast vs fission yeast, where the proteins are known and annotated.
+We will be able to check the significance metrics based on them.
+
+Rank Consistency and Similarity Distribution Analysis
+    Top-N Consistency: 
+        Check how consistent the top matches are by calculating similarity for slightly modified versions of the input vector. 
+        Reliable hits will remain in the top-N even with small perturbations of the input.
+    
+    Score Gap Analysis: 
+        Measure the gap between the top similarity score and the next few scores. 
+        A large gap between the highest similarity score and the others suggests that the top hit is likely more significant.
+
+    Similarity Score Distribution: 
+        Analyze the distribution of cosine similarity scores across all reference vectors. 
+        If the distribution of the scores is highly concentrated (e.g., most similarities are close to zero), 
+        then outliers (very high similarity scores) may be more significant.
+
+Z-Score Normalization
+    Compute Z-Scores: 
+        Calculate the mean and standard deviation of all cosine similarity scores for the given input vector. 
+        Convert the top similarity scores into z-scores to see how many standard deviations away from the mean they are. 
+        Higher z-scores indicate higher significance.
+
+Bootstrapping and Statistical Testing
+    Bootstrapping: 
+        Randomly sample reference vectors and recompute the cosine similarity to estimate a confidence interval for the similarity scores.
+        Hits that consistently have high similarity across bootstrapped samples can be considered more reliable.
+    
+    Statistical Significance Testing: 
+        Use statistical tests, such as permutation tests, to assess whether the similarity score of a top hit is significantly 
+        different from what would be expected by random chance.
+
+Neighborhood Density Metrics
+    Local Neighborhood Density: 
+        Analyze the density of reference vectors in the neighborhood of the input vector. If the top hits are close in similarity, 
+        while other vectors are far, it indicates that these top hits are more distinct and thus significant.
+    
+    Cluster Analysis: 
+        Use clustering techniques (e.g., k-means or DBSCAN) to determine whether the top hits belong to the same cluster. 
+        If the top hits are tightly clustered, it suggests higher reliability.
+
+Ranking Stability and Consistency Check
+    Stability Across Projections: 
+        Compute the cosine similarity using different feature subsets or random projections to see if the 
+        ranking of top hits remains stable. Stable hits across different projections are more likely to be reliable.
+    
+    Ensemble Similarity Computation: 
+        Use an ensemble of slightly different similarity measures (e.g., cosine, Pearson correlation, 
+        Euclidean distance) and check if the top hits remain consistent across these measures.
+
+Entropy-Based Measures
+    Similarity Entropy: 
+        Compute the entropy of the cosine similarity scores for the top-N hits. Lower entropy suggests that the 
+        similarity values are more deterministic and significant.
+
+    Distribution-Based Index: 
+        Fit the similarity values to a known probability distribution (e.g., Gaussian, exponential). 
+        If the similarity of a top hit lies in the tail of this distribution, it is likely significant.
+
+Confidence Score Based on Vector Norm
+    Vector Magnitude Analysis: 
+        Compute the magnitude (L2 norm) of both the input vector and the top hit vectors. 
+        Large magnitudes, combined with high cosine similarity, may indicate that the match is more significant, as it is less likely 
+        to result from chance (since the similarity between larger vectors is often more meaningful).
