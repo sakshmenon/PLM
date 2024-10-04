@@ -10,7 +10,6 @@ if [ $# -lt 5 ]; then
     exit 1
 fi
 
-# Capture the input file names, format, top matches, and method provided by the userf
 reference_file=$1
 query_file=$2
 format=$3
