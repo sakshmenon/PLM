@@ -1,0 +1,259 @@
+Top 10 Matches
+
+Query :  NP_013061.1 
+   Protein ID :  NP_595409.1 
+   Top Score : 0.127
+   Normalized Top Score : 0.0389093137254902
+   Match2 : -0.8811274509803922
+   Match3 : -0.8927696078431373
+   Match4 : -0.9610906862745098
+
+Query :  NP_012983.3 
+   Protein ID :  NP_595852.1 
+   Top Score : 0.226
+   Normalized Top Score : 0.20508166969147004
+   Match2 : -0.7867513611615244
+   Match3 : -0.7876588021778584
+   Match4 : -0.79491833030853
+
+Query :  NP_012399.1 
+   Protein ID :  NP_595852.1 
+   Top Score : 0.235
+   Normalized Top Score : 0.2138307552320291
+   Match2 : -0.7825295723384895
+   Match3 : -0.7825295723384895
+   Match4 : -0.7861692447679709
+
+Query :  NP_009538.1 
+   Protein ID :  NP_594811.1 
+   Top Score : 0.189
+   Normalized Top Score : 0.2111731843575419
+   Match2 : -0.7463687150837988
+   Match3 : -0.7776536312849163
+   Match4 : -0.788826815642458
+
+Query :  NP_009802.3 
+   Protein ID :  NP_596244.1 
+   Top Score : 0.18
+   Normalized Top Score : 0.1910828025477707
+   Match2 : -0.7441613588110403
+   Match3 : -0.7675159235668791
+   Match4 : -0.8089171974522293
+
+Query :  NP_011941.1 
+   Protein ID :  NP_587771.1 
+   Top Score : 0.185
+   Normalized Top Score : 0.24119947848761408
+   Match2 : -0.7392438070404173
+   Match3 : -0.743155149934811
+   Match4 : -0.7588005215123859
+
+Query :  NP_012774.1 
+   Protein ID :  NP_594319.1 
+   Top Score : 0.178
+   Normalized Top Score : 0.2213930348258706
+   Match2 : -0.7375621890547264
+   Match3 : -0.7437810945273632
+   Match4 : -0.7786069651741294
+
+Query :  NP_012490.1 
+   Protein ID :  NP_594319.1 
+   Top Score : 0.171
+   Normalized Top Score : 0.21563682219419925
+   Match2 : -0.7364438839848676
+   Match3 : -0.7793190416141236
+   Match4 : -0.7843631778058008
+
+Query :  NP_010694.1 
+   Protein ID :  NP_587932.3 
+   Top Score : 0.196
+   Normalized Top Score : 0.24257425742574257
+   Match2 : -0.7326732673267327
+   Match3 : -0.7524752475247525
+   Match4 : -0.7574257425742574
+
+Query :  NP_014444.1 
+   Protein ID :  NP_592914.1 
+   Top Score : 0.345
+   Normalized Top Score : 0.24678111587982832
+   Match2 : -0.732474964234621
+   Match3 : -0.746065808297568
+   Match4 : -0.7532188841201717
+  
+##################################################################################################
+
+Middle 10 Matches
+
+Query :  NP_012171.1 
+   Protein ID :  NP_596081.1 
+   Top Score : 0.432
+   Normalized Top Score : 0.6067415730337079
+   Match2 : -0.1109550561797753
+   Match3 : -0.2935393258426967
+   Match4 : -0.3932584269662921
+
+Query :  NP_015522.1 
+   Protein ID :  NP_593509.1 
+   Top Score : 0.515
+   Normalized Top Score : 0.8279742765273312
+   Match2 : -0.11093247588424426
+   Match3 : -0.152733118971061
+   Match4 : -0.17202572347266876
+
+Query :  NP_009628.1 
+   Protein ID :  NP_596091.1 
+   Top Score : 1.156
+   Normalized Top Score : 0.8216062544420752
+   Match2 : -0.11087420042643936
+   Match3 : -0.1577825159914712
+   Match4 : -0.17839374555792475
+
+Query :  NP_015509.1 
+   Protein ID :  NP_596707.1 
+   Top Score : 0.739
+   Normalized Top Score : 0.8714622641509434
+   Match2 : -0.11084905660377353
+   Match3 : -0.1132075471698113
+   Match4 : -0.1285377358490566
+
+Query :  NP_014483.1 
+   Protein ID :  NP_592934.1 
+   Top Score : 0.844
+   Normalized Top Score : 0.7924882629107981
+   Match2 : -0.1107981220657277
+   Match3 : -0.1164319248826291
+   Match4 : -0.2075117370892019
+
+Query :  NP_011975.1 
+   Protein ID :  NP_593159.1 
+   Top Score : 0.498
+   Normalized Top Score : 0.7432835820895521
+   Match2 : -0.11044776119402988
+   Match3 : -0.12238805970149247
+   Match4 : -0.25671641791044786
+
+Query :  NP_013269.1 
+   Protein ID :  NP_595338.1 
+   Top Score : 0.56
+   Normalized Top Score : 0.5833333333333334
+   Match2 : -0.11041666666666672
+   Match3 : -0.2875
+   Match4 : -0.41666666666666663
+
+Query :  NP_009364.1 
+   Protein ID :  NP_593350.1 
+   Top Score : 0.255
+   Normalized Top Score : 0.375
+   Match2 : -0.11029411764705882
+   Match3 : -0.5205882352941176
+   Match4 : -0.625
+
+Query :  NP_012181.3 
+   Protein ID :  NP_595123.2 
+   Top Score : 0.455
+   Normalized Top Score : 0.7054263565891473
+   Match2 : -0.11007751937984489
+   Match3 : -0.1674418604651161
+   Match4 : -0.2945736434108527
+
+Query :  NP_010191.1 
+   Protein ID :  NP_594772.1 
+   Top Score : 0.824
+   Normalized Top Score : 0.7030716723549488
+   Match2 : -0.11006825938566556
+   Match3 : -0.2858361774744028
+   Match4 : -0.29692832764505117
+
+Query :  NP_012539.1 
+   Protein ID :  NP_594406.1 
+   Top Score : 0.485
+   Normalized Top Score : 0.5181623931623931
+   Match2 : -0.11004273504273498
+   Match3 : -0.20833333333333337
+   Match4 : -0.4818376068376069
+
+##################################################################################################
+
+Bottom 10 Matches
+
+Query :  NP_011624.1 
+   Protein ID :  NP_594897.1 
+   Top Score : 0.399
+   Normalized Top Score : 0.9975
+   Match2 : 0.0
+   Match3 : 0.0
+   Match4 : -0.0024999999999999467
+
+Query :  NP_011624.1 
+   Protein ID :  NP_594897.1 
+   Top Score : 0.399
+   Normalized Top Score : 0.9975
+   Match2 : 0.0
+   Match3 : 0.0
+   Match4 : -0.0024999999999999467
+
+Query :  NP_011624.1 
+   Protein ID :  NP_594897.1 
+   Top Score : 0.399
+   Normalized Top Score : 0.9975
+   Match2 : 0.0
+   Match3 : 0.0
+   Match4 : -0.0024999999999999467
+
+Query :  NP_011624.1 
+   Protein ID :  NP_594897.1 
+   Top Score : 0.399
+   Normalized Top Score : 0.9975
+   Match2 : 0.0
+   Match3 : 0.0
+   Match4 : -0.0024999999999999467
+
+Query :  NP_011624.1 
+   Protein ID :  NP_594897.1 
+   Top Score : 0.399
+   Normalized Top Score : 0.9975
+   Match2 : 0.0
+   Match3 : 0.0
+   Match4 : -0.0024999999999999467
+
+Query :  NP_011624.1 
+   Protein ID :  NP_594897.1 
+   Top Score : 0.399
+   Normalized Top Score : 0.9975
+   Match2 : 0.0
+   Match3 : 0.0
+   Match4 : -0.0024999999999999467
+
+Query :  NP_011624.1 
+   Protein ID :  NP_594897.1 
+   Top Score : 0.399
+   Normalized Top Score : 0.9975
+   Match2 : 0.0
+   Match3 : 0.0
+   Match4 : -0.0024999999999999467
+
+Query :  NP_011624.1 
+   Protein ID :  NP_594897.1 
+   Top Score : 0.399
+   Normalized Top Score : 0.9975
+   Match2 : 0.0
+   Match3 : 0.0
+   Match4 : -0.0024999999999999467
+
+Query :  NP_011624.1 
+   Protein ID :  NP_594897.1 
+   Top Score : 0.399
+   Normalized Top Score : 0.9975
+   Match2 : 0.0
+   Match3 : 0.0
+   Match4 : -0.0024999999999999467
+
+Query :  NP_011624.1 
+   Protein ID :  NP_594897.1 
+   Top Score : 0.399
+   Normalized Top Score : 0.9975
+   Match2 : 0.0
+   Match3 : 0.0
+   Match4 : -0.0024999999999999467
+
+##################################################################################################
