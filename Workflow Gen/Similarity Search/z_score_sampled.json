@@ -1,0 +1,1022 @@
+[
+    {
+        ">NP_878042.1 uncharacterized protein YAR035C-A [Saccharomyces cerevisiae S288C]": [
+            {
+                "Score": "2.208",
+                "Protein ID": "NP_594163.1 uncharacterized protein SPOM_SPAC8E11.06 [Schizosaccharomyces pombe]",
+                "Z-Score": -4.143264,
+                "Confidence Score (%)": 100.0
+            },
+            {
+                "Score": "2.449",
+                "Protein ID": "NP_001343079.1 uncharacterized protein SPOM_SPAC27E2.14 [Schizosaccharomyces pombe]",
+                "Z-Score": -1.89044,
+                "Confidence Score (%)": 97.07
+            },
+            {
+                "Score": "2.493",
+                "Protein ID": "NP_593415.1 uncharacterized protein SPOM_SPAP27G11.11C [Schizosaccharomyces pombe]",
+                "Z-Score": -1.479136,
+                "Confidence Score (%)": 93.04
+            },
+            {
+                "Score": "2.603",
+                "Protein ID": "NP_595874.1 mating type M-specific polypeptide Mi at silenced MAT3 locus [Schizosaccharomyces pombe]",
+                "Z-Score": -0.450876,
+                "Confidence Score (%)": 67.4
+            },
+            {
+                "Score": "2.603",
+                "Protein ID": "NP_001018808.1 M-specific transcription factor Mi [Schizosaccharomyces pombe]",
+                "Z-Score": -0.450876,
+                "Confidence Score (%)": 67.4
+            }
+        ]
+    },
+    {
+        ">NP_076889.1 uncharacterized protein YFR012W-A [Saccharomyces cerevisiae S288C]": [
+            {
+                "Score": "1.586",
+                "Protein ID": "NP_001417944.1 uncharacterized protein SPOM_SPAPB1A11.06 [Schizosaccharomyces pombe]",
+                "Z-Score": -3.936483,
+                "Confidence Score (%)": 100.0
+            },
+            {
+                "Score": "1.855",
+                "Protein ID": "NP_001343166.1 uncharacterized protein SPOM_SPBC2A9.14 [Schizosaccharomyces pombe]",
+                "Z-Score": -1.282342,
+                "Confidence Score (%)": 90.01
+            },
+            {
+                "Score": "1.887",
+                "Protein ID": "NP_001343162.1 uncharacterized protein SPOM_SPBC3E7.17 [Schizosaccharomyces pombe]",
+                "Z-Score": -0.966607,
+                "Confidence Score (%)": 83.31
+            },
+            {
+                "Score": "1.890",
+                "Protein ID": "NP_596577.1 F0-ATPase epsilon subunit Atp15 [Schizosaccharomyces pombe]",
+                "Z-Score": -0.937007,
+                "Confidence Score (%)": 82.56
+            },
+            {
+                "Score": "1.911",
+                "Protein ID": "NP_001343113.1 uncharacterized protein SPOM_SPACUNK4.20 [Schizosaccharomyces pombe]",
+                "Z-Score": -0.729807,
+                "Confidence Score (%)": 76.72
+            }
+        ]
+    },
+    {
+        ">NP_878147.1 uncharacterized protein YMR242W-A [Saccharomyces cerevisiae S288C]": [
+            {
+                "Score": "1.475",
+                "Protein ID": "NP_001417944.1 uncharacterized protein SPOM_SPAPB1A11.06 [Schizosaccharomyces pombe]",
+                "Z-Score": -4.197508,
+                "Confidence Score (%)": 100.0
+            },
+            {
+                "Score": "1.749",
+                "Protein ID": "NP_001343113.1 uncharacterized protein SPOM_SPACUNK4.20 [Schizosaccharomyces pombe]",
+                "Z-Score": -1.269511,
+                "Confidence Score (%)": 89.79
+            },
+            {
+                "Score": "1.761",
+                "Protein ID": "NP_001343162.1 uncharacterized protein SPOM_SPBC3E7.17 [Schizosaccharomyces pombe]",
+                "Z-Score": -1.141278,
+                "Confidence Score (%)": 87.31
+            },
+            {
+                "Score": "1.777",
+                "Protein ID": "NP_001343013.1 uncharacterized protein SPOM_SPBC3D6.16 [Schizosaccharomyces pombe]",
+                "Z-Score": -0.9703,
+                "Confidence Score (%)": 83.41
+            },
+            {
+                "Score": "1.793",
+                "Protein ID": "NP_001343129.1 uncharacterized protein SPOM_SPAC1093.07 [Schizosaccharomyces pombe]",
+                "Z-Score": -0.799322,
+                "Confidence Score (%)": 78.79
+            }
+        ]
+    },
+    {
+        ">NP_010749.3 mating pheromone a [Saccharomyces cerevisiae S288C]": [
+            {
+                "Score": "1.126",
+                "Protein ID": "NP_001342991.1 M-factor precursor Mfm1 [Schizosaccharomyces pombe]",
+                "Z-Score": -4.555435,
+                "Confidence Score (%)": 100.0
+            },
+            {
+                "Score": "1.422",
+                "Protein ID": "NP_593977.1 M-factor precursor Mfm2 [Schizosaccharomyces pombe]",
+                "Z-Score": -1.60659,
+                "Confidence Score (%)": 94.59
+            },
+            {
+                "Score": "1.496",
+                "Protein ID": "NP_596681.1 heterotrimeric G protein gamma subunit Git11 [Schizosaccharomyces pombe]",
+                "Z-Score": -0.869378,
+                "Confidence Score (%)": 80.77
+            },
+            {
+                "Score": "1.525",
+                "Protein ID": "NP_595278.1 M-factor precursor Mfm3 [Schizosaccharomyces pombe]",
+                "Z-Score": -0.580471,
+                "Confidence Score (%)": 71.92
+            },
+            {
+                "Score": "1.534",
+                "Protein ID": "NP_001342931.1 uncharacterized protein SPOM_SPCC794.15 [Schizosaccharomyces pombe]",
+                "Z-Score": -0.49081,
+                "Confidence Score (%)": 68.82
+            }
+        ]
+    },
+    {
+        ">NP_010049.1 olichyl-diphosphooligosaccharide--protein glycotransferase OST4 [Saccharomyces cerevisiae S288C]": [
+            {
+                "Score": "0.577",
+                "Protein ID": "NP_593850.1 oligosaccharyltransferase subunit Ost4 [Schizosaccharomyces pombe]",
+                "Z-Score": -4.663185,
+                "Confidence Score (%)": 100.0
+            },
+            {
+                "Score": "1.297",
+                "Protein ID": "NP_001343144.1 protein ksh1 [Schizosaccharomyces pombe]",
+                "Z-Score": -0.93388,
+                "Confidence Score (%)": 82.48
+            },
+            {
+                "Score": "1.322",
+                "Protein ID": "NP_595676.1 dolichol-phosphate mannosyltransferase regulatory subunit Dpm2 [Schizosaccharomyces pombe]",
+                "Z-Score": -0.80439,
+                "Confidence Score (%)": 78.94
+            },
+            {
+                "Score": "1.326",
+                "Protein ID": "NP_001343007.1 V-type ATPase V0 subunit e [Schizosaccharomyces pombe]",
+                "Z-Score": -0.783672,
+                "Confidence Score (%)": 78.34
+            },
+            {
+                "Score": "1.344",
+                "Protein ID": "NP_001417962.1 mitochondrial TOM complex subunit Tom7 [Schizosaccharomyces pombe]",
+                "Z-Score": -0.690439,
+                "Confidence Score (%)": 75.5
+            }
+        ]
+    },
+    {
+        ">NP_014254.1 mating pheromone a [Saccharomyces cerevisiae S288C]": [
+            {
+                "Score": "1.149",
+                "Protein ID": "NP_001342991.1 M-factor precursor Mfm1 [Schizosaccharomyces pombe]",
+                "Z-Score": -4.359697,
+                "Confidence Score (%)": 100.0
+            },
+            {
+                "Score": "1.348",
+                "Protein ID": "NP_593977.1 M-factor precursor Mfm2 [Schizosaccharomyces pombe]",
+                "Z-Score": -2.138551,
+                "Confidence Score (%)": 98.38
+            },
+            {
+                "Score": "1.477",
+                "Protein ID": "NP_001342931.1 uncharacterized protein SPOM_SPCC794.15 [Schizosaccharomyces pombe]",
+                "Z-Score": -0.698712,
+                "Confidence Score (%)": 75.76
+            },
+            {
+                "Score": "1.494",
+                "Protein ID": "NP_594575.2 uncharacterized protein SPOM_SPAC9E9.17C [Schizosaccharomyces pombe]",
+                "Z-Score": -0.508966,
+                "Confidence Score (%)": 69.46
+            },
+            {
+                "Score": "1.496",
+                "Protein ID": "NP_001343032.1 EKC/KEOPS complex subunit Gon7 [Schizosaccharomyces pombe]",
+                "Z-Score": -0.486643,
+                "Confidence Score (%)": 68.67
+            }
+        ]
+    },
+    {
+        ">NP_009312.1 F1F0 ATP synthase subunit 8 (mitochondrion) [Saccharomyces cerevisiae S288C]": [
+            {
+                "Score": "0.791",
+                "Protein ID": "YP_011104936.1 ATP synthase F0 subunit 8 (mitochondrion) [Schizosaccharomyces pombe]",
+                "Z-Score": -5.039125,
+                "Confidence Score (%)": 100.0
+            },
+            {
+                "Score": "2.542",
+                "Protein ID": "YP_011104934.1 ATP synthase F0 subunit 6 (mitochondrion) [Schizosaccharomyces pombe]",
+                "Z-Score": -0.817418,
+                "Confidence Score (%)": 79.32
+            },
+            {
+                "Score": "2.597",
+                "Protein ID": "YP_011104931.1 cytochrome oxidase subunit 3 (mitochondrion) [Schizosaccharomyces pombe]",
+                "Z-Score": -0.684812,
+                "Confidence Score (%)": 75.33
+            },
+            {
+                "Score": "2.619",
+                "Protein ID": "YP_011104938.1 cytochrome oxidase subunit 2 (mitochondrion) [Schizosaccharomyces pombe]",
+                "Z-Score": -0.631769,
+                "Confidence Score (%)": 73.62
+            },
+            {
+                "Score": "2.640",
+                "Protein ID": "YP_011104932.1 apocytochrome b (mitochondrion) [Schizosaccharomyces pombe]",
+                "Z-Score": -0.581138,
+                "Confidence Score (%)": 71.94
+            }
+        ]
+    },
+    {
+        ">NP_015459.1 Tom5p [Saccharomyces cerevisiae S288C]": [
+            {
+                "Score": "1.073",
+                "Protein ID": "NP_001343161.1 TOM complex subunit Tom5 [Schizosaccharomyces pombe]",
+                "Z-Score": -4.895622,
+                "Confidence Score (%)": 100.0
+            },
+            {
+                "Score": "1.414",
+                "Protein ID": "NP_595942.1 protein gem8 [Schizosaccharomyces pombe]",
+                "Z-Score": -0.7542,
+                "Confidence Score (%)": 77.46
+            },
+            {
+                "Score": "1.418",
+                "Protein ID": "NP_001343124.1 protein Ina22 [Schizosaccharomyces pombe]",
+                "Z-Score": -0.705621,
+                "Confidence Score (%)": 75.98
+            },
+            {
+                "Score": "1.435",
+                "Protein ID": "NP_001343108.1 ribosome assembly protein Rsa3 [Schizosaccharomyces pombe]",
+                "Z-Score": -0.499157,
+                "Confidence Score (%)": 69.12
+            },
+            {
+                "Score": "1.447",
+                "Protein ID": "NP_594070.1 uncharacterized protein SPOM_SPAC688.12C [Schizosaccharomyces pombe]",
+                "Z-Score": -0.353418,
+                "Confidence Score (%)": 63.81
+            }
+        ]
+    },
+    {
+        ">NP_012346.1 ribosomal 60S subunit protein L39 [Saccharomyces cerevisiae S288C]": [
+            {
+                "Score": "0.454",
+                "Protein ID": "NP_001342745.1 60S ribosomal protein L39 [Schizosaccharomyces pombe]",
+                "Z-Score": -4.888235,
+                "Confidence Score (%)": 100.0
+            },
+            {
+                "Score": "1.209",
+                "Protein ID": "NP_596316.1 60S ribosomal protein L29 [Schizosaccharomyces pombe]",
+                "Z-Score": -0.992302,
+                "Confidence Score (%)": 83.95
+            },
+            {
+                "Score": "1.302",
+                "Protein ID": "NP_001018221.1 60S ribosomal protein eL37 [Schizosaccharomyces pombe]",
+                "Z-Score": -0.512405,
+                "Confidence Score (%)": 69.58
+            },
+            {
+                "Score": "1.318",
+                "Protein ID": "NP_588350.1 60S ribosomal protein eL37 [Schizosaccharomyces pombe]",
+                "Z-Score": -0.429843,
+                "Confidence Score (%)": 66.63
+            },
+            {
+                "Score": "1.323",
+                "Protein ID": "NP_594304.1 60S ribosomal protein eL42 [Schizosaccharomyces pombe]",
+                "Z-Score": -0.404042,
+                "Confidence Score (%)": 65.69
+            }
+        ]
+    },
+    {
+        ">NP_010319.3 cysteine-rich palmitoylated domain-containing protein CPP3 [Saccharomyces cerevisiae S288C]": [
+            {
+                "Score": "1.652",
+                "Protein ID": "NP_595223.1 tail anchored plasma membrane protein Uvi15 [Schizosaccharomyces pombe]",
+                "Z-Score": -4.071492,
+                "Confidence Score (%)": 100.0
+            },
+            {
+                "Score": "1.864",
+                "Protein ID": "NP_595084.1 protein wwm3 [Schizosaccharomyces pombe]",
+                "Z-Score": -2.129488,
+                "Confidence Score (%)": 98.34
+            },
+            {
+                "Score": "1.913",
+                "Protein ID": "NP_587892.2 plasma membrane proteolipid Pmp31 [Schizosaccharomyces pombe]",
+                "Z-Score": -1.680628,
+                "Confidence Score (%)": 95.36
+            },
+            {
+                "Score": "2.000",
+                "Protein ID": "NP_595628.1 protein wwm1 [Schizosaccharomyces pombe]",
+                "Z-Score": -0.883673,
+                "Confidence Score (%)": 81.16
+            },
+            {
+                "Score": "2.036",
+                "Protein ID": "NP_001018291.2 uncharacterized protein SPOM_SPAC1952.04C [Schizosaccharomyces pombe]",
+                "Z-Score": -0.553899,
+                "Confidence Score (%)": 71.02
+            }
+        ]
+    },
+    {
+        ">NP_011065.1 uncharacterized protein YER138W-A [Saccharomyces cerevisiae S288C]": [
+            {
+                "Score": "1.913",
+                "Protein ID": "NP_001343123.1 uncharacterized protein SPOM_SPAC1071.13 [Schizosaccharomyces pombe]",
+                "Z-Score": -3.575125,
+                "Confidence Score (%)": 99.98
+            },
+            {
+                "Score": "2.074",
+                "Protein ID": "NP_001343190.1 uncharacterized protein SPOM_SPCC18.20 [Schizosaccharomyces pombe]",
+                "Z-Score": -1.574215,
+                "Confidence Score (%)": 94.23
+            },
+            {
+                "Score": "2.088",
+                "Protein ID": "NP_596768.1 uncharacterized protein SPOM_SPBC16G5.19 [Schizosaccharomyces pombe]",
+                "Z-Score": -1.400223,
+                "Confidence Score (%)": 91.93
+            },
+            {
+                "Score": "2.119",
+                "Protein ID": "NP_001343186.1 uncharacterized protein SPOM_SPCC188.14 [Schizosaccharomyces pombe]",
+                "Z-Score": -1.014954,
+                "Confidence Score (%)": 84.49
+            },
+            {
+                "Score": "2.133",
+                "Protein ID": "NP_592797.1 uncharacterized protein SPOM_SPAC1F8.08 [Schizosaccharomyces pombe]",
+                "Z-Score": -0.840962,
+                "Confidence Score (%)": 79.98
+            }
+        ]
+    },
+    {
+        ">NP_878097.1 uncharacterized protein YIL046W-A [Saccharomyces cerevisiae S288C]": [
+            {
+                "Score": "1.697",
+                "Protein ID": "NP_001343018.1 uncharacterized protein SPOM_SPAC27E2.12 [Schizosaccharomyces pombe]",
+                "Z-Score": -3.484461,
+                "Confidence Score (%)": 99.98
+            },
+            {
+                "Score": "1.965",
+                "Protein ID": "NP_001343179.1 uncharacterized protein SPOM_SPCC1235.17 [Schizosaccharomyces pombe]",
+                "Z-Score": -1.718286,
+                "Confidence Score (%)": 95.71
+            },
+            {
+                "Score": "2.001",
+                "Protein ID": "NP_001417979.1 uncharacterized protein SPOM_SPCC417.03 [Schizosaccharomyces pombe]",
+                "Z-Score": -1.481039,
+                "Confidence Score (%)": 93.07
+            },
+            {
+                "Score": "2.069",
+                "Protein ID": "NP_593359.1 protein mug116 [Schizosaccharomyces pombe]",
+                "Z-Score": -1.032905,
+                "Confidence Score (%)": 84.92
+            },
+            {
+                "Score": "2.071",
+                "Protein ID": "NP_001343151.1 uncharacterized protein SPOM_SPBC32H8.15 [Schizosaccharomyces pombe]",
+                "Z-Score": -1.019724,
+                "Confidence Score (%)": 84.61
+            }
+        ]
+    },
+    {
+        ">NP_010222.1 ribosomal 40S subunit protein S29B [Saccharomyces cerevisiae S288C]": [
+            {
+                "Score": "0.715",
+                "Protein ID": "NP_595213.1 40S ribosomal protein uS14 [Schizosaccharomyces pombe]",
+                "Z-Score": -3.611303,
+                "Confidence Score (%)": 99.98
+            },
+            {
+                "Score": "0.984",
+                "Protein ID": "NP_001018221.1 60S ribosomal protein eL37 [Schizosaccharomyces pombe]",
+                "Z-Score": -1.696757,
+                "Confidence Score (%)": 95.51
+            },
+            {
+                "Score": "1.010",
+                "Protein ID": "NP_588350.1 60S ribosomal protein eL37 [Schizosaccharomyces pombe]",
+                "Z-Score": -1.511708,
+                "Confidence Score (%)": 93.47
+            },
+            {
+                "Score": "1.016",
+                "Protein ID": "NP_595105.1 60S ribosomal protein eL43 [Schizosaccharomyces pombe]",
+                "Z-Score": -1.469005,
+                "Confidence Score (%)": 92.91
+            },
+            {
+                "Score": "1.039",
+                "Protein ID": "NP_595634.1 60S ribosomal protein eL43 [Schizosaccharomyces pombe]",
+                "Z-Score": -1.305308,
+                "Confidence Score (%)": 90.41
+            }
+        ]
+    },
+    {
+        ">NP_878161.1 uncharacterized protein YOL164W-A [Saccharomyces cerevisiae S288C]": [
+            {
+                "Score": "1.100",
+                "Protein ID": "NP_001417979.1 uncharacterized protein SPOM_SPCC417.03 [Schizosaccharomyces pombe]",
+                "Z-Score": -3.518379,
+                "Confidence Score (%)": 99.98
+            },
+            {
+                "Score": "1.325",
+                "Protein ID": "NP_001417985.1 uncharacterized protein SPOM_SPAC806.11 [Schizosaccharomyces pombe]",
+                "Z-Score": -1.701729,
+                "Confidence Score (%)": 95.56
+            },
+            {
+                "Score": "1.408",
+                "Protein ID": "NP_001343060.1 uncharacterized protein SPOM_SPCC417.15 [Schizosaccharomyces pombe]",
+                "Z-Score": -1.031588,
+                "Confidence Score (%)": 84.89
+            },
+            {
+                "Score": "1.420",
+                "Protein ID": "NP_593433.1 uncharacterized protein SPOM_SPAC343.20 [Schizosaccharomyces pombe]",
+                "Z-Score": -0.9347,
+                "Confidence Score (%)": 82.5
+            },
+            {
+                "Score": "1.427",
+                "Protein ID": "NP_001417960.1 uncharacterized protein SPOM_SPBC713.14C [Schizosaccharomyces pombe]",
+                "Z-Score": -0.878182,
+                "Confidence Score (%)": 81.01
+            }
+        ]
+    },
+    {
+        ">NP_878071.1 uncharacterized protein YFL041W-A [Saccharomyces cerevisiae S288C]": [
+            {
+                "Score": "1.040",
+                "Protein ID": "NP_001343098.1 uncharacterized protein SPOM_SPAPJ695.02 [Schizosaccharomyces pombe]",
+                "Z-Score": -3.539176,
+                "Confidence Score (%)": 99.98
+            },
+            {
+                "Score": "1.121",
+                "Protein ID": "NP_596429.1 uncharacterized protein SPOM_SPBC4B4.12C [Schizosaccharomyces pombe]",
+                "Z-Score": -2.300133,
+                "Confidence Score (%)": 98.93
+            },
+            {
+                "Score": "1.190",
+                "Protein ID": "NP_595466.1 DNA recombination protein Saw1 [Schizosaccharomyces pombe]",
+                "Z-Score": -1.244652,
+                "Confidence Score (%)": 89.34
+            },
+            {
+                "Score": "1.214",
+                "Protein ID": "NP_595997.1 uncharacterized protein SPOM_SPBC1921.04C [Schizosaccharomyces pombe]",
+                "Z-Score": -0.877528,
+                "Confidence Score (%)": 80.99
+            },
+            {
+                "Score": "1.229",
+                "Protein ID": "NP_595228.1 uncharacterized protein SPOM_SPBC354.04 [Schizosaccharomyces pombe]",
+                "Z-Score": -0.648076,
+                "Confidence Score (%)": 74.15
+            }
+        ]
+    },
+    {
+        ">NP_001018029.1 Coq21p [Saccharomyces cerevisiae S288C]": [
+            {
+                "Score": "1.345",
+                "Protein ID": "NP_001343127.1 protein Smp1 [Schizosaccharomyces pombe]",
+                "Z-Score": -3.5539,
+                "Confidence Score (%)": 99.98
+            },
+            {
+                "Score": "1.461",
+                "Protein ID": "NP_001343098.1 uncharacterized protein SPOM_SPAPJ695.02 [Schizosaccharomyces pombe]",
+                "Z-Score": -1.850612,
+                "Confidence Score (%)": 96.79
+            },
+            {
+                "Score": "1.511",
+                "Protein ID": "NP_594723.1 protein Fta6 [Schizosaccharomyces pombe]",
+                "Z-Score": -1.116437,
+                "Confidence Score (%)": 86.79
+            },
+            {
+                "Score": "1.526",
+                "Protein ID": "NP_001343087.1 protein Spo2 [Schizosaccharomyces pombe]",
+                "Z-Score": -0.896184,
+                "Confidence Score (%)": 81.49
+            },
+            {
+                "Score": "1.526",
+                "Protein ID": "NP_001343077.1 Ino80 complex subunit Iec5 [Schizosaccharomyces pombe]",
+                "Z-Score": -0.896184,
+                "Confidence Score (%)": 81.49
+            }
+        ]
+    },
+    {
+        ">NP_878098.1 Cmi7p [Saccharomyces cerevisiae S288C]": [
+            {
+                "Score": "0.886",
+                "Protein ID": "NP_595797.1 uncharacterized protein SPOM_SPBC16E9.15 [Schizosaccharomyces pombe]",
+                "Z-Score": -3.60315,
+                "Confidence Score (%)": 99.98
+            },
+            {
+                "Score": "1.104",
+                "Protein ID": "NP_001018295.1 DASH complex subunit Dad3 [Schizosaccharomyces pombe]",
+                "Z-Score": -1.722796,
+                "Confidence Score (%)": 95.75
+            },
+            {
+                "Score": "1.106",
+                "Protein ID": "NP_594045.2 DASH complex subunit Dad1 [Schizosaccharomyces pombe]",
+                "Z-Score": -1.705545,
+                "Confidence Score (%)": 95.6
+            },
+            {
+                "Score": "1.196",
+                "Protein ID": "NP_593918.1 DASH complex subunit Dad2 [Schizosaccharomyces pombe]",
+                "Z-Score": -0.929252,
+                "Confidence Score (%)": 82.36
+            },
+            {
+                "Score": "1.206",
+                "Protein ID": "NP_596571.2 mediator complex subunit Med10 [Schizosaccharomyces pombe]",
+                "Z-Score": -0.842997,
+                "Confidence Score (%)": 80.04
+            }
+        ]
+    },
+    {
+        ">NP_878056.1 uncharacterized protein YBR298C-A [Saccharomyces cerevisiae S288C]": [
+            {
+                "Score": "1.121",
+                "Protein ID": "NP_595997.1 uncharacterized protein SPOM_SPBC1921.04C [Schizosaccharomyces pombe]",
+                "Z-Score": -3.588729,
+                "Confidence Score (%)": 99.98
+            },
+            {
+                "Score": "1.277",
+                "Protein ID": "NP_001417925.1 uncharacterized protein SPOM_SPCC13B11.02C [Schizosaccharomyces pombe]",
+                "Z-Score": -1.519839,
+                "Confidence Score (%)": 93.57
+            },
+            {
+                "Score": "1.296",
+                "Protein ID": "NP_001342981.1 proteasome assembly chaperone Pac3 [Schizosaccharomyces pombe]",
+                "Z-Score": -1.267858,
+                "Confidence Score (%)": 89.76
+            },
+            {
+                "Score": "1.303",
+                "Protein ID": "NP_594574.1 uncharacterized protein SPOM_SPAC9E9.01 [Schizosaccharomyces pombe]",
+                "Z-Score": -1.175024,
+                "Confidence Score (%)": 88.0
+            },
+            {
+                "Score": "1.310",
+                "Protein ID": "NP_592797.1 uncharacterized protein SPOM_SPAC1F8.08 [Schizosaccharomyces pombe]",
+                "Z-Score": -1.082189,
+                "Confidence Score (%)": 86.04
+            }
+        ]
+    },
+    {
+        ">NP_014949.3 Bil1p [Saccharomyces cerevisiae S288C]": [
+            {
+                "Score": "1.039",
+                "Protein ID": "NP_595797.1 uncharacterized protein SPOM_SPBC16E9.15 [Schizosaccharomyces pombe]",
+                "Z-Score": -3.481302,
+                "Confidence Score (%)": 99.98
+            },
+            {
+                "Score": "1.138",
+                "Protein ID": "NP_594045.2 DASH complex subunit Dad1 [Schizosaccharomyces pombe]",
+                "Z-Score": -2.219006,
+                "Confidence Score (%)": 98.68
+            },
+            {
+                "Score": "1.203",
+                "Protein ID": "NP_593878.1 mediator complex subunit Med11 [Schizosaccharomyces pombe]",
+                "Z-Score": -1.390226,
+                "Confidence Score (%)": 91.78
+            },
+            {
+                "Score": "1.236",
+                "Protein ID": "NP_594056.1 DASH complex subunit Dam1 [Schizosaccharomyces pombe]",
+                "Z-Score": -0.96946,
+                "Confidence Score (%)": 83.38
+            },
+            {
+                "Score": "1.243",
+                "Protein ID": "NP_001018295.1 DASH complex subunit Dad3 [Schizosaccharomyces pombe]",
+                "Z-Score": -0.880207,
+                "Confidence Score (%)": 81.06
+            }
+        ]
+    },
+    {
+        ">NP_013499.1 cytochrome c oxidase subunit VIII [Saccharomyces cerevisiae S288C]": [
+            {
+                "Score": "0.685",
+                "Protein ID": "NP_594028.1 cytochrome c oxidase subunit VIII [Schizosaccharomyces pombe]",
+                "Z-Score": -3.566828,
+                "Confidence Score (%)": 99.98
+            },
+            {
+                "Score": "0.921",
+                "Protein ID": "NP_588417.1 cytochrome c oxidase subunit VIa [Schizosaccharomyces pombe]",
+                "Z-Score": -2.106603,
+                "Confidence Score (%)": 98.24
+            },
+            {
+                "Score": "0.980",
+                "Protein ID": "NP_001417967.1 mitochondrial F1-FO ATP synthase peripheral stalk assembly factor Ina17 [Schizosaccharomyces pombe]",
+                "Z-Score": -1.741546,
+                "Confidence Score (%)": 95.92
+            },
+            {
+                "Score": "1.124",
+                "Protein ID": "NP_594784.2 protein Min8 [Schizosaccharomyces pombe]",
+                "Z-Score": -0.850561,
+                "Confidence Score (%)": 80.25
+            },
+            {
+                "Score": "1.136",
+                "Protein ID": "NP_596629.1 F0-ATPase subunit F [Schizosaccharomyces pombe]",
+                "Z-Score": -0.776312,
+                "Confidence Score (%)": 78.12
+            }
+        ]
+    },
+    {
+        ">NP_058185.3 gag-pol fusion protein [Saccharomyces cerevisiae S288C]": [
+            {
+                "Score": "0.901",
+                "Protein ID": "NP_001417984.1 LOW QUALITY PROTEIN: retrotransposable element/transposon Tf2-type [Schizosaccharomyces pombe]",
+                "Z-Score": -1.1733,
+                "Confidence Score (%)": 87.97
+            },
+            {
+                "Score": "0.905",
+                "Protein ID": "NP_594409.1 retrotransposable element/transposon Tf2-type [Schizosaccharomyces pombe]",
+                "Z-Score": -1.136003,
+                "Confidence Score (%)": 87.2
+            },
+            {
+                "Score": "0.905",
+                "Protein ID": "NP_593984.1 retrotransposable element/transposon Tf2-type [Schizosaccharomyces pombe]",
+                "Z-Score": -1.136003,
+                "Confidence Score (%)": 87.2
+            },
+            {
+                "Score": "0.905",
+                "Protein ID": "NP_587955.1 retrotransposable element/transposon Tf2-type [Schizosaccharomyces pombe]",
+                "Z-Score": -1.136003,
+                "Confidence Score (%)": 87.2
+            },
+            {
+                "Score": "0.905",
+                "Protein ID": "NP_001018276.1 retrotransposable element/transposon Tf2-type [Schizosaccharomyces pombe]",
+                "Z-Score": -1.136003,
+                "Confidence Score (%)": 87.2
+            }
+        ]
+    },
+    {
+        ">NP_009909.2 gag-pol fusion protein [Saccharomyces cerevisiae S288C]": [
+            {
+                "Score": "0.898",
+                "Protein ID": "NP_001417984.1 LOW QUALITY PROTEIN: retrotransposable element/transposon Tf2-type [Schizosaccharomyces pombe]",
+                "Z-Score": -1.172848,
+                "Confidence Score (%)": 87.96
+            },
+            {
+                "Score": "0.902",
+                "Protein ID": "NP_001018276.1 retrotransposable element/transposon Tf2-type [Schizosaccharomyces pombe]",
+                "Z-Score": -1.135811,
+                "Confidence Score (%)": 87.2
+            },
+            {
+                "Score": "0.902",
+                "Protein ID": "NP_587955.1 retrotransposable element/transposon Tf2-type [Schizosaccharomyces pombe]",
+                "Z-Score": -1.135811,
+                "Confidence Score (%)": 87.2
+            },
+            {
+                "Score": "0.902",
+                "Protein ID": "NP_593984.1 retrotransposable element/transposon Tf2-type [Schizosaccharomyces pombe]",
+                "Z-Score": -1.135811,
+                "Confidence Score (%)": 87.2
+            },
+            {
+                "Score": "0.902",
+                "Protein ID": "NP_594409.1 retrotransposable element/transposon Tf2-type [Schizosaccharomyces pombe]",
+                "Z-Score": -1.135811,
+                "Confidence Score (%)": 87.2
+            }
+        ]
+    },
+    {
+        ">NP_058142.3 gag-pol fusion protein [Saccharomyces cerevisiae S288C]": [
+            {
+                "Score": "0.904",
+                "Protein ID": "NP_001417984.1 LOW QUALITY PROTEIN: retrotransposable element/transposon Tf2-type [Schizosaccharomyces pombe]",
+                "Z-Score": -1.171931,
+                "Confidence Score (%)": 87.94
+            },
+            {
+                "Score": "0.908",
+                "Protein ID": "NP_001018276.1 retrotransposable element/transposon Tf2-type [Schizosaccharomyces pombe]",
+                "Z-Score": -1.134238,
+                "Confidence Score (%)": 87.17
+            },
+            {
+                "Score": "0.908",
+                "Protein ID": "NP_594409.1 retrotransposable element/transposon Tf2-type [Schizosaccharomyces pombe]",
+                "Z-Score": -1.134238,
+                "Confidence Score (%)": 87.17
+            },
+            {
+                "Score": "0.908",
+                "Protein ID": "NP_587955.1 retrotransposable element/transposon Tf2-type [Schizosaccharomyces pombe]",
+                "Z-Score": -1.134238,
+                "Confidence Score (%)": 87.17
+            },
+            {
+                "Score": "0.908",
+                "Protein ID": "NP_593984.1 retrotransposable element/transposon Tf2-type [Schizosaccharomyces pombe]",
+                "Z-Score": -1.134238,
+                "Confidence Score (%)": 87.17
+            }
+        ]
+    },
+    {
+        ">NP_009450.1 gag-pol fusion protein [Saccharomyces cerevisiae S288C]": [
+            {
+                "Score": "0.898",
+                "Protein ID": "NP_001417984.1 LOW QUALITY PROTEIN: retrotransposable element/transposon Tf2-type [Schizosaccharomyces pombe]",
+                "Z-Score": -1.17092,
+                "Confidence Score (%)": 87.92
+            },
+            {
+                "Score": "0.902",
+                "Protein ID": "NP_587955.1 retrotransposable element/transposon Tf2-type [Schizosaccharomyces pombe]",
+                "Z-Score": -1.134099,
+                "Confidence Score (%)": 87.16
+            },
+            {
+                "Score": "0.902",
+                "Protein ID": "NP_001018276.1 retrotransposable element/transposon Tf2-type [Schizosaccharomyces pombe]",
+                "Z-Score": -1.134099,
+                "Confidence Score (%)": 87.16
+            },
+            {
+                "Score": "0.902",
+                "Protein ID": "NP_593984.1 retrotransposable element/transposon Tf2-type [Schizosaccharomyces pombe]",
+                "Z-Score": -1.134099,
+                "Confidence Score (%)": 87.16
+            },
+            {
+                "Score": "0.902",
+                "Protein ID": "NP_594409.1 retrotransposable element/transposon Tf2-type [Schizosaccharomyces pombe]",
+                "Z-Score": -1.134099,
+                "Confidence Score (%)": 87.16
+            }
+        ]
+    },
+    {
+        ">NP_058134.1 gag protein [Saccharomyces cerevisiae S288C]": [
+            {
+                "Score": "1.125",
+                "Protein ID": "NP_001417984.1 LOW QUALITY PROTEIN: retrotransposable element/transposon Tf2-type [Schizosaccharomyces pombe]",
+                "Z-Score": -1.170506,
+                "Confidence Score (%)": 87.91
+            },
+            {
+                "Score": "1.129",
+                "Protein ID": "NP_001417963.1 LOW QUALITY PROTEIN: retrotransposable element/transposon Tf2-type [Schizosaccharomyces pombe]",
+                "Z-Score": -1.06246,
+                "Confidence Score (%)": 85.6
+            },
+            {
+                "Score": "1.130",
+                "Protein ID": "NP_596839.1 retrotransposable element/transposon Tf2-type [Schizosaccharomyces pombe]",
+                "Z-Score": -1.035448,
+                "Confidence Score (%)": 84.98
+            },
+            {
+                "Score": "1.134",
+                "Protein ID": "NP_594898.2 retrotransposable element/transposon Tf2-type [Schizosaccharomyces pombe]",
+                "Z-Score": -0.927401,
+                "Confidence Score (%)": 82.31
+            },
+            {
+                "Score": "1.134",
+                "Protein ID": "NP_594897.1 retrotransposable element/transposon Tf2-type [Schizosaccharomyces pombe]",
+                "Z-Score": -0.927401,
+                "Confidence Score (%)": 82.31
+            }
+        ]
+    },
+    {
+        ">NP_012184.1 gag-pol fusion protein [Saccharomyces cerevisiae S288C]": [
+            {
+                "Score": "0.434",
+                "Protein ID": "NP_001417984.1 LOW QUALITY PROTEIN: retrotransposable element/transposon Tf2-type [Schizosaccharomyces pombe]",
+                "Z-Score": -1.148027,
+                "Confidence Score (%)": 87.45
+            },
+            {
+                "Score": "0.434",
+                "Protein ID": "NP_594897.1 retrotransposable element/transposon Tf2-type [Schizosaccharomyces pombe]",
+                "Z-Score": -1.148027,
+                "Confidence Score (%)": 87.45
+            },
+            {
+                "Score": "0.434",
+                "Protein ID": "NP_594898.2 retrotransposable element/transposon Tf2-type [Schizosaccharomyces pombe]",
+                "Z-Score": -1.148027,
+                "Confidence Score (%)": 87.45
+            },
+            {
+                "Score": "0.435",
+                "Protein ID": "NP_594409.1 retrotransposable element/transposon Tf2-type [Schizosaccharomyces pombe]",
+                "Z-Score": -1.14496,
+                "Confidence Score (%)": 87.39
+            },
+            {
+                "Score": "0.435",
+                "Protein ID": "NP_593984.1 retrotransposable element/transposon Tf2-type [Schizosaccharomyces pombe]",
+                "Z-Score": -1.14496,
+                "Confidence Score (%)": 87.39
+            }
+        ]
+    },
+    {
+        ">NP_011624.1 gag-pol fusion protein [Saccharomyces cerevisiae S288C]": [
+            {
+                "Score": "0.399",
+                "Protein ID": "NP_594897.1 retrotransposable element/transposon Tf2-type [Schizosaccharomyces pombe]",
+                "Z-Score": -1.147873,
+                "Confidence Score (%)": 87.45
+            },
+            {
+                "Score": "0.399",
+                "Protein ID": "NP_594898.2 retrotransposable element/transposon Tf2-type [Schizosaccharomyces pombe]",
+                "Z-Score": -1.147873,
+                "Confidence Score (%)": 87.45
+            },
+            {
+                "Score": "0.399",
+                "Protein ID": "NP_001417984.1 LOW QUALITY PROTEIN: retrotransposable element/transposon Tf2-type [Schizosaccharomyces pombe]",
+                "Z-Score": -1.147873,
+                "Confidence Score (%)": 87.45
+            },
+            {
+                "Score": "0.400",
+                "Protein ID": "NP_001018276.1 retrotransposable element/transposon Tf2-type [Schizosaccharomyces pombe]",
+                "Z-Score": -1.144938,
+                "Confidence Score (%)": 87.39
+            },
+            {
+                "Score": "0.400",
+                "Protein ID": "NP_587955.1 retrotransposable element/transposon Tf2-type [Schizosaccharomyces pombe]",
+                "Z-Score": -1.144938,
+                "Confidence Score (%)": 87.39
+            }
+        ]
+    },
+    {
+        ">NP_012421.2 gag-pol fusion protein [Saccharomyces cerevisiae S288C]": [
+            {
+                "Score": "0.850",
+                "Protein ID": "NP_001417984.1 LOW QUALITY PROTEIN: retrotransposable element/transposon Tf2-type [Schizosaccharomyces pombe]",
+                "Z-Score": -1.144142,
+                "Confidence Score (%)": 87.37
+            },
+            {
+                "Score": "0.852",
+                "Protein ID": "NP_001417963.1 LOW QUALITY PROTEIN: retrotransposable element/transposon Tf2-type [Schizosaccharomyces pombe]",
+                "Z-Score": -1.13214,
+                "Confidence Score (%)": 87.12
+            },
+            {
+                "Score": "0.853",
+                "Protein ID": "NP_594156.1 retrotransposable element/transposon Tf2-type [Schizosaccharomyces pombe]",
+                "Z-Score": -1.12614,
+                "Confidence Score (%)": 86.99
+            },
+            {
+                "Score": "0.853",
+                "Protein ID": "NP_001018800.2 retrotransposable element/transposon Tf2-type [Schizosaccharomyces pombe]",
+                "Z-Score": -1.12614,
+                "Confidence Score (%)": 86.99
+            },
+            {
+                "Score": "0.853",
+                "Protein ID": "NP_593385.2 retrotransposable element/transposon Tf2-type [Schizosaccharomyces pombe]",
+                "Z-Score": -1.12614,
+                "Confidence Score (%)": 86.99
+            }
+        ]
+    },
+    {
+        ">NP_001291944.1 gag-pol fusion protein [Saccharomyces cerevisiae S288C]": [
+            {
+                "Score": "0.806",
+                "Protein ID": "NP_001417984.1 LOW QUALITY PROTEIN: retrotransposable element/transposon Tf2-type [Schizosaccharomyces pombe]",
+                "Z-Score": -1.138913,
+                "Confidence Score (%)": 87.26
+            },
+            {
+                "Score": "0.807",
+                "Protein ID": "NP_001417963.1 LOW QUALITY PROTEIN: retrotransposable element/transposon Tf2-type [Schizosaccharomyces pombe]",
+                "Z-Score": -1.13331,
+                "Confidence Score (%)": 87.15
+            },
+            {
+                "Score": "0.810",
+                "Protein ID": "NP_593385.2 retrotransposable element/transposon Tf2-type [Schizosaccharomyces pombe]",
+                "Z-Score": -1.116501,
+                "Confidence Score (%)": 86.79
+            },
+            {
+                "Score": "0.810",
+                "Protein ID": "NP_593347.1 retrotransposable element/transposon Tf2-type [Schizosaccharomyces pombe]",
+                "Z-Score": -1.116501,
+                "Confidence Score (%)": 86.79
+            },
+            {
+                "Score": "0.810",
+                "Protein ID": "NP_594156.1 retrotransposable element/transposon Tf2-type [Schizosaccharomyces pombe]",
+                "Z-Score": -1.116501,
+                "Confidence Score (%)": 86.79
+            }
+        ]
+    },
+    {
+        ">NP_058133.1 gag-pol fusion protein [Saccharomyces cerevisiae S288C]": [
+            {
+                "Score": "0.815",
+                "Protein ID": "NP_001417984.1 LOW QUALITY PROTEIN: retrotransposable element/transposon Tf2-type [Schizosaccharomyces pombe]",
+                "Z-Score": -1.133466,
+                "Confidence Score (%)": 87.15
+            },
+            {
+                "Score": "0.816",
+                "Protein ID": "NP_001417963.1 LOW QUALITY PROTEIN: retrotransposable element/transposon Tf2-type [Schizosaccharomyces pombe]",
+                "Z-Score": -1.127775,
+                "Confidence Score (%)": 87.03
+            },
+            {
+                "Score": "0.818",
+                "Protein ID": "NP_593347.1 retrotransposable element/transposon Tf2-type [Schizosaccharomyces pombe]",
+                "Z-Score": -1.116393,
+                "Confidence Score (%)": 86.79
+            },
+            {
+                "Score": "0.818",
+                "Protein ID": "NP_001018800.2 retrotransposable element/transposon Tf2-type [Schizosaccharomyces pombe]",
+                "Z-Score": -1.116393,
+                "Confidence Score (%)": 86.79
+            },
+            {
+                "Score": "0.818",
+                "Protein ID": "NP_593385.2 retrotransposable element/transposon Tf2-type [Schizosaccharomyces pombe]",
+                "Z-Score": -1.116393,
+                "Confidence Score (%)": 86.79
+            }
+        ]
+    }
+]
