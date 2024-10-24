@@ -1,7 +1,7 @@
-Saksh, below are a few approaches to compute significance of the found similarity. Start implementing them.
-I will generate embeddings between 2 annotated organisms baker's yeast vs fission yeast, where the proteins are known and annotated.
-We will be able to check the significance metrics based on them. 
+Saksh, below are a few approaches to compute significance of the found similarity. Start implementing them. I will generate embeddings between 2 annotated organisms baker's yeast vs fission yeast, where the proteins are known and annotated. We will be able to check the significance metrics based on them. 
     
+
+
 Possible:
 
 Ensemble Similarity Computation: 
@@ -17,6 +17,8 @@ Distribution-Based Index:
 Fit the similarity values to a known probability distribution (e.g., Gaussian, exponential). 
 If the similarity of a top hit lies in the tail of this distribution, it is likely significant.
 
+
+
 Vector Approaches:
 
 Vector Magnitude Analysis: 
@@ -25,9 +27,11 @@ Large magnitudes, combined with high cosine similarity, may indicate that the ma
 to result from chance (since the similarity between larger vectors is often more meaningful).
 
 Entropy-Based Measures
-    Similarity Entropy: 
-        Compute the entropy of the cosine similarity scores for the top-N hits. Lower entropy suggests that the 
-        similarity values are more deterministic and significant.
+Similarity Entropy: 
+Compute the entropy of the cosine similarity scores for the top-N hits. Lower entropy suggests that the 
+similarity values are more deterministic and significant.
+
+
 
 huh?:
 
