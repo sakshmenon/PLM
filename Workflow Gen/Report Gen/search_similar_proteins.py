@@ -9,6 +9,7 @@ import os
 import sys
 import argparse
 import time
+import math
 
 import numpy as np
 import pandas as pd
@@ -21,6 +22,8 @@ from scipy.spatial.distance import cdist
 from scipy import stats
 import json
 import re
+import matplotlib.pyplot as plt
+import seaborn as sns
 
 import warnings
 warnings.filterwarnings("ignore")
@@ -109,6 +112,37 @@ def query_ref_df_gen(query_file, ref_file):
 
     return query_df, qindex_df, ref_df, rindex_df
 
+def plot_distribution(data):
+    mean = sum(data)/len(data)
+    # Set the style for better aesthetics
+    sns.set(style="whitegrid")
+
+    # Create a figure and axes for the subplots
+    fig, axes = plt.subplots(1, 2, figsize=(18, 8))
+
+    # KDE Plot
+    sns.kdeplot(data, shade=True, color='purple', ax=axes[0])
+    axes[0].set_title('Kernel Density Estimation (KDE)')
+    axes[0].set_xlabel('Data Values')
+    axes[0].set_ylabel('Density')
+
+    axes[0].axvline(mean, color='red', linestyle='--', linewidth=2, label=f'Mean = {mean:.2f}')
+    axes[0].legend()
+
+    # Histogram with KDE overlay
+    sns.histplot(data, bins=30, kde=True, color='green', ax=axes[1])
+    axes[1].set_title('Histogram with KDE')
+    axes[1].set_xlabel('Data Values')
+    axes[1].set_ylabel('Density')
+
+    axes[1].axvline(mean, color='red', linestyle='--', linewidth=2, label=f'Mean = {mean:.2f}')
+    axes[1].legend()
+
+    # Display the plots
+    plt.suptitle('Distribution Plots of Continuous Data', fontsize=16)
+    plt.tight_layout(rect=[0, 0, 1, 0.96])  # Adjust layout to fit title
+    plt.show()
+
 # Main similarity search function
 def similarity_search(query_embeddings, query_protein_ids, reference_embeddings, reference_protein_ids, method, top_k, format, reference_file, query_file, query_df, qindex_df, ref_df, rindex_df):
     # Initialize the search model
@@ -155,14 +189,15 @@ def similarity_search(query_embeddings, query_protein_ids, reference_embeddings,
         total_time = 0
 
         score_report = []
+        z_scores = []
 
         for query_id, query_embedding in zip(query_protein_ids, query_embeddings):
             sub_report = {'Query' : {"ID": '', "Time": '', "Matches" : [], "Score" : []}}
             start_time = time.time()
             if search_model is None:
-                top_indices, distances = search_func(query_embedding, reference_embeddings, 30)
+                top_indices, distances = search_func(query_embedding, reference_embeddings, 10)
             else:
-                top_indices, distances = search_func(search_model, query_embedding, 30)
+                top_indices, distances = search_func(search_model, query_embedding, 10)
             end_time = time.time()
     
             scores_diff = [(distances[0]/i) for i in distances[1:]]
@@ -175,7 +210,7 @@ def similarity_search(query_embeddings, query_protein_ids, reference_embeddings,
 #            mean_dist, conf_int = compute_confidence_interval(distances)
             query = re.findall(pat, query_id)[0]
             if flag:
-                sub_report['Query']['ID'] = query
+                sub_report['Query']['ID'] = query_id
             else:
                 if out_file_flag:
                     output_file_obj.write(f"\nQuery:\t{query_id}\n")
@@ -183,6 +218,7 @@ def similarity_search(query_embeddings, query_protein_ids, reference_embeddings,
                     print(f"\nQuery:\t{query_id}\n")
 
 #            print(f"Top {top_k} similar proteins (distance,match):")
+
             for i, (idx, dist) in enumerate(zip(top_indices, distances[:top_k])):
                 match = re.findall(pat, reference_protein_ids[idx])[0]
 
@@ -196,7 +232,7 @@ def similarity_search(query_embeddings, query_protein_ids, reference_embeddings,
                 score = cosine_similarity([query_vector], [ref_vector])
 
                 if flag:
-                    sub_report['Query']['Matches'].append(({"ID": match, "Score": round(float(score[0]), ndigits=5)}))
+                    sub_report['Query']['Matches'].append(({"ID": reference_protein_ids[idx], "Score": round(float(dist), ndigits=5)}))
                 else:
                     if out_file_flag:
                         output_file_obj.write(f"Top{i+1}:\t{dist:.3f}\t{reference_protein_ids[idx]}\n")
@@ -205,18 +241,44 @@ def similarity_search(query_embeddings, query_protein_ids, reference_embeddings,
 
             z_score = (scores_diff[0] - mean_dist) / std_score 
             z_score = round(z_score, 6)
+            z_scores.append(z_score)
             p_value = 1 - stats.norm.cdf(z_score)
             p_value = round(p_value, 6)
+            gap_score = scores_diff[0]
+            normalized_gap_score = distances[0]/max(distances)
+
+            inv_normalized_gap_score = 1 - (distances[0]/max(distances))
+            relative_dist = distances[1]/distances[0]
+            sig_relative_dist = 1/(1+math.e**-relative_dist)
+
+            dist_dist = 1 - std_score/distances[0]
+            sig_dist_dist = 1/(1+math.e**-dist_dist)
+
+            weighted_metric = inv_normalized_gap_score + sig_relative_dist + sig_dist_dist
 
             if flag:
-                sub_report['Query']['Score'].append(({"Z Score": z_score, "P Value": p_value}))
+                sub_report['Query']['Score'].append(({"Z Score": z_score, "P Value": p_value, "Gap Score" : gap_score, "Normalized Euclidean Distance" : normalized_gap_score, 
+                                                      "Normalized Absolute Distance" : inv_normalized_gap_score, "Relative Distance" : sig_relative_dist, "Distance Distribution" : sig_dist_dist, "Weighted Metric" : weighted_metric}))
             else:
                 if out_file_flag:
+                    output_file_obj.write("T1/T2 Gap Score: " + str(gap_score) + "\n")
+                    output_file_obj.write("Normalized Euclidean Distance: " + str(normalized_gap_score) + "\n")
                     output_file_obj.write("Z Score: " + str(z_score) + "\n")
                     output_file_obj.write("P Value: " + str(p_value) + "\n")
+                    output_file_obj.write("Normalized Absolute Distance: " + str(inv_normalized_gap_score) + "\n")
+                    output_file_obj.write("Relative Distance: " + str(sig_relative_dist) + "\n")
+                    output_file_obj.write("Distance Distribution: " + str(sig_dist_dist) + "\n")
+                    output_file_obj.write("Weighted Confidence Metric: " + str(weighted_metric) + "\n")
+
                 else:
+                    print("Gap Score: ", gap_score, "\n")
+                    print("Normalized Gap Score: ", normalized_gap_score, "\n")
                     print("Z Score: ", z_score, "\n")
                     print("P Value: ", p_value, "\n")
+                    print("Normalized Absolute Distance: " , inv_normalized_gap_score)
+                    print("Relative Distance: ", sig_relative_dist)
+                    print("Distance Distribution: ", sig_dist_dist)
+                    print("Weighted Confidence Metric: " , weighted_metric)
 
 #            print(f"  Mean distance: {mean_dist:.3f}, Confidence interval: {conf_int}")
 
@@ -251,6 +313,8 @@ def similarity_search(query_embeddings, query_protein_ids, reference_embeddings,
                 print(f"Total search time for {method_name}: {total_time:.5f} seconds")
                 avg_time = total_time / len(query_embeddings)
                 print(f"Average search time for {method_name}: {avg_time:.5f} seconds")
+
+        # plot_distribution(z_scores)
 
 
 
