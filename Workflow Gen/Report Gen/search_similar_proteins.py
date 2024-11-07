@@ -4,7 +4,8 @@
 # pip install numpy pandas scikit-learn scipy umap-learn hnswlib faiss-cpu
 # load anaconda module before running the script:
 # module load anaconda3
-
+# !pip install faiss-cpu
+# !pip install hnswlib
 import os
 import sys
 import argparse
@@ -17,8 +18,8 @@ from sklearn.neighbors import BallTree
 from sklearn.metrics import pairwise_distances
 from sklearn.metrics.pairwise import cosine_similarity
 from scipy.spatial.distance import cdist
-# import hnswlib
-# import faiss
+import hnswlib
+import faiss
 from scipy import stats
 import json
 import re
@@ -192,7 +193,7 @@ def similarity_search(query_embeddings, query_protein_ids, reference_embeddings,
         z_scores = []
 
         for query_id, query_embedding in zip(query_protein_ids, query_embeddings):
-            sub_report = {'Query' : {"ID": '', "Time": '', "Matches" : [], "Score" : []}}
+            sub_report = {'Query' : {"ID": '', "Time": '', "Matches" : [], "Confidence" : ''}}
             start_time = time.time()
             if search_model is None:
                 top_indices, distances = search_func(query_embedding, reference_embeddings, 10)
@@ -239,47 +240,16 @@ def similarity_search(query_embeddings, query_protein_ids, reference_embeddings,
                     else:
                         print(f"Top{i+1}:\t{dist:.3f}\t{reference_protein_ids[idx]}\n")
 
-            z_score = (scores_diff[0] - mean_dist) / std_score 
-            z_score = round(z_score, 6)
-            z_scores.append(z_score)
-            p_value = 1 - stats.norm.cdf(z_score)
-            p_value = round(p_value, 6)
-            gap_score = scores_diff[0]
-            normalized_gap_score = distances[0]/max(distances)
-
-            inv_normalized_gap_score = 1 - (distances[0]/max(distances))
-            relative_dist = distances[1]/distances[0]
-            sig_relative_dist = 1/(1+math.e**-relative_dist)
-
-            dist_dist = 1 - std_score/distances[0]
-            sig_dist_dist = 1/(1+math.e**-dist_dist)
-
-            weighted_metric = inv_normalized_gap_score + sig_relative_dist + sig_dist_dist
+            d_ratio = distances[0]/np.array(distances).mean()
 
             if flag:
-                sub_report['Query']['Score'].append(({"Z Score": z_score, "P Value": p_value, "Gap Score" : gap_score, "Normalized Euclidean Distance" : normalized_gap_score, 
-                                                      "Normalized Absolute Distance" : inv_normalized_gap_score, "Relative Distance" : sig_relative_dist, "Distance Distribution" : sig_dist_dist, "Weighted Metric" : weighted_metric}))
+                sub_report['Query']['Confidence'] = round(1 - float(d_ratio), 6)
             else:
                 if out_file_flag:
-                    output_file_obj.write("T1/T2 Gap Score: " + str(gap_score) + "\n")
-                    output_file_obj.write("Normalized Euclidean Distance: " + str(normalized_gap_score) + "\n")
-                    output_file_obj.write("Z Score: " + str(z_score) + "\n")
-                    output_file_obj.write("P Value: " + str(p_value) + "\n")
-                    output_file_obj.write("Normalized Absolute Distance: " + str(inv_normalized_gap_score) + "\n")
-                    output_file_obj.write("Relative Distance: " + str(sig_relative_dist) + "\n")
-                    output_file_obj.write("Distance Distribution: " + str(sig_dist_dist) + "\n")
-                    output_file_obj.write("Weighted Confidence Metric: " + str(weighted_metric) + "\n")
+                    output_file_obj.write("Confidence: " + str(round(1 - d_ratio, 6)) + "\n")
 
                 else:
-                    print("Gap Score: ", gap_score, "\n")
-                    print("Normalized Gap Score: ", normalized_gap_score, "\n")
-                    print("Z Score: ", z_score, "\n")
-                    print("P Value: ", p_value, "\n")
-                    print("Normalized Absolute Distance: " , inv_normalized_gap_score)
-                    print("Relative Distance: ", sig_relative_dist)
-                    print("Distance Distribution: ", sig_dist_dist)
-                    print("Weighted Confidence Metric: " , weighted_metric)
-
+                    print("Confidence: ", round(1 - d_ratio,6))
 #            print(f"  Mean distance: {mean_dist:.3f}, Confidence interval: {conf_int}")
 
             if flag:
@@ -379,4 +349,4 @@ if __name__ == "__main__":
     # query_embeddings, query_protein_ids = load_protein_embeddings('/Users/sakshmenon/Desktop/results/workflow files/s_pombe_protein.csv')
     
     # query_df, qindex_df, ref_df, rindex_df = query_ref_df_gen('/Users/sakshmenon/Desktop/results/workflow files/s_pombe_protein.csv', '/Users/sakshmenon/Desktop/results/workflow files/s_cerevisiae_protein.csv')
-    # similarity_search(query_embeddings, query_protein_ids, reference_embeddings, reference_protein_ids, 'bfs', 3, 'json', '/Users/sakshmenon/Desktop/results/workflow files/s_cerevisiae_protein.csv', '/Users/sakshmenon/Desktop/results/workflow files/s_pombe_protein.csv', query_df, qindex_df, ref_df, rindex_df)
+    # similarity_search(query_embeddings, query_protein_ids, reference_embeddings, reference_protein_ids, 'faiss', 3, 'json', '/Users/sakshmenon/Desktop/results/workflow files/s_cerevisiae_protein.csv', '/Users/sakshmenon/Desktop/results/workflow files/s_pombe_protein.csv', query_df, qindex_df, ref_df, rindex_df)
